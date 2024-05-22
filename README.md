@@ -21,8 +21,7 @@ icon:phone 0467239975
 
 ## Career Objective
 
-Experienced software engineer with a passion for cutting-edge tech and agile development. Proficient in JavaScript, TypeScript, C#, PHP. Skilled in Azure, AWS. Strong work ethic, project management abilities, seeking growth in full-stack roles.
-
+Experienced software engineer with a passion for cutting-edge tech and agile development. Proficient in JavaScript, TypeScript, C#, and PHP. Skilled in Azure and AWS. Strong work ethic and project management abilities. Seeking growth in full-stack roles with a desire to become a versatile generalist in coding, expanding my expertise across diverse technologies and frameworks.
 ## Skills
 
 | <h3>Coding Languages:</h3>              | <h3>Back-End:</h3>                                      | <h3>Front-End:</h3>                               |
