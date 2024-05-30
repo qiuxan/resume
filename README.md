@@ -21,7 +21,7 @@ icon:phone 0467239975
 
 ## Career Objective
 
-Experienced software engineer with a passion for cutting-edge tech and agile development. Proficient in JavaScript, TypeScript, C#, and PHP. Skilled in Azure and AWS. Strong work ethic and project management abilities. Seeking growth in full-stack roles with a desire to become a versatile generalist in coding, expanding my expertise across diverse technologies and frameworks.
+Experienced SDE with a passion for cutting-edge tech and agile development. Proficient in JavaScript, TypeScript, C#, and PHP. Skilled in Azure and AWS. Strong work ethic and project management abilities. Seeking growth in full-stack roles with a desire to become a versatile generalist in coding, expanding my expertise across diverse technologies and frameworks.
 
 ## Skills
 
@@ -40,8 +40,8 @@ Experienced software engineer with a passion for cutting-edge tech and agile dev
 * Analyze client needs, create Jira tickets from storyboards, and design with WCAG standards. Liaise with clients on projects, budgets, and tech, guiding code changes through QA to production. Explain technical details to non-technical stakeholders.
 * ****Achievement****: 
   * Lead developer of the Angular update from version 14 to version 17 for RM Australia’ s key SaaS platform —Assessment Master (https://am.sonet.com.au)
-  * One of the leading developers of Project PISA2025 (Programme for International Student Assessment: https://www.oecd.org/pisa/ ). Individually developed 2 modules;
-  * Algorithm Designer and Developer of the Blockly(https://blockly.games/) machine marking of ICILS Project (https://icils.acer.org/) (International Computer and Information Literacy Study), develop a recursive algorithm to transfer a XML string to a working coding piece and get a result for coding exams.
+  * One of the leading developers of Project PISA2025 (Programme for International Student Assessment: https://www.oecd.org/pisa/ ) for Organisation for Economic Co-operation and Development. Individually developed 2 modules;
+  * Algorithm Designer and Developer of the Blockly(https://blockly.games/) machine marking of ICILS Project (https://icils.acer.org/) (International Computer and Information Literacy Study) for International Association for the Evaluation of Educational Achievement, develop a recursive algorithm to transfer a XML string to a working coding piece and get a result for coding exams.
  ##### -- Node.js,Angular, PHP, Algorithm design, AngularJs, PostgreSQL, Back-end API Development, Front-end HTTP request/response Development, MVC, Vanilla JavaScript, jQuery, CSS/SCSS,Yii, Gitlab, GitHub, Azure DevOps Service, and Jira.
 ### Letour Cycles —— `E-commerce Web Developer ( Dec 2019 - Oct-2021)`
 * Develop and deploy a Shopify E-commerce shop;
