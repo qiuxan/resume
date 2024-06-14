@@ -13,7 +13,7 @@ University of Tasmania
 
 [icon:github https://github.com/qiuxan](https://github.com/qiuxan)
 
-[icon:email qiuxan@gmail.com](mailto:qiuxan@gmail.com)
+[icon:email ian.dev.q@gmail.com](mailto:ian.dev.q@gmail.com)
 
 icon:phone 0467239975
 
