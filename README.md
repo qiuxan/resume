@@ -34,6 +34,7 @@ Experienced SDE with a passion for cutting-edge tech and agile development. Prof
 ## Experience
 ### RM PLC Australia (LSE Listed, Code: *RM..UK*) —— `Software Engineer  ( Oct 2021 - Now)`
 * Fast-pace SaaS full stack dev: DB data retrieval, API packing, HTTP requests for frontend, UI/UX dev, handling frontend requests, SQL data manipulation for HTTP responses.
+* Improving the application UI to comply with WCAG 2.0 to 2.2 standards, often requiring detailed examination and modification of third-party library source code.
 * Utilize Jira for sprint-based project management: write stories, tasks, and bugs; size story points; communicate with QA, PM, PO, client, UI/UX; peer review code.
 * Use Azure DevOps Server for DevOps and CI/CD: Git, deployment, test environment management, etc.
 * Design and Develop Algorithms to process raw data (student answers) and auto-generate reports (scoring results).
@@ -41,6 +42,7 @@ Experienced SDE with a passion for cutting-edge tech and agile development. Prof
 * ****Achievement****: 
   * Lead developer of the Angular update from version 14 to version 17 for RM Australia’ s key SaaS platform —Assessment Master (https://am.sonet.com.au)
   * One of the leading developers of Project PISA2025 (Programme for International Student Assessment: https://www.oecd.org/pisa/ ) for Organisation for Economic Co-operation and Development. Individually developed 2 modules;
+  * Lead developer of updating Data Visualization tool (D3.js) from V4 to V7.9 of Assessment Master (https://am.sonet.com.au)
   * Algorithm Designer and Developer of the Blockly(https://blockly.games/) machine marking of ICILS Project (https://icils.acer.org/) (International Computer and Information Literacy Study) for International Association for the Evaluation of Educational Achievement, develop a recursive algorithm to transfer a XML string to a working coding piece and get a result for coding exams.
  ##### -- Node.js,Angular, PHP, Algorithm design, AngularJs, PostgreSQL, Back-end API Development, Front-end HTTP request/response Development, MVC, Vanilla JavaScript, jQuery, CSS/SCSS,Yii, Gitlab, GitHub, Azure DevOps Service, and Jira.
 ### Letour Cycles —— `E-commerce Web Developer ( Dec 2019 - Oct-2021)`
