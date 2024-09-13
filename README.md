@@ -73,25 +73,7 @@ Experienced SDE with a passion for cutting-edge tech and agile development. Prof
 
 * **Achievement**: 100% for 2 major assignments and tutorial work for KXT309 Advanced Dynamic Web Development (LAMP development and Javascript/jQuery).
 
-## Personal Projects
 
-* Book Shop project(.Net Core )
-  
-  * Project link: [ https://bulkyproject-ian.azurewebsites.net/](https://bulkyproject-ian.azurewebsites.net/)   
-  * GitHub Link: [https://github.com/qiuxan/Bulky]()
-
-* Game Hub Project( React 18 + TypeScript to fetch data from ([RAWG Video Games Database API](https://api.rawg.io/docs/)) )
-  
-  * Project link: [ https://game-748lq44hq-qiuxan.vercel.app/](https://game-hub-qiuxan.vercel.app/)   
-  * GitHub Link: [https://github.com/qiuxan/Game-Hub-Project]()
-
-* Natours Project(MVC API service + SSR using Express.js+MongoDB)
-  
-  * GitHub Link: [https://github.com/qiuxan/natours]()
-
-* Issue Tracker(Next.js, React, SSR Using React)
-  
-  * GitHub Link: [https://github.com/qiuxan/issue-tracker]()
 
 ## Reference
 
