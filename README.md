@@ -55,8 +55,9 @@ Experienced SDE with a passion for cutting-edge tech and agile development. Prof
    * Lead developer of the Angular update from version 14 to version 17 for RM Australia’ s key SaaS platform —Assessment Master (https://am.sonet.com.au)
     * Algorithm Designer and Developer of the Blockly(https://blockly.games/) machine marking of ICILS Project (https://icils.acer.org/) (International Computer and Information Literacy Study) for International Association for the Evaluation of Educational Achievement, develop a recursive algorithm to transfer a XML string to a working coding piece and get a result for coding exams.
      * Lead developer of updating Data Visualization tool (D3.js) from V4 to V7.9 of Assessment Master (https://am.sonet.com.au)
+     * Drive the design and implementation of Test-Driven Development(TDD) methodologies, setting best practices and guidelines within the software development lifecycle to improve code quality and testing standards.
 #
-##### -- C#, .Net Coure, Node.js, Angular, PHP, Algorithm design, AngularJs, PostgreSQL, SQL Server, Back-end API Development, Front-end HTTP request/response Development, MVC, Vanilla JavaScript, jQuery, CSS/SCSS,Yii, Gitlab, GitHub, Azure DevOps Service, and Jira.
+##### -- C#, .Net Coure, Node.js, Angular, PHP, Algorithm design, AngularJs, Test-Driven Development(TDD), PostgreSQL, SQL Server, Back-end API Development, Front-end HTTP request/response Development, MVC, Vanilla JavaScript, jQuery, CSS/SCSS,Yii, Gitlab, GitHub, Azure DevOps Service, and Jira.
 #
      
    ### Letour Cycles —— `E-commerce Web Developer ( Dec 2019 - Oct-2021)`
