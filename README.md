@@ -52,7 +52,7 @@ Experienced SDE with a passion for cutting-edge tech and agile development. Prof
 * ****Achievement****: 
   
   * Lead developer for Project PISA2025 (Programme for International Student Assessment) at the OECD ([https://www.oecd.org/en.html]()). Joined as a __RM new starter__ when the __project lead left RM__, taking on PM, BA, and Developer responsibilities. Independently developed two modules, directly discussed and negotiated requirements with the client, delivered progress updates, and set project deadlines.
-   * Lead developer of the Angular update from version 14 to version 17 for RM Australia’ s key SaaS platform —Assessment Master (https://am.sonet.com.au)
+   * Lead developer of the Angular update from version 14 to version 18 for RM Australia’ s key SaaS platform —Assessment Master (https://am.sonet.com.au)
     * Algorithm Designer and Developer of the Blockly(https://blockly.games/) machine marking of ICILS Project (https://icils.acer.org/) (International Computer and Information Literacy Study) for International Association for the Evaluation of Educational Achievement, develop a recursive algorithm to transfer a XML string to a working coding piece and get a result for coding exams.
      * Lead developer of updating Data Visualization tool (D3.js) from V4 to V7.9 of Assessment Master (https://am.sonet.com.au)
      * Drive the design and implementation of Test-Driven Development(TDD) methodologies, setting best practices and guidelines within the software development lifecycle to improve code quality and testing standards.
