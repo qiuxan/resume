@@ -1,6 +1,6 @@
 ::: left
 
-# Ian Qiu
+<b style="font-size: 24px;">Ian Qiu</b>
 
 University of Tasmania
 **Bachelor(Hons) of Computing**
@@ -21,7 +21,7 @@ icon:phone 0467239975
 
 ## Career Objective
 
-Experienced SDE with a passion for cutting-edge tech and agile development. Proficient in JavaScript, TypeScript, C#, and PHP. Skilled in Azure and AWS. Strong work ethic and project management abilities. Seeking growth in full-stack roles with a desire to become a versatile generalist in coding, expanding my expertise across diverse technologies and frameworks.
+Experienced SDE with a passion for cutting-edge tech and agile development. Proficient in TypeScript, C#, and PHP. Skilled in Azure and AWS, with strong project management and full-stack development expertise. Seeking growth as a versatile generalist, expanding across diverse technologies and frameworks.
 
 ## Skills
 
@@ -76,8 +76,9 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
     * Algorithm Designer and Developer of the Blockly(https://blockly.games/) machine marking of ICILS Project (https://icils.acer.org/) (International Computer and Information Literacy Study) for International Association for the Evaluation of Educational Achievement, develop a recursive algorithm to transfer a XML string to a working coding piece and get a result for coding exams.
      * Lead developer of updating Data Visualization tool (D3.js) from V4 to V7.9 of Assessment Master (https://am.sonet.com.au)
      * Drive the design and implementation of Test-Driven Development(TDD) methodologies, setting best practices and guidelines within the software development lifecycle to improve code quality and testing standards.
-#
+
 ##### -- __C#, .Net Core, Node.js, Angular, PHP, TypeScript, Algorithm design, AngularJS, Test-Driven Development (TDD), PostgreSQL, SQL Server, Back-end API Development, Front-end HTTP request/response Development, MVC, Vanilla JavaScript, jQuery, CSS/SCSS, Yii, GitLab, GitHub, Azure DevOps Service, Jira__
+
 #
      
    ### Letour Cycles —— `E-commerce Web Developer ( Dec 2019 - Oct-2021)`
@@ -91,9 +92,9 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 * __Product Page Development__: Built and maintained product pages using Neto E-commerce and Shopify platforms.
 
 * __Data Monitoring__: Monitored and ensured smooth data exchange for orders and tracking information across multiple platforms.
-#  
+
 ##### -- __CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics__
-  
+#  
   ### Australian Trading Bridge —— `Full Stack PHP Laravel Developer ( Jan 2018 - Dec 2019 )`
 
 * __Product Management System Development__: Developed a printing product management system and E-commerce website using Laravel 5.  
@@ -106,7 +107,6 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 
 * __System Optimization__: Optimized performance by resolving N+1 query issues and implemented custom middleware to support new features.  
 
-#
 ##### --  __Laravel, HTML, CSS, MySQL, LAMP Development__
 # 
   ### FHL Group —— `IT support ( 2016 - 2018 )`
@@ -119,9 +119,8 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 
 * __API Communication__: Maintained seamless API communication between the company and carriers.  
 
-#  
 ##### -- __CSS, HTML, JavaScript__
-#  
+ 
 
 ## Education
   
@@ -132,7 +131,7 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 * **Honours Research Thesis Project**: Using Hopfield Network to Understand Alzheimer’s Disease (Artificial Intelligence, Artificial Neural Network, Neural Science,  MATLAB, Statistics);
 
 * **Achievement**: __100%__ for 2 major assignments and tutorial work for KXT309 Advanced Dynamic Web Development (LAMP and Javascript/jQuery full-stack project).
-#
+
 
 
 ## Reference
