@@ -31,6 +31,23 @@ Experienced SDE with a passion for cutting-edge tech and agile development. Prof
 | <h3>Database:</h3>                                    | <h3>Cloud:</h3>                                         | <h3>CI/CD Process:</h3>                           |
 | MySQL,PostgreSQL,SQL Server, MongoDB,                 | Azure(App Service), Vercel, AWS(EC2), MongoDB Atlas     | GitHub, GitLab, Jira,Azure DevOps Server          |
 
+## Projects
+
+### Assessment Master ([https://am.sonet.com.au/](https://am.sonet.com.au/))
+
+Assessment Master is a feature-rich, accessible online assessment platform designed to support flexible, remote testing across multiple delivery methods. Trusted by national and international organizations—including governments, universities, schools, and enterprises—Assessment Master enables the assessment of various competencies such as numeracy, literacy, and ICT literacy for thousands of students worldwide
+
+### ICILS 2023([https://nces.ed.gov/surveys/icils/partners.asp](https://nces.ed.gov/surveys/icils/partners.asp))
+The International Association for the Evaluation of Educational Achievement (IEA) is the international study center and coordinating body for ICILS 2023
+
+### PISA 2023([https://www.oecd.org/en/about/programmes/pisa.html](https://www.oecd.org/en/about/programmes/pisa.html))
+Created by the Organisation for Economic Co-operation and Development (OECD), PISA tests the skills and knowledge of 15-year-old students in mathematics, reading and science.
+
+### LetourCycles E-commerce Website ([https://www.letour.com.au/](https://www.letour.com.au/))
+
+Letour Cycles is an Australian-based e-commerce website specializing in premium cycling gear, equipment, and accessories.
+
+
 ## Experience
 
 ### RM PLC Australia (LSE Listed, Code: *RM..UK*) —— `Software Engineer  ( Oct 2021 - Now)`
@@ -57,7 +74,7 @@ Experienced SDE with a passion for cutting-edge tech and agile development. Prof
      * Lead developer of updating Data Visualization tool (D3.js) from V4 to V7.9 of Assessment Master (https://am.sonet.com.au)
      * Drive the design and implementation of Test-Driven Development(TDD) methodologies, setting best practices and guidelines within the software development lifecycle to improve code quality and testing standards.
 #
-##### -- C#, .Net Coure, Node.js, Angular, PHP, Algorithm design, AngularJs, Test-Driven Development(TDD), PostgreSQL, SQL Server, Back-end API Development, Front-end HTTP request/response Development, MVC, Vanilla JavaScript, jQuery, CSS/SCSS,Yii, Gitlab, GitHub, Azure DevOps Service, and Jira.
+##### -- __C#, .Net Coure, Node.js, Angular, PHP, Algorithm design, AngularJs, Test-Driven Development(TDD), PostgreSQL, SQL Server, Back-end API Development, Front-end HTTP request/response Development, MVC, Vanilla JavaScript, jQuery, CSS/SCSS,Yii, Gitlab, GitHub, Azure DevOps Service, and Jira.__
 #
      
    ### Letour Cycles —— `E-commerce Web Developer ( Dec 2019 - Oct-2021)`
@@ -72,7 +89,7 @@ Experienced SDE with a passion for cutting-edge tech and agile development. Prof
 
 * Monitoring data exchange (Orders, tracking information) among different websites.
 #  
-##### -- CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics
+##### -- __CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics__
   
   ### Australian Trading Bridge —— `Full Stack PHP Laravel Developer ( Jan 2018 - Dec 2019 )`
 
@@ -86,7 +103,7 @@ Experienced SDE with a passion for cutting-edge tech and agile development. Prof
 
 * Optimizing the system, for example, detecting and avoiding the N+1 query problem in Laravel, and new middleware for new features.
 #
-##### --  Laravel, HTML, CSS, MySQL, LAMP Development
+##### --  __Laravel, HTML, CSS, MySQL, LAMP Development__
 # 
   ### FHL Group —— `IT support ( 2016 - 2018 )`
 
@@ -98,7 +115,7 @@ Experienced SDE with a passion for cutting-edge tech and agile development. Prof
 
 * Maintaining the API communication among the company and the carriers.
 #  
-##### -- CSS, HTML, JavaScript
+##### -- __CSS, HTML, JavaScript__
 #  
 
 ## Education
@@ -109,22 +126,9 @@ Experienced SDE with a passion for cutting-edge tech and agile development. Prof
 
 * **Honours Research Thesis Project**: Using Hopfield Network to Understand Alzheimer’s Disease (Artificial Intelligence, Artificial Neural Network, Neural Science,  MATLAB, Statistics);
 
-* **Achievement**: 100% for 2 major assignments and tutorial work for KXT309 Advanced Dynamic Web Development (LAMP and Javascript/jQuery full-stack project).
+* **Achievement**: __100%__ for 2 major assignments and tutorial work for KXT309 Advanced Dynamic Web Development (LAMP and Javascript/jQuery full-stack project).
 #
-## Professional Development & Interests
-* Currently Reading: 
-	* _Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith_ 
-by __Sam Newman__ – Focuses on strategies for evolving monolithic systems into microservices architectures.
 
-	* _Software Engineering at Google: Lessons Learned from Programming Over Time_
-by __Titus Winters, Hyrum Wright, and Tom Manshrek__ – Provides insights into software engineering practices and lessons learned from large-scale programming at Google.
-#
-* Courses: 
-	* Enrolled in _.NET 8 Microservices: DDD, CQRS, Vertical/Clean Architecture_ on (Udemy: https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/), covering Develop Microservices on .NET 8 used ASP.NET Web API, Docker, RabbitMQ, MassTransit, gRPC, Yarp Gateway, Redis,SqlServer.
-#
-* Topics of Interest:  Microservices Architecture, Cloud Computing, Agile Methodologies.
-#
-* Learning Focus: Continuously improving skills across all aspects of the software development life cycle, from algorithms to DevOps, and from front-end to back-end development, database management, cloud computing, and container technologies.
 
 ## Reference
 
