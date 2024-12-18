@@ -33,22 +33,19 @@ Experienced SDE with a passion for cutting-edge tech and agile development. Prof
 
 ## Commercial  Projects
 
-### Assessment Master ([https://content.rmresults.com/assessment-master-brochure](https://content.rmresults.com/assessment-master-brochure))
+### Assessment Master<u>([Link](https://content.rmresults.com/assessment-master-brochure))</u>  | .Net Core, CSS, PHP, TypeScript, Angular, Chart.js, D3.js, Blockly, Node.js
 Assessment Master is a flexible, accessible online assessment platform trusted by governments, universities, and schools worldwide. It supports remote testing across various delivery methods, assessing competencies like numeracy, literacy, and ICT literacy for thousands of students.
 
-### ICILS 2023([https://nces.ed.gov/surveys/icils/partners.asp](https://nces.ed.gov/surveys/icils/partners.asp))
+### ICILS 2023 <u>([Link](https://nces.ed.gov/surveys/icils/partners.asp))</u> | PHP, TypeScript, Angular, D3.js, Blockly, Node.js, jQuery 
 The International Association for the Evaluation of Educational Achievement (IEA) is the international study center and coordinating body for ICILS 2023
 
-### PISA 2023([https://www.oecd.org/en/about/programmes/pisa.html](https://www.oecd.org/en/about/programmes/pisa.html))
+### PISA 2023<u>([Link](https://www.oecd.org/en/about/programmes/pisa.html))</u> | Chart.js, Blockly, PHP, TypeScript, Reactjs
 Created by the Organisation for Economic Co-operation and Development (OECD), PISA tests the skills and knowledge of 15-year-old students in mathematics, reading and science.
 
-### ICAEW E-Marking ([https://content.rmresults.com/meeting-the-needs-of-the-modern-candidate](https://content.rmresults.com/meeting-the-needs-of-the-modern-candidate))
+### ICAEW E-Marking <u>([Link](https://content.rmresults.com/meeting-the-needs-of-the-modern-candidate))</u> | Angular,TypeScript Chart.js, D3.js, Blockly, Node.js, SpreadJS
 The Institute of Chartered Accountants in England and Wales (ICAEW) successfully moved towards an assessment solution that reflects the working conditions for professional accountants without losing the integrity of their exams.
 
-
-
-
-### LetourCycles E-commerce Website ([https://www.letour.com.au/](https://www.letour.com.au/))
+### LetourCycles E-commerce Website <u>([Link](https://www.letour.com.au/))</u> | Shopify, CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics
 
 Letour Cycles is an Australian-based e-commerce website specializing in premium cycling gear, equipment, and accessories.
 
@@ -69,7 +66,7 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 
 * __Client Collaboration__: Translated client requirements into actionable tasks, ensured WCAG-aligned designs, and guided projects from development through QA to production.
 
-* ****Achievement In RM PLC****: 
+* ****Achievement At RM PLC****: 
   
   * Lead developer for Project PISA2025 (Programme for International Student Assessment) at the OECD ([https://www.oecd.org/en.html]()). Joined as a __RM new starter__ when the __project lead left RM__, taking on PM, BA, and Developer responsibilities. Independently developed two modules, directly discussed and negotiated requirements with the client, delivered progress updates, and set project deadlines.
    * Lead developer of the Angular update from version 14 to version 18 for RM Australia’ s key SaaS platform —Assessment Master (https://am.sonet.com.au)
