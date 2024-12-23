@@ -31,7 +31,7 @@ Experienced SDE with a passion for cutting-edge tech and agile development. Prof
 | <h3>Database:</h3>                                    | <h3>Cloud:</h3>                                         | <h3>CI/CD Process:</h3>                           |
 | MySQL,PostgreSQL,SQL Server, MongoDB,                 | Azure(App Service), Vercel, AWS(EC2), MongoDB Atlas     | GitHub, GitLab, Jira,Azure DevOps Server          |
 
-## Commercial  Projects
+## Projects
 
 ### Assessment Master<u>([Link](https://content.rmresults.com/assessment-master-brochure))</u>  | .Net Core, CSS, PHP, TypeScript, Angular, Chart.js, D3.js, Blockly, Node.js
 Assessment Master is a flexible, accessible online assessment platform trusted by governments, universities, and schools worldwide. It supports remote testing across various delivery methods, assessing competencies like numeracy, literacy, and ICT literacy for thousands of students.
@@ -50,11 +50,12 @@ The Institute of Chartered Accountants in England and Wales (ICAEW) successfully
 Letour Cycles is an Australian-based e-commerce website specializing in premium cycling gear, equipment, and accessories.
 
 
+
 ## Experience
 
-### RM PLC Australia (LSE Listed, Code: *RM..UK*) —— `Software Engineer  ( Oct 2021 - Now)`
+### RM PLC Australia (LSE Listed, Code: *RM..UK*) —— `Software Engineer  ( Oct 2021 - Present)`
 
-* __Full-Stack SaaS Development__: Expertise in database retrieval, API design, HTTP request handling, and UI/UX development, with SQL optimization for efficient responses.
+*  __Full-Stack SaaS Development__: Expertise in database retrieval, API design, HTTP request handling, and UI/UX development, with SQL optimization for efficient responses.
 
 * __System Migration__: Contributed to transitioning a PHP monolithic system to a C# and SQL Server microservices architecture, improving scalability and performance.
 
@@ -66,17 +67,34 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 
 * __Client Collaboration__: Translated client requirements into actionable tasks, ensured WCAG-aligned designs, and guided projects from development through QA to production.
 
-* ****Achievement At RM PLC****: 
+
+
+### <b style="font-size: 17px;">Key Achievements</b>
   
-  * Lead developer for Project PISA2025 (Programme for International Student Assessment) at the OECD ([https://www.oecd.org/en.html]()). Joined as a __RM new starter__ when the __project lead left RM__, taking on PM, BA, and Developer responsibilities. Independently developed two modules, directly discussed and negotiated requirements with the client, delivered progress updates, and set project deadlines.
-   * Lead developer of the Angular update from version 14 to version 18 for RM Australia’ s key SaaS platform —Assessment Master (https://am.sonet.com.au)
-    * Algorithm Designer and Developer of the Blockly(https://blockly.games/) machine marking of ICILS Project (https://icils.acer.org/) (International Computer and Information Literacy Study) for International Association for the Evaluation of Educational Achievement, develop a recursive algorithm to transfer a XML string to a working coding piece and get a result for coding exams.
-     * Lead developer of updating Data Visualization tool (D3.js) from V4 to V7.9 of Assessment Master (https://am.sonet.com.au)
-     * Drive the design and implementation of Test-Driven Development(TDD) methodologies, setting best practices and guidelines within the software development lifecycle to improve code quality and testing standards.
+ * **Lead Developer - PISA2025 (Programme for International Student Assessment)**:  
+   - Stepped up as project lead after the departure of the project lead.  
+   - Successfully took on **Project Manager, Business Analyst, and Developer roles**.  
+   - Independently developed two key modules and directly engaged with stakeholders (OECD) to negotiate requirements, deliver progress updates, and establish project timelines.
 
-##### -- __C#, .Net Core, Node.js, Angular, PHP, TypeScript, Algorithm design, AngularJS, Test-Driven Development (TDD), PostgreSQL, SQL Server, Back-end API Development, Front-end HTTP request/response Development, MVC, Vanilla JavaScript, jQuery, CSS/SCSS, Yii, GitLab, GitHub, Azure DevOps Service, Jira__
+* **Angular Framework Update**:  
+   - Spearheaded the update of **Angular from version 14 to 18** for RM Australia's flagship SaaS platform, **Assessment Master** (https://am.sonet.com.au).
 
-#
+* **Algorithm Design for ICILS Project**:  
+   - Designed and developed a **recursive algorithm** for **Blockly** (https://blockly.games/) machine marking in the **ICILS Project** (https://icils.acer.org/).  
+   - Transformed complex XML strings into executable code for grading coding exams, enhancing the project's automation capabilities.
+
+* **D3.js Data Visualization Update**:  
+   - Led the upgrade of the **D3.js visualization library** from version 4 to 7.9, improving performance and visualization features for **Assessment Master**.
+
+* **Test-Driven Development (TDD) Leadership**:  
+   - Championed the **design and implementation of TDD methodologies**, establishing best practices to enhance code quality and maintainability across the software development lifecycle.
+
+##### **Skills & Technologies**  
+*C#, .NET Core, Node.js, Angular, PHP, TypeScript, Algorithm Design, AngularJS, Test-Driven Development (TDD), PostgreSQL, SQL Server, Back-end API Development, Front-end HTTP Request/Response Development, MVC, Vanilla JavaScript, jQuery, CSS/SCSS, Yii, GitLab, GitHub, Azure DevOps, Jira*
+
+---
+
+
      
    ### Letour Cycles —— `E-commerce Web Developer ( Dec 2019 - Oct-2021)`
 
@@ -89,9 +107,12 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 * __Product Page Development__: Built and maintained product pages using Neto E-commerce and Shopify platforms.
 
 * __Data Monitoring__: Monitored and ensured smooth data exchange for orders and tracking information across multiple platforms.
+##### **Skills & Technologies**  
+*CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics, Third-Party API Integration,SEO, Responsive Design,Accessibility Standards (WCAG)*
 
-##### -- __CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics__
-#  
+---
+
+
   ### Australian Trading Bridge —— `Full Stack PHP Laravel Developer ( Jan 2018 - Dec 2019 )`
 
 * __Product Management System Development__: Developed a printing product management system and E-commerce website using Laravel 5.  
@@ -103,9 +124,13 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 * __Feature Enhancement__: Added new features to meet sales team requirements, ensuring the system aligns with business needs.  
 
 * __System Optimization__: Optimized performance by resolving N+1 query issues and implemented custom middleware to support new features.  
+##### **Skills & Technologies**  
 
-##### --  __Laravel, HTML, CSS, MySQL, LAMP Development__
-# 
+*Laravel, HTML, CSS, MySQL, LAMP Development,Git & GitHub,AWS-EC2, Docker, Agile/Scrum methodologies*
+
+---
+
+
   ### FHL Group —— `IT support ( 2016 - 2018 )`
 
 * __API Management__: Managed APIs for different websites integrated with the PHP-based e-commerce system.  
@@ -115,10 +140,10 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 * __SEO Optimization__: Created new product listings with SEO features, including metadata injection with targeted keywords.  
 
 * __API Communication__: Maintained seamless API communication between the company and carriers.  
+##### **Skills & Technologies**  
 
-##### -- __CSS, HTML, JavaScript__
+*CSS, HTML, JavaScript, SEO,API Testing & Debugging,Third-Party API Integration*
  
-
 ## Education
   
   ### Bachelor of Computing (With Honours) ——  ` University of Tasmania (Feb 2011-August 2014)`
@@ -130,7 +155,5 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 * **Achievement**: __100%__ for 2 major assignments and tutorial work for KXT309 Advanced Dynamic Web Development (LAMP and Javascript/jQuery full-stack project).
 
 
-
 ## Reference
-
 References’ Contact Information Available Upon Request.
