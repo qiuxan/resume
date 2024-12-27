@@ -76,14 +76,14 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
    - Successfully took on **Project Manager, Business Analyst, and Developer roles**.  
    - Independently developed two key modules and directly engaged with stakeholders (OECD) to negotiate requirements, deliver progress updates, and establish project timelines.
 
-* **Angular Framework Update**:  
-   - Spearheaded the update of **Angular from version 14 to 18** for RM Australia's flagship SaaS platform, **Assessment Master** (https://am.sonet.com.au).
+* **Lead Angular Framework and Node.js Update**:  
+   - Spearheaded the update of **Angular from version 14 to 18** and **Node.js from version 14 to 18**  for RM Australia's flagship SaaS platform, **Assessment Master** (https://am.sonet.com.au).
 
-* **Algorithm Design for ICILS Project**:  
+* **Design Algorithm for ICILS Project Machine Marking**:  
    - Designed and developed a **recursive algorithm** for **Blockly** (https://blockly.games/) machine marking in the **ICILS Project** (https://icils.acer.org/).  
    - Transformed complex XML strings into executable code for grading coding exams, enhancing the project's automation capabilities.
 
-* **D3.js Data Visualization Update**:  
+* **Lead D3.js Data Visualization Update**:  
    - Led the upgrade of the **D3.js visualization library** from version 4 to 7.9, improving performance and visualization features for **Assessment Master**.
 
 * **Test-Driven Development (TDD) Leadership**:  
