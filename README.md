@@ -25,11 +25,12 @@ Experienced SDE with a passion for cutting-edge tech and agile development. Prof
 
 ## Skills
 
-| <h3>Coding Languages:</h3>                            | <h3>Back-End:</h3>                                      | <h3>Front-End:</h3>                               |
-| ----------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------- |
-| JavaScript ES5-2021, TypeScript, C#, PHP, C++, Python | MVC(.Net Core,Nodejs,Laravel, Yii, Express.js), Next.js | HTML5/CSS3/SCSS,Angular, React, AngularJS, jQuery |
-| <h3>Database:</h3>                                    | <h3>Cloud:</h3>                                         | <h3>CI/CD Process:</h3>                           |
-| MySQL,PostgreSQL,SQL Server, MongoDB,                 | Azure(App Service), Vercel, AWS(EC2), MongoDB Atlas     | GitHub, GitLab, Jira,Azure DevOps Server          |
+**Programming Languages:** JavaScript (ES5-2021), TypeScript, C#, PHP, C++, Python  
+**Back-End Development:** .NET Core, Node.js, Laravel, Yii, Express.js, Next.js 
+**Front-End Development:** HTML5, CSS3, SCSS, Angular, React, AngularJS, jQuery  
+**Databases:** MySQL, PostgreSQL, SQL Server, MongoDB  
+**Cloud Platforms:** Azure (App Service), Vercel, AWS (EC2), MongoDB Atlas  
+**CI/CD Tools:** GitHub, GitLab, Jira, Azure DevOps Server  
 
 ## Projects
 
@@ -74,13 +75,14 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
  * **Lead Developer - PISA2025 (Programme for International Student Assessment)**:  
    - Stepped up as project lead after the departure of the project lead.  
    - Successfully took on **Project Manager, Business Analyst, and Developer roles**.  
-   - Independently developed two key modules and directly engaged with stakeholders (OECD) to negotiate requirements, deliver progress updates, and establish project timelines.
+   - Independently developed two key modules while serving as the primary point of contact with **external stakeholders, including OECD-Europe**, to negotiate requirements, deliver progress updates, and establish project timelines.
 
 * **Lead Angular Framework and Node.js Update**:  
-   - Spearheaded the update of **Angular from version 14 to 18** and **Node.js from version 14 to 18**  for RM Australia's flagship SaaS platform, **Assessment Master** (https://am.sonet.com.au).
+   - Spearheaded the update of **Angular from version 14 to 18** and **Node.js from version 14 to 18**  for RM Australia's flagship SaaS platform, **Assessment Master**  <u>([https://content.rmresults.com/assessment-master-brochure](https://content.rmresults.com/assessment-master-brochure/))</u> .
 
 * **Design Algorithm for ICILS Project Machine Marking**:  
-   - Designed and developed a **recursive algorithm** for **Blockly** (https://blockly.games/) machine marking in the **ICILS Project** (https://icils.acer.org/).  
+   - Designed and developed a **recursive algorithm** for **Blockly** <u>([https://blockly.games/](https://blockly.games/))</u>
+    machine marking in the **ICILS Project** <u>([https://icils.acer.org/](https://icils.acer.org/))</u>.  
    - Transformed complex XML strings into executable code for grading coding exams, enhancing the project's automation capabilities.
 
 * **Lead D3.js Data Visualization Update**:  
@@ -89,8 +91,7 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 * **Test-Driven Development (TDD) Leadership**:  
    - Championed the **design and implementation of TDD methodologies**, establishing best practices to enhance code quality and maintainability across the software development lifecycle.
 
-##### **Skills & Technologies**  
-*C#, .NET Core, Node.js, Angular, PHP, TypeScript, Algorithm Design, AngularJS, Test-Driven Development (TDD), PostgreSQL, SQL Server, Back-end API Development, Front-end HTTP Request/Response Development, MVC, Vanilla JavaScript, jQuery, CSS/SCSS, Yii, GitLab, GitHub, Azure DevOps, Jira*
+##### **Skills & Technologies:**  *C#, .NET Core, Node.js, Angular, PHP, TypeScript, Algorithm Design, AngularJS, Test-Driven Development (TDD), PostgreSQL, SQL Server, Back-end API Development, Front-end HTTP Request/Response Development, MVC, Vanilla JavaScript, jQuery, CSS/SCSS, Yii, GitLab, GitHub, Azure DevOps, Jira*
 
 ---
 
@@ -107,8 +108,7 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 * __Product Page Development__: Built and maintained product pages using Neto E-commerce and Shopify platforms.
 
 * __Data Monitoring__: Monitored and ensured smooth data exchange for orders and tracking information across multiple platforms.
-##### **Skills & Technologies**  
-*CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics, Third-Party API Integration,SEO, Responsive Design,Accessibility Standards (WCAG)*
+##### **Skills & Technologies:** *CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics, Third-Party API Integration,SEO, Responsive Design,Accessibility Standards (WCAG)*
 
 ---
 
@@ -124,9 +124,7 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 * __Feature Enhancement__: Added new features to meet sales team requirements, ensuring the system aligns with business needs.  
 
 * __System Optimization__: Optimized performance by resolving N+1 query issues and implemented custom middleware to support new features.  
-##### **Skills & Technologies**  
-
-*Laravel, HTML, CSS, MySQL, LAMP Development,Git & GitHub,AWS-EC2, Docker, Agile/Scrum methodologies*
+##### **Skills & Technologies:** *Laravel, HTML, CSS, MySQL, LAMP Development,Git & GitHub,AWS-EC2, Docker, Agile/Scrum methodologies*
 
 ---
 
@@ -140,9 +138,7 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 * __SEO Optimization__: Created new product listings with SEO features, including metadata injection with targeted keywords.  
 
 * __API Communication__: Maintained seamless API communication between the company and carriers.  
-##### **Skills & Technologies**  
-
-*CSS, HTML, JavaScript, SEO,API Testing & Debugging,Third-Party API Integration*
+##### **Skills & Technologies:**  *CSS, HTML, JavaScript, SEO,API Testing & Debugging,Third-Party API Integration*
  
 ## Education
   
