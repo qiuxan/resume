@@ -21,7 +21,7 @@ icon:phone 0467239975
 
 ## Career Objective
 
-Experienced SDE with a passion for cutting-edge tech and agile development. Proficient in TypeScript, C#, and PHP. Skilled in Azure and AWS, with strong project management and full-stack development expertise. Seeking growth as a versatile generalist, expanding across diverse technologies and frameworks.
+Experienced SDE passionate about cutting-edge technology and agile development. Proficient in TypeScript, C#, PHP, and cloud platforms like Azure and AWS. Focused on growing as a T-shaped professional, blending deep expertise in software engineering with broad knowledge across diverse technologies, DevOps and products.
 
 ## Skills
 
@@ -35,28 +35,30 @@ Experienced SDE with a passion for cutting-edge tech and agile development. Prof
 ## Projects
 
 ### Assessment Master<u>([Link](https://content.rmresults.com/assessment-master-brochure))</u>  | .Net Core, CSS, PHP, TypeScript, Angular, Chart.js, D3.js, Blockly, Node.js
+
 Assessment Master is a flexible, accessible online assessment platform trusted by governments, universities, and schools worldwide. It supports remote testing across various delivery methods, assessing competencies like numeracy, literacy, and ICT literacy for thousands of students.
 
-### ICILS 2023 <u>([Link](https://nces.ed.gov/surveys/icils/partners.asp))</u> | PHP, TypeScript, Angular, D3.js, Blockly, Node.js, jQuery 
+### ICILS 2023 <u>([Link](https://nces.ed.gov/surveys/icils/partners.asp))</u> | PHP, TypeScript, Angular, D3.js, Blockly, Node.js, jQuery
+
 The International Association for the Evaluation of Educational Achievement (IEA) is the international study center and coordinating body for ICILS 2023
 
 ### PISA 2023<u>([Link](https://www.oecd.org/en/about/programmes/pisa.html))</u> | Chart.js, Blockly, PHP, TypeScript, Reactjs
+
 Created by the Organisation for Economic Co-operation and Development (OECD), PISA tests the skills and knowledge of 15-year-old students in mathematics, reading and science.
 
 ### ICAEW E-Marking <u>([Link](https://content.rmresults.com/meeting-the-needs-of-the-modern-candidate))</u> | Angular,TypeScript Chart.js, D3.js, Blockly, Node.js, SpreadJS
+
 The Institute of Chartered Accountants in England and Wales (ICAEW) successfully moved towards an assessment solution that reflects the working conditions for professional accountants without losing the integrity of their exams.
 
 ### LetourCycles E-commerce Website <u>([Link](https://www.letour.com.au/))</u> | Shopify, CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics
 
 Letour Cycles is an Australian-based e-commerce website specializing in premium cycling gear, equipment, and accessories.
 
-
-
 ## Experience
 
 ### RM PLC Australia (LSE Listed, Code: *RM..UK*) —— `Software Engineer  ( Oct 2021 - Present)`
 
-*  __Full-Stack SaaS Development__: Expertise in database retrieval, API design, HTTP request handling, and UI/UX development, with SQL optimization for efficient responses.
+* __Full-Stack SaaS Development__: Expertise in database retrieval, API design, HTTP request handling, and UI/UX development, with SQL optimization for efficient responses.
 
 * __System Migration__: Contributed to transitioning a PHP monolithic system to a C# and SQL Server microservices architecture, improving scalability and performance.
 
@@ -68,52 +70,53 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 
 * __Client Collaboration__: Translated client requirements into actionable tasks, ensured WCAG-aligned designs, and guided projects from development through QA to production.
 
-
-
 ### <b style="font-size: 17px;">Key Achievements</b>
+
+* **Lead Developer - PISA2025 (Programme for International Student Assessment)**:  
   
- * **Lead Developer - PISA2025 (Programme for International Student Assessment)**:  
-   - Stepped up as project lead after the departure of the project lead.  
-   - Successfully took on **Project Manager, Business Analyst, and Developer roles**.  
-   - Independently developed two key modules while serving as the primary point of contact with **external stakeholders, including OECD-Europe**, to negotiate requirements, deliver progress updates, and establish project timelines.
+  - Stepped up as project lead after the departure of the project lead.  
+  - Successfully took on **Project Manager, Business Analyst, and Developer roles**.  
+  - Independently developed two key modules while serving as the primary point of contact with **external stakeholders, including OECD-Europe**, to negotiate requirements, deliver progress updates, and establish project timelines.
 
 * **Lead Angular Framework and Node.js Update**:  
-   - Spearheaded the update of **Angular from version 14 to 18** and **Node.js from version 14 to 18**  for RM Australia's flagship SaaS platform, **Assessment Master**  <u>([https://content.rmresults.com/assessment-master-brochure](https://content.rmresults.com/assessment-master-brochure/))</u> .
+  
+  - Spearheaded the update of **Angular from version 14 to 18** and **Node.js from version 14 to 18**  for RM Australia's flagship SaaS platform, **Assessment Master**  <u>([https://content.rmresults.com/assessment-master-brochure](https://content.rmresults.com/assessment-master-brochure/))</u> .
 
 * **Design Algorithm for ICILS Project Machine Marking**:  
-   - Designed and developed a **recursive algorithm** for **Blockly** <u>([https://blockly.games/](https://blockly.games/))</u>
+  
+  - Designed and developed a **recursive algorithm** for **Blockly** <u>([https://blockly.games/](https://blockly.games/))</u>
     machine marking in the **ICILS Project** <u>([https://icils.acer.org/](https://icils.acer.org/))</u>.  
-   - Transformed complex XML strings into executable code for grading coding exams, enhancing the project's automation capabilities.
+  - Transformed complex XML strings into executable code for grading coding exams, enhancing the project's automation capabilities.
 
 * **Lead D3.js Data Visualization Update**:  
-   - Led the upgrade of the **D3.js visualization library** from version 4 to 7.9, improving performance and visualization features for **Assessment Master**.
+  
+  - Led the upgrade of the **D3.js visualization library** from version 4 to 7.9, improving performance and visualization features for **Assessment Master**.
 
 * **Test-Driven Development (TDD) Leadership**:  
-   - Championed the **design and implementation of TDD methodologies**, establishing best practices to enhance code quality and maintainability across the software development lifecycle.
+  
+  - Championed the **design and implementation of TDD methodologies**, establishing best practices to enhance code quality and maintainability across the software development lifecycle.
 
 ##### **Skills & Technologies:**  *C#, .NET Core, Node.js, Angular, PHP, TypeScript, Algorithm Design, AngularJS, Test-Driven Development (TDD), PostgreSQL, SQL Server, Back-end API Development, Front-end HTTP Request/Response Development, MVC, Vanilla JavaScript, jQuery, CSS/SCSS, Yii, GitLab, GitHub, Azure DevOps, Jira*
 
 ---
 
-
-     
-   ### Letour Cycles —— `E-commerce Web Developer ( Dec 2019 - Oct-2021)`
+### Letour Cycles —— `EC Web and Integration  Developer ( Dec 2019 - Oct-2021)`
 
 * __E-commerce Development__: Designed, developed, and deployed Shopify-based online stores, enhancing user experience and functionality.
 
-* __API Integration__: Maintained seamless API communication for order processing (e.g., submitting orders to AusPost, syncing orders between eBay, Shopify, and Neto).
+* __API Integration__: Maintained seamless API communication for order processing, such as submitting orders to AusPost, syncing orders across platforms like eBay, Shopify, and Neto, and integrating wholesale partners by mapping their orders to our system for efficient processing.
 
 * __SEO Optimization__: Created product pages with SEO features, including dynamic metadata injection to improve search visibility.
 
 * __Product Page Development__: Built and maintained product pages using Neto E-commerce and Shopify platforms.
 
 * __Data Monitoring__: Monitored and ensured smooth data exchange for orders and tracking information across multiple platforms.
+  
 ##### **Skills & Technologies:** *CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics, Third-Party API Integration,SEO, Responsive Design,Accessibility Standards (WCAG)*
 
 ---
 
-
-  ### Australian Trading Bridge —— `Full Stack PHP Laravel Developer ( Jan 2018 - Dec 2019 )`
+### Australian Trading Bridge —— `Full Stack Developer ( Jan 2018 - Dec 2019 )`
 
 * __Product Management System Development__: Developed a printing product management system and E-commerce website using Laravel 5.  
 
@@ -124,12 +127,12 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 * __Feature Enhancement__: Added new features to meet sales team requirements, ensuring the system aligns with business needs.  
 
 * __System Optimization__: Optimized performance by resolving N+1 query issues and implemented custom middleware to support new features.  
-##### **Skills & Technologies:** *Laravel, HTML, CSS, MySQL, LAMP Development,Git & GitHub,AWS-EC2, Docker, Agile/Scrum methodologies*
+  
+ ##### **Skills & Technologies:** *Laravel, HTML, CSS, MySQL, LAMP Development,Git & GitHub,AWS-EC2, Docker, Agile/Scrum methodologies*
 
 ---
 
-
-  ### FHL Group —— `IT support ( 2016 - 2018 )`
+### FHL Group —— `IT support ( 2016 - 2018 )`
 
 * __API Management__: Managed APIs for different websites integrated with the PHP-based e-commerce system.  
 
@@ -138,11 +141,12 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 * __SEO Optimization__: Created new product listings with SEO features, including metadata injection with targeted keywords.  
 
 * __API Communication__: Maintained seamless API communication between the company and carriers.  
-##### **Skills & Technologies:**  *CSS, HTML, JavaScript, SEO,API Testing & Debugging,Third-Party API Integration*
- 
-## Education
   
-  ### Bachelor of Computing (With Honours) ——  ` University of Tasmania (Feb 2011-August 2014)`
+ ##### **Skills & Technologies:**  *CSS, HTML, JavaScript, SEO,API Testing & Debugging,Third-Party API Integration*
+
+## Education
+
+### Bachelor of Computing (With Honours) ——  ` University of Tasmania (Feb 2011-August 2014)`
 
 * **Graduate Project:** Develop a showcase website for the Career Hub of UTAS for future students (HTML+CSS, jQuery, Content Management System);
 
@@ -150,6 +154,6 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 
 * **Achievement**: __100%__ for 2 major assignments and tutorial work for KXT309 Advanced Dynamic Web Development (LAMP and Javascript/jQuery full-stack project).
 
-
 ## Reference
+
 References’ Contact Information Available Upon Request.
