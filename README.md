@@ -2,7 +2,7 @@
 
 <b style="font-size: 24px;">Ian Qiu</b>
 
-University of Tasmania
+icon:school University of Tasmania
 **Bachelor(Hons) of Computing**
 
 :::
@@ -19,11 +19,11 @@ icon:phone 0467239975
 
 :::
 
-## Career Objective
+## 1. Career Objective
 
 Experienced SDE passionate about cutting-edge technology and agile development. Proficient in TypeScript, C#, PHP, and cloud platforms like Azure and AWS. Focused on growing as a T-shaped professional, blending deep expertise in software engineering with broad knowledge across diverse technologies, DevOps and products.
 
-## Skills
+## 2. Skills
 
 **Programming Languages:** JavaScript (ES5-2021), TypeScript, C#, PHP, C++, Python  
 **Back-End Development:** .NET Core, Node.js, Laravel, Yii, Express.js, Next.js 
@@ -32,11 +32,11 @@ Experienced SDE passionate about cutting-edge technology and agile development. 
 **Cloud Platforms:** Azure (App Service), Vercel, AWS (EC2), MongoDB Atlas  
 **CI/CD Tools:** GitHub, GitLab, Jira, Azure DevOps Server  
 
-## Projects
+## 3. Projects
 
 ### Assessment Master<u>([Link](https://content.rmresults.com/assessment-master-brochure))</u>  | .Net Core, CSS, PHP, TypeScript, Angular, Chart.js, D3.js, Blockly, Node.js
 
-Assessment Master is a flexible, accessible online assessment platform trusted by governments, universities, and schools worldwide. It supports remote testing across various delivery methods, assessing competencies like numeracy, literacy, and ICT literacy for thousands of students.
+Assessment Master is a flexible online platform used globally by governments, universities, and schools for remote testing, assessing numeracy, literacy, ICT skills and so on.
 
 ### ICILS 2023 <u>([Link](https://nces.ed.gov/surveys/icils/partners.asp))</u> | PHP, TypeScript, Angular, D3.js, Blockly, Node.js, jQuery
 
@@ -48,13 +48,13 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
 
 ### ICAEW E-Marking <u>([Link](https://content.rmresults.com/meeting-the-needs-of-the-modern-candidate))</u> | Angular,TypeScript Chart.js, D3.js, Blockly, Node.js, SpreadJS
 
-The Institute of Chartered Accountants in England and Wales (ICAEW) successfully moved towards an assessment solution that reflects the working conditions for professional accountants without losing the integrity of their exams.
+The Institute of Chartered Accountants in England and Wales (ICAEW) adopted an assessment solution reflecting professional accounting conditions while maintaining exam integrity.
 
-### LetourCycles E-commerce Website <u>([Link](https://www.letour.com.au/))</u> | Shopify, CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics
+### LetourCycles E-commerce Website <u>([Link](https://www.letour.com.au/))</u> | Shopify, CSS, JavaScript, CSS, Google Ads/Analytics
 
 Letour Cycles is an Australian-based e-commerce website specializing in premium cycling gear, equipment, and accessories.
 
-## Experience
+## 4. Experience
 
 ### RM PLC Australia (LSE Listed, Code: *RM..UK*) —— `Software Engineer  ( Oct 2021 - Present)`
 
@@ -81,6 +81,7 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 * **Lead Angular Framework and Node.js Update**:  
   
   - Spearheaded the update of **Angular from version 14 to 18** and **Node.js from version 14 to 18**  for RM Australia's flagship SaaS platform, **Assessment Master**  <u>([https://content.rmresults.com/assessment-master-brochure](https://content.rmresults.com/assessment-master-brochure/))</u> .
+  - Took ownership of the Angular Development as a lead, establishing best practices to improve maintainability, scalability, and performance. Introduced modular architecture and streamlined component reuse for future development.
 
 * **Design Algorithm for ICILS Project Machine Marking**:  
   
@@ -111,7 +112,13 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 * __Product Page Development__: Built and maintained product pages using Neto E-commerce and Shopify platforms.
 
 * __Data Monitoring__: Monitored and ensured smooth data exchange for orders and tracking information across multiple platforms.
+
+### <b style="font-size: 17px;">Key Achievements</b>
+
+* **Built wholesale integration**:  
   
+  - During COVID, as the company initiated wholesale operations from 0 to 1, I built a system to integrate partner orders into the Neto platform.
+
 ##### **Skills & Technologies:** *CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics, Third-Party API Integration,SEO, Responsive Design,Accessibility Standards (WCAG)*
 
 ---
@@ -124,7 +131,7 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 
 * __Database Migration__: Designed and implemented Laravel database migrations with MySQL.  
 
-* __Feature Enhancement__: Added new features to meet sales team requirements, ensuring the system aligns with business needs.  
+* __Feature Enhancement__: Developed new features to meet sales team requirements, ensuring the system aligns with business needs.  
 
 * __System Optimization__: Optimized performance by resolving N+1 query issues and implemented custom middleware to support new features.  
   
@@ -136,15 +143,15 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 
 * __API Management__: Managed APIs for different websites integrated with the PHP-based e-commerce system.  
 
-* __Feature Development__: Added new features to the website, such as a Christmas Sale template and new payment methods.  
+* __Web Development__: Added new features to the website, such as a Christmas Sale template and payment methods.  
 
-* __SEO Optimization__: Created new product listings with SEO features, including metadata injection with targeted keywords.  
+* __SEO Optimization__: Created new product listings with SEO features, including metadata injection with keywords.  
 
 * __API Communication__: Maintained seamless API communication between the company and carriers.  
   
  ##### **Skills & Technologies:**  *CSS, HTML, JavaScript, SEO,API Testing & Debugging,Third-Party API Integration*
 
-## Education
+## 5. Education
 
 ### Bachelor of Computing (With Honours) ——  ` University of Tasmania (Feb 2011-August 2014)`
 
@@ -154,6 +161,6 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 
 * **Achievement**: __100%__ for 2 major assignments and tutorial work for KXT309 Advanced Dynamic Web Development (LAMP and Javascript/jQuery full-stack project).
 
-## Reference
+## 6. Reference
 
 References’ Contact Information Available Upon Request.
