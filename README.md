@@ -1,29 +1,13 @@
-::: left
 
-<b style="font-size: 24px;">Ian Qiu</b>
+<b style="font-size: 24px;">Ian Qiu</b>   <span style="margin-left: 270px;">icon:school University of Tasmania -**Bachelor(Hons) of Computing** </span>
 
-icon:school University of Tasmania
-**Bachelor(Hons) of Computing**
+ icon:phone 0467 239 975  [icon:email ian.dev.q@gmail.com](mailto:ian.dev.q@gmail.com) [icon:fa-linkedin  https://www.linkedin.com/in/ian-q/](https://www.linkedin.com/in/ian-q/)[icon:github https://github.com/qiuxan](https://github.com/qiuxan)
 
-:::
-
-::: right
-
-[icon:fa-linkedin  https://www.linkedin.com/in/ian-q/](https://www.linkedin.com/in/ian-q/)
-
-[icon:github https://github.com/qiuxan](https://github.com/qiuxan)
-
-[icon:email ian.dev.q@gmail.com](mailto:ian.dev.q@gmail.com)
-
-icon:phone 0467239975
-
-:::
-
-## 1. Career Objective
+## Career Objective
 
 Experienced SDE passionate about cutting-edge technology and agile development. Proficient in TypeScript, C#, PHP, and cloud platforms like Azure and AWS. Focused on growing as a T-shaped professional, blending deep expertise in software engineering with broad knowledge across diverse technologies, DevOps and products.
 
-## 2. Skills
+## Skills
 
 **Programming Languages:** JavaScript (ES5-2021), TypeScript, C#, PHP, C++, Python  
 **Back-End Development:** .NET Core, Node.js, Laravel, Yii, Express.js, Next.js 
@@ -32,7 +16,7 @@ Experienced SDE passionate about cutting-edge technology and agile development. 
 **Cloud Platforms:** Azure (App Service), Vercel, AWS (EC2), MongoDB Atlas  
 **CI/CD Tools:** GitHub, GitLab, Jira, Azure DevOps Server  
 
-## 3. Projects
+## Projects
 
 ### Assessment Master<u>([Link](https://content.rmresults.com/assessment-master-brochure))</u>  | .Net Core, CSS, PHP, TypeScript, Angular, Chart.js, D3.js, Blockly, Node.js
 
@@ -54,7 +38,7 @@ The Institute of Chartered Accountants in England and Wales (ICAEW) adopted an a
 
 Letour Cycles is an Australian-based e-commerce website specializing in premium cycling gear, equipment, and accessories.
 
-## 4. Experience
+## Experience
 
 ### RM PLC Australia (LSE Listed, Code: *RM..UK*) —— `Software Engineer  ( Oct 2021 - Present)`
 
@@ -135,7 +119,7 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 
 * __System Optimization__: Optimized performance by resolving N+1 query issues and implemented custom middleware to support new features.  
   
- ##### **Skills & Technologies:** *Laravel, HTML, CSS, MySQL, LAMP Development,Git & GitHub,AWS-EC2, Docker, Agile/Scrum methodologies*
+##### **Skills & Technologies:** *Laravel, HTML, CSS, MySQL, LAMP Development,Git & GitHub,AWS-EC2, Docker, Agile/Scrum methodologies*
 
 ---
 
@@ -149,9 +133,9 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 
 * __API Communication__: Maintained seamless API communication between the company and carriers.  
   
- ##### **Skills & Technologies:**  *CSS, HTML, JavaScript, SEO,API Testing & Debugging,Third-Party API Integration*
+##### **Skills & Technologies:**  *CSS, HTML, JavaScript, SEO,API Testing & Debugging,Third-Party API Integration*
 
-## 5. Education
+## Education
 
 ### Bachelor of Computing (With Honours) ——  ` University of Tasmania (Feb 2011-August 2014)`
 
@@ -161,6 +145,6 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 
 * **Achievement**: __100%__ for 2 major assignments and tutorial work for KXT309 Advanced Dynamic Web Development (LAMP and Javascript/jQuery full-stack project).
 
-## 6. Reference
+## Reference
 
 References’ Contact Information Available Upon Request.
