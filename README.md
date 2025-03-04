@@ -1,4 +1,3 @@
-
 <b style="font-size: 24px;">Ian Qiu</b>   <span style="margin-left: 270px;">icon:school University of Tasmania -**Bachelor(Hons) of Computing** </span>
 
  icon:phone 0467 239 975  [icon:email ian.dev.q@gmail.com](mailto:ian.dev.q@gmail.com) [icon:fa-linkedin  https://www.linkedin.com/in/ian-q/](https://www.linkedin.com/in/ian-q/)[icon:github https://github.com/qiuxan](https://github.com/qiuxan)
@@ -34,13 +33,24 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
 
 The Institute of Chartered Accountants in England and Wales (ICAEW) adopted an assessment solution reflecting professional accounting conditions while maintaining exam integrity.
 
-### LetourCycles E-commerce Website <u>([Link](https://www.letour.com.au/))</u> | Shopify, CSS, JavaScript, CSS, Google Ads/Analytics
-
-Letour Cycles is an Australian-based e-commerce website specializing in premium cycling gear, equipment, and accessories.
-
 ## Experience
 
-### RM PLC Australia (LSE Listed, Code: *RM..UK*) —— `Software Engineer  ( Oct 2021 - Present)`
+### Munro Footwear Group —— `Full Stack Developer ( Jan 2025 - Present)`
+
+* __Full Stack Development__:Built high-performance, SEO-friendly e-commerce solutions using Next.js and React.js, integrating with Adobe Commerce (Magento) for seamless transactions. Optimized performance with SSR/SSG, reusable UI components, and efficient API calls.
+
+
+### <b style="font-size: 17px;">Key Achievements</b>
+
+* **Bringing in documentation culture**:  
+  
+  - Enhanced the onboarding experience by contributing to the starter development environment setup documentation, streamlining the setup process for new developers.
+
+##### **Skills & Technologies:** *React, Next.js,Adobe Commerce, CSS/SCSS, Yii, GitHub, Azure DevOps,GitAction, Jira,SEO, Responsive Design,Accessibility Standards (WCAG)*
+
+---
+
+### RM PLC Australia (LSE Listed, Code: *RM..UK*) —— `Software Engineer  ( Oct 2021 - Jan 2025)`
 
 * __Full-Stack SaaS Development__: Expertise in database retrieval, API design, HTTP request handling, and UI/UX development, with SQL optimization for efficient responses.
 
@@ -118,7 +128,7 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 * __Feature Enhancement__: Developed new features to meet sales team requirements, ensuring the system aligns with business needs.  
 
 * __System Optimization__: Optimized performance by resolving N+1 query issues and implemented custom middleware to support new features.  
-  
+
 ##### **Skills & Technologies:** *Laravel, HTML, CSS, MySQL, LAMP Development,Git & GitHub,AWS-EC2, Docker, Agile/Scrum methodologies*
 
 ---
@@ -132,7 +142,7 @@ Letour Cycles is an Australian-based e-commerce website specializing in premium 
 * __SEO Optimization__: Created new product listings with SEO features, including metadata injection with keywords.  
 
 * __API Communication__: Maintained seamless API communication between the company and carriers.  
-  
+
 ##### **Skills & Technologies:**  *CSS, HTML, JavaScript, SEO,API Testing & Debugging,Third-Party API Integration*
 
 ## Education
