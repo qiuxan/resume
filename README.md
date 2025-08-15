@@ -1,6 +1,23 @@
-<b style="font-size: 24px;">Ian Qiu</b>   <span style="margin-left: 270px;">icon:school University of Tasmania -**Bachelor(Hons) of Computing** </span>
+::: left
 
- icon:phone 0467 239 975  [icon:email ian.dev.q@gmail.com](mailto:ian.dev.q@gmail.com) [icon:fa-linkedin  https://www.linkedin.com/in/ian-q/](https://www.linkedin.com/in/ian-q/)[icon:github https://github.com/qiuxan](https://github.com/qiuxan)
+<b style="font-size: 24px;">Ian Qiu</b>
+
+icon:school University of Tasmania
+**Bachelor(Hons) of Computing**
+
+:::
+
+::: right
+
+[icon:fa-linkedin  https://www.linkedin.com/in/ian-q/](https://www.linkedin.com/in/ian-q/)
+
+[icon:github https://github.com/qiuxan](https://github.com/qiuxan)
+
+[icon:email ian.dev.q@gmail.com](mailto:ian.dev.q@gmail.com)
+
+icon:phone 0467239975
+
+:::
 
 ## Career Objective
 
@@ -9,7 +26,7 @@ Experienced SDE passionate about cutting-edge technology and agile development. 
 ## Skills
 
 **Programming Languages:** JavaScript (ES5-2021), TypeScript, C#, PHP, C++, Python  
-**Back-End Development:** .NET Core, Node.js, Laravel, Yii, Express.js, Next.js 
+**Back-End Development:**  Next.js, .NET Core, Node.js, Laravel, Yii, Express.js 
 **Front-End Development:** HTML5, CSS3, SCSS, Angular, React, AngularJS, jQuery  
 **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB  
 **Cloud Platforms:** Azure (App Service), Vercel, AWS (EC2), MongoDB Atlas  
@@ -17,9 +34,13 @@ Experienced SDE passionate about cutting-edge technology and agile development. 
 
 ## Projects
 
+### LetourCycles E-commerce Website <u>([Link](https://www.letour.com.au/))</u> | Shopify, CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics
+
+Letour Cycles is an Australian-based e-commerce website specializing in premium cycling gear, equipment, and accessories.
+
 ### Assessment Master<u>([Link](https://content.rmresults.com/assessment-master-brochure))</u>  | .Net Core, CSS, PHP, TypeScript, Angular, Chart.js, D3.js, Blockly, Node.js
 
-Assessment Master is a flexible online platform used globally by governments, universities, and schools for remote testing, assessing numeracy, literacy, ICT skills and so on.
+Assessment Master is a flexible, accessible online assessment platform trusted by governments, universities, and schools worldwide. It supports remote testing across various delivery methods, assessing competencies like numeracy, literacy, and ICT literacy for thousands of students.
 
 ### ICILS 2023 <u>([Link](https://nces.ed.gov/surveys/icils/partners.asp))</u> | PHP, TypeScript, Angular, D3.js, Blockly, Node.js, jQuery
 
@@ -29,24 +50,31 @@ The International Association for the Evaluation of Educational Achievement (IEA
 
 Created by the Organisation for Economic Co-operation and Development (OECD), PISA tests the skills and knowledge of 15-year-old students in mathematics, reading and science.
 
-### ICAEW E-Marking <u>([Link](https://content.rmresults.com/meeting-the-needs-of-the-modern-candidate))</u> | Angular,TypeScript Chart.js, D3.js, Blockly, Node.js, SpreadJS
-
-The Institute of Chartered Accountants in England and Wales (ICAEW) adopted an assessment solution reflecting professional accounting conditions while maintaining exam integrity.
-
 ## Experience
 
-### Munro Footwear Group —— `Full Stack Developer ( Jan 2025 - Present)`
+### Munro Footwear Group — `Full Stack Developer ( Jan 2025 - Present )`
 
-* __Full Stack Development__:Built high-performance, SEO-friendly e-commerce solutions using Next.js and React.js, integrating with Adobe Commerce (Magento) for seamless transactions. Optimized performance with SSR/SSG, reusable UI components, and efficient API calls.
+* __Full-Stack E-Commerce Development__: Built high-performance, SEO-friendly solutions using **Next.js** and **React.js**, integrated with **Adobe Commerce (Magento)** for seamless transactions.
 
+* __System Migration__: Migrated multiple e-commerce websites from **Magento CMS** to a modern **Next.js** architecture, improving scalability, performance, and maintainability.
+
+* __Performance Optimization__: Leveraged **SSR/SSG**, reusable UI components, and optimized API calls to enhance page load speed, Core Web Vitals, and overall UX.
+
+* __Hybrid Work Delivery__: Worked in a hybrid setup in the Greater Melbourne Area, collaborating across teams for efficient delivery.
+
+* __Agile Practices__: Managed sprint tasks, bugs, and features in **Jira**, aligning deliverables with project timelines and business goals.
 
 ### <b style="font-size: 17px;">Key Achievements</b>
 
-* **Bringing in documentation culture**:  
-  
-  - Enhanced the onboarding experience by contributing to the starter development environment setup documentation, streamlining the setup process for new developers.
+* **Main Developer - Midas Shoes Migration**:  
+  - Served as the **main developer** for migrating the **Midas Shoes** e-commerce platform from **Magento** to a modern **Next.js** architecture.  
+  - Delivered a faster, more scalable, and SEO-optimized platform while ensuring integration with existing backend systems and APIs.
 
-##### **Skills & Technologies:** *React, Next.js,Adobe Commerce, CSS/SCSS, Yii, GitHub, Azure DevOps,GitAction, Jira,SEO, Responsive Design,Accessibility Standards (WCAG)*
+* **Multi-Site Migration Project**:  
+  - Contributed to the migration of major Munro Footwear Group brands, including **Styletread**, **The Trybe**, and **Mathers**, from **Magento CMS** to **Next.js**.  
+  - Improved site performance, scalability, and user experience across multiple domains.
+
+##### **Skills & Technologies:** *React.js, Next.js, JavaScript, GraphQL, PHP, CSS/SCSS, Magento, Microsoft SQL Server, API Integration, SEO Optimization, Agile Development, Jira*
 
 ---
 
@@ -75,7 +103,6 @@ The Institute of Chartered Accountants in England and Wales (ICAEW) adopted an a
 * **Lead Angular Framework and Node.js Update**:  
   
   - Spearheaded the update of **Angular from version 14 to 18** and **Node.js from version 14 to 18**  for RM Australia's flagship SaaS platform, **Assessment Master**  <u>([https://content.rmresults.com/assessment-master-brochure](https://content.rmresults.com/assessment-master-brochure/))</u> .
-  - Took ownership of the Angular Development as a lead, establishing best practices to improve maintainability, scalability, and performance. Introduced modular architecture and streamlined component reuse for future development.
 
 * **Design Algorithm for ICILS Project Machine Marking**:  
   
@@ -107,12 +134,6 @@ The Institute of Chartered Accountants in England and Wales (ICAEW) adopted an a
 
 * __Data Monitoring__: Monitored and ensured smooth data exchange for orders and tracking information across multiple platforms.
 
-### <b style="font-size: 17px;">Key Achievements</b>
-
-* **Built wholesale integration**:  
-  
-  - During COVID, as the company initiated wholesale operations from 0 to 1, I built a system to integrate partner orders into the Neto platform.
-
 ##### **Skills & Technologies:** *CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics, Third-Party API Integration,SEO, Responsive Design,Accessibility Standards (WCAG)*
 
 ---
@@ -125,11 +146,11 @@ The Institute of Chartered Accountants in England and Wales (ICAEW) adopted an a
 
 * __Database Migration__: Designed and implemented Laravel database migrations with MySQL.  
 
-* __Feature Enhancement__: Developed new features to meet sales team requirements, ensuring the system aligns with business needs.  
+* __Feature Enhancement__: Added new features to meet sales team requirements, ensuring the system aligns with business needs.  
 
 * __System Optimization__: Optimized performance by resolving N+1 query issues and implemented custom middleware to support new features.  
-
-##### **Skills & Technologies:** *Laravel, HTML, CSS, MySQL, LAMP Development,Git & GitHub,AWS-EC2, Docker, Agile/Scrum methodologies*
+  
+  ##### **Skills & Technologies:** *Laravel, HTML, CSS, MySQL, LAMP Development,Git & GitHub,AWS-EC2, Docker, Agile/Scrum methodologies*
 
 ---
 
@@ -137,13 +158,13 @@ The Institute of Chartered Accountants in England and Wales (ICAEW) adopted an a
 
 * __API Management__: Managed APIs for different websites integrated with the PHP-based e-commerce system.  
 
-* __Web Development__: Added new features to the website, such as a Christmas Sale template and payment methods.  
+* __Feature Development__: Added new features to the website, such as a Christmas Sale template and new payment methods.  
 
-* __SEO Optimization__: Created new product listings with SEO features, including metadata injection with keywords.  
+* __SEO Optimization__: Created new product listings with SEO features, including metadata injection with targeted keywords.  
 
 * __API Communication__: Maintained seamless API communication between the company and carriers.  
-
-##### **Skills & Technologies:**  *CSS, HTML, JavaScript, SEO,API Testing & Debugging,Third-Party API Integration*
+  
+  ##### **Skills & Technologies:**  *CSS, HTML, JavaScript, SEO,API Testing & Debugging,Third-Party API Integration*
 
 ## Education
 
