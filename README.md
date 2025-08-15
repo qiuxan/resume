@@ -34,9 +34,9 @@ Experienced SDE passionate about cutting-edge technology and agile development. 
 
 ## Projects
 
-### LetourCycles E-commerce Website <u>([Link](https://www.letour.com.au/))</u> | Shopify, CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics
+### Midasshoes Website<u>([Link](https://www.midasshoes.com.au/))</u> | Next, React, CSS, Magento, JavaScript, CSS, SEO
 
-Letour Cycles is an Australian-based e-commerce website specializing in premium cycling gear, equipment, and accessories.
+Served as the main developer migrating the Midas Shoes e-commerce platform from Magento to Next.js, improving performance, scalability, and SEO while integrating with existing backend systems.
 
 ### Assessment Master<u>([Link](https://content.rmresults.com/assessment-master-brochure))</u>  | .Net Core, CSS, PHP, TypeScript, Angular, Chart.js, D3.js, Blockly, Node.js
 
@@ -59,8 +59,6 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
 * __System Migration__: Migrated multiple e-commerce websites from **Magento CMS** to a modern **Next.js** architecture, improving scalability, performance, and maintainability.
 
 * __Performance Optimization__: Leveraged **SSR/SSG**, reusable UI components, and optimized API calls to enhance page load speed, Core Web Vitals, and overall UX.
-
-* __Hybrid Work Delivery__: Worked in a hybrid setup in the Greater Melbourne Area, collaborating across teams for efficient delivery.
 
 * __Agile Practices__: Managed sprint tasks, bugs, and features in **Jira**, aligning deliverables with project timelines and business goals.
 
