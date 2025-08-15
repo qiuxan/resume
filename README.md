@@ -1,23 +1,6 @@
-::: left
+<b style="font-size: 24px;">Ian Qiu</b>   <span style="margin-left: 250px;">icon:school University of Tasmania - **Bachelor(Hons) of Computing** </span>
 
-<b style="font-size: 24px;">Ian Qiu</b>
-
-icon:school University of Tasmania
-**Bachelor(Hons) of Computing**
-
-:::
-
-::: right
-
-[icon:fa-linkedin  https://www.linkedin.com/in/ian-q/](https://www.linkedin.com/in/ian-q/)
-
-[icon:github https://github.com/qiuxan](https://github.com/qiuxan)
-
-[icon:email ian.dev.q@gmail.com](mailto:ian.dev.q@gmail.com)
-
-icon:phone 0467239975
-
-:::
+ icon:phone 0467 239 975  [icon:email ian.dev.q@gmail.com](mailto:ian.dev.q@gmail.com) [icon:fa-linkedin  https://www.linkedin.com/in/ian-q/](https://www.linkedin.com/in/ian-q/)[icon:github https://github.com/qiuxan](https://github.com/qiuxan)
 
 ## Career Objective
 
@@ -26,7 +9,7 @@ Experienced SDE passionate about cutting-edge technology and agile development. 
 ## Skills
 
 **Programming Languages:** JavaScript (ES5-2021), TypeScript, C#, PHP, C++, Python  
-**Back-End Development:**  Next.js, .NET Core, Node.js, Laravel, Yii, Express.js 
+**Back-End Development:** .NET Core, Node.js, Laravel, Yii, Express.js, Next.js 
 **Front-End Development:** HTML5, CSS3, SCSS, Angular, React, AngularJS, jQuery  
 **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB  
 **Cloud Platforms:** Azure (App Service), Vercel, AWS (EC2), MongoDB Atlas  
@@ -40,7 +23,7 @@ Served as the main developer migrating the Midas Shoes e-commerce platform from 
 
 ### Assessment Master<u>([Link](https://content.rmresults.com/assessment-master-brochure))</u>  | .Net Core, CSS, PHP, TypeScript, Angular, Chart.js, D3.js, Blockly, Node.js
 
-Assessment Master is a flexible, accessible online assessment platform trusted by governments, universities, and schools worldwide. It supports remote testing across various delivery methods, assessing competencies like numeracy, literacy, and ICT literacy for thousands of students.
+Assessment Master is a flexible online platform used globally by governments, universities, and schools for remote testing, assessing numeracy, literacy, ICT skills and so on.
 
 ### ICILS 2023 <u>([Link](https://nces.ed.gov/surveys/icils/partners.asp))</u> | PHP, TypeScript, Angular, D3.js, Blockly, Node.js, jQuery
 
@@ -62,7 +45,7 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
 
 * __Agile Practices__: Managed sprint tasks, bugs, and features in **Jira**, aligning deliverables with project timelines and business goals.
 
-### <b style="font-size: 17px;">Key Achievements</b>
+### Key Achievements:
 
 * **Main Developer - Midas Shoes Migration**:  
   - Served as the **main developer** for migrating the **Midas Shoes** e-commerce platform from **Magento** to a modern **Next.js** architecture.  
@@ -73,8 +56,7 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
   - Improved site performance, scalability, and user experience across multiple domains.
 
 ##### **Skills & Technologies:** *React.js, Next.js, JavaScript, GraphQL, PHP, CSS/SCSS, Magento, Microsoft SQL Server, API Integration, SEO Optimization, Agile Development, Jira*
-
----
+<br/><br/>
 
 ### RM PLC Australia (LSE Listed, Code: *RM..UK*) —— `Software Engineer  ( Oct 2021 - Jan 2025)`
 
@@ -90,7 +72,7 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
 
 * __Client Collaboration__: Translated client requirements into actionable tasks, ensured WCAG-aligned designs, and guided projects from development through QA to production.
 
-### <b style="font-size: 17px;">Key Achievements</b>
+### Key Achievements:
 
 * **Lead Developer - PISA2025 (Programme for International Student Assessment)**:  
   
@@ -101,6 +83,7 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
 * **Lead Angular Framework and Node.js Update**:  
   
   - Spearheaded the update of **Angular from version 14 to 18** and **Node.js from version 14 to 18**  for RM Australia's flagship SaaS platform, **Assessment Master**  <u>([https://content.rmresults.com/assessment-master-brochure](https://content.rmresults.com/assessment-master-brochure/))</u> .
+  - Took ownership of the Angular Development as a lead, establishing best practices to improve maintainability, scalability, and performance. Introduced modular architecture and streamlined component reuse for future development.
 
 * **Design Algorithm for ICILS Project Machine Marking**:  
   
@@ -118,7 +101,6 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
 
 ##### **Skills & Technologies:**  *C#, .NET Core, Node.js, Angular, PHP, TypeScript, Algorithm Design, AngularJS, Test-Driven Development (TDD), PostgreSQL, SQL Server, Back-end API Development, Front-end HTTP Request/Response Development, MVC, Vanilla JavaScript, jQuery, CSS/SCSS, Yii, GitLab, GitHub, Azure DevOps, Jira*
 
----
 
 ### Letour Cycles —— `EC Web and Integration  Developer ( Dec 2019 - Oct-2021)`
 
@@ -132,9 +114,14 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
 
 * __Data Monitoring__: Monitored and ensured smooth data exchange for orders and tracking information across multiple platforms.
 
+### Key Achievements:
+
+* **Built wholesale integration**:  
+  
+  - During COVID, as the company initiated wholesale operations from 0 to 1, I built a system to integrate partner orders into the Neto platform.
+
 ##### **Skills & Technologies:** *CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics, Third-Party API Integration,SEO, Responsive Design,Accessibility Standards (WCAG)*
 
----
 
 ### Australian Trading Bridge —— `Full Stack Developer ( Jan 2018 - Dec 2019 )`
 
@@ -144,25 +131,24 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
 
 * __Database Migration__: Designed and implemented Laravel database migrations with MySQL.  
 
-* __Feature Enhancement__: Added new features to meet sales team requirements, ensuring the system aligns with business needs.  
+* __Feature Enhancement__: Developed new features to meet sales team requirements, ensuring the system aligns with business needs.  
 
 * __System Optimization__: Optimized performance by resolving N+1 query issues and implemented custom middleware to support new features.  
-  
-  ##### **Skills & Technologies:** *Laravel, HTML, CSS, MySQL, LAMP Development,Git & GitHub,AWS-EC2, Docker, Agile/Scrum methodologies*
 
----
+##### **Skills & Technologies:** *Laravel, HTML, CSS, MySQL, LAMP Development,Git & GitHub,AWS-EC2, Docker, Agile/Scrum methodologies*
+
 
 ### FHL Group —— `IT support ( 2016 - 2018 )`
 
 * __API Management__: Managed APIs for different websites integrated with the PHP-based e-commerce system.  
 
-* __Feature Development__: Added new features to the website, such as a Christmas Sale template and new payment methods.  
+* __Web Development__: Added new features to the website, such as a Christmas Sale template and payment methods.  
 
-* __SEO Optimization__: Created new product listings with SEO features, including metadata injection with targeted keywords.  
+* __SEO Optimization__: Created new product listings with SEO features, including metadata injection with keywords.  
 
 * __API Communication__: Maintained seamless API communication between the company and carriers.  
-  
-  ##### **Skills & Technologies:**  *CSS, HTML, JavaScript, SEO,API Testing & Debugging,Third-Party API Integration*
+
+##### **Skills & Technologies:**  *CSS, HTML, JavaScript, SEO,API Testing & Debugging,Third-Party API Integration*
 
 ## Education
 
