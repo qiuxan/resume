@@ -4,7 +4,7 @@
 
 ## Career Objective
 
-Experienced SDE passionate about cutting-edge technology and agile development. Proficient in TypeScript, C#, PHP, and cloud platforms like Azure and AWS. Focused on growing as a T-shaped professional, blending deep expertise in software engineering with broad knowledge across diverse technologies, DevOps and products.
+Experienced SDE passionate about cutting-edge technology and agile development. Proficient in TypeScript, C#, PHP, and cloud platforms like Azure and AWS. Focused on growing as a T-shaped professional, blending deep expertise in software engineering with broad knowledge across technologies, DevOps and products.
 
 ## Skills
 
@@ -35,13 +35,19 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
 
 ## Experience
 
-### Munro Footwear Group — `Full Stack Developer ( Jan 2025 - Present )`
+### Munro Footwear Group ([<u>Link</u>](https://munrofootweargroup.com.au/brands/)) —— `Full Stack Developer ( Jan 2025 - Present )`
 
 * __Full-Stack E-Commerce Development__: Built high-performance, SEO-friendly solutions using **Next.js** and **React.js**, integrated with **Adobe Commerce (Magento)** for seamless transactions.
 
 * __System Migration__: Migrated multiple e-commerce websites from **Magento CMS** to a modern **Next.js** architecture, improving scalability, performance, and maintainability.
 
 * __Performance Optimization__: Leveraged **SSR/SSG**, reusable UI components, and optimized API calls to enhance page load speed, Core Web Vitals, and overall UX.
+
+* __UX/UI Collaboration__: Collaborated with designers to deliver seamless, user-friendly, and accessible customer experiences.
+
+* __DevOps Collaboration__: Worked with **DevOps engineers** to deploy applications efficiently using **CI/CD pipelines** and **cloud platforms**, ensuring reliable and timely releases.
+
+
 
 * __Agile Practices__: Managed sprint tasks, bugs, and features in **Jira**, aligning deliverables with project timelines and business goals.
 
@@ -56,53 +62,48 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
   - Improved site performance, scalability, and user experience across multiple domains.
 
 ##### **Skills & Technologies:** *React.js, Next.js, JavaScript, GraphQL, PHP, CSS/SCSS, Magento, Microsoft SQL Server, API Integration, SEO Optimization, Agile Development, Jira*
-<br/><br/>
+<br/><br/><br/>
 
-### RM PLC Australia (LSE Listed, Code: *RM..UK*) —— `Software Engineer  ( Oct 2021 - Jan 2025)`
+### RM PLC Australia (LSE Listed, Code: *RM..UK*) ([<u>Link</u>](https://www.rmplc.com/)) —— `Software Engineer  ( Oct 2021 - Jan 2025)`
 
-* __Full-Stack SaaS Development__: Expertise in database retrieval, API design, HTTP request handling, and UI/UX development, with SQL optimization for efficient responses.
+* __Full-Stack SaaS Development__: Delivered end-to-end solutions involving **database retrieval**, **API design**, **HTTP request handling**, and **UI/UX development**, with advanced **SQL optimization** for efficient data processing.
 
-* __System Migration__: Contributed to transitioning a PHP monolithic system to a C# and SQL Server microservices architecture, improving scalability and performance.
+* __System Migration__: Contributed to the transition from a **PHP monolithic system** to a **C# .NET Core + SQL Server microservices architecture**, enhancing scalability, reliability, and performance.
 
-* __Accessibility Compliance__: Enhanced UI/UX to meet WCAG 2.0–2.2 standards, customizing third-party libraries as needed.
+* __Accessibility Compliance__: Improved UI/UX to align with **WCAG 2.0–2.2 standards**, customizing third-party libraries to ensure accessibility compliance across the platform.
 
-* __Agile & CI/CD__: Managed sprints via Jira (stories, tasks, bugs) and utilized Azure DevOps for deployments, version control, and CI/CD pipelines.
+* __Agile & CI/CD__: Managed sprints through **Jira** (stories, tasks, bugs) and utilized **Azure DevOps** for deployments, version control, and automated CI/CD pipelines.
 
-* __Data Processing Algorithms__: Designed algorithms to process raw data (e.g., student answers) and auto-generate scoring reports.
+* __Data Processing Algorithms__: Designed algorithms to process raw data (e.g., student responses) and **auto-generate scoring reports**, reducing manual workload and improving accuracy.
 
-* __Client Collaboration__: Translated client requirements into actionable tasks, ensured WCAG-aligned designs, and guided projects from development through QA to production.
+* __Client Collaboration__: Partnered with clients to translate requirements into actionable development tasks, ensuring delivery of **WCAG-compliant designs** and managing projects from development through QA to production.
 
-### Key Achievements:
+### <b style="font-size: 17px;">Key Achievements</b>
 
 * **Lead Developer - PISA2025 (Programme for International Student Assessment)**:  
-  
-  - Stepped up as project lead after the departure of the project lead.  
-  - Successfully took on **Project Manager, Business Analyst, and Developer roles**.  
-  - Independently developed two key modules while serving as the primary point of contact with **external stakeholders, including OECD-Europe**, to negotiate requirements, deliver progress updates, and establish project timelines.
+  - Assumed **project leadership** after the departure of the project lead.  
+  - Successfully handled **Project Manager, Business Analyst, and Developer roles** simultaneously.  
+  - Independently developed two mission-critical modules while acting as the **primary liaison with OECD-Europe**, negotiating requirements, delivering progress updates, and setting project timelines.
 
-* **Lead Angular Framework and Node.js Update**:  
-  
-  - Spearheaded the update of **Angular from version 14 to 18** and **Node.js from version 14 to 18**  for RM Australia's flagship SaaS platform, **Assessment Master**  <u>([https://content.rmresults.com/assessment-master-brochure](https://content.rmresults.com/assessment-master-brochure/))</u> .
-  - Took ownership of the Angular Development as a lead, establishing best practices to improve maintainability, scalability, and performance. Introduced modular architecture and streamlined component reuse for future development.
+* **Lead Angular & Node.js Modernization**:  
+  - Spearheaded the update of **Angular (14 → 18)** and **Node.js (14 → 18)** for RM Australia's flagship SaaS platform, **Assessment Master** <u>([brochure](https://content.rmresults.com/assessment-master-brochure/))</u>.  
+  - Took ownership of **Angular development**, introducing **modular architecture**, improved component reuse, and best practices to boost maintainability, scalability, and performance.
 
-* **Design Algorithm for ICILS Project Machine Marking**:  
-  
-  - Designed and developed a **recursive algorithm** for **Blockly** <u>([https://blockly.games/](https://blockly.games/))</u>
-    machine marking in the **ICILS Project** <u>([https://icils.acer.org/](https://icils.acer.org/))</u>.  
-  - Transformed complex XML strings into executable code for grading coding exams, enhancing the project's automation capabilities.
+* **Algorithm Design - ICILS Machine Marking**:  
+  - Developed a **recursive algorithm** for **Blockly** <u>([Blockly Games](https://blockly.games/))</u> machine marking in the **ICILS** <u>([ICILS](https://icils.acer.org/))</u>.  
+  - Transformed complex **XML strings** into executable code, automating grading of coding exams and significantly reducing manual evaluation effort.
 
-* **Lead D3.js Data Visualization Update**:  
-  
-  - Led the upgrade of the **D3.js visualization library** from version 4 to 7.9, improving performance and visualization features for **Assessment Master**.
+* **Lead D3.js Data Visualization Upgrade**:  
+  - Led the migration of the **D3.js visualization library** from v4 to **v7.9**, improving rendering performance, scalability, and interactive data visualization features for **Assessment Master**.
 
 * **Test-Driven Development (TDD) Leadership**:  
-  
-  - Championed the **design and implementation of TDD methodologies**, establishing best practices to enhance code quality and maintainability across the software development lifecycle.
+  - Championed the **design and implementation of TDD practices**, establishing code standards and workflows that enhanced code quality, and improved maintainability across the team.
 
-##### **Skills & Technologies:**  *C#, .NET Core, Node.js, Angular, PHP, TypeScript, Algorithm Design, AngularJS, Test-Driven Development (TDD), PostgreSQL, SQL Server, Back-end API Development, Front-end HTTP Request/Response Development, MVC, Vanilla JavaScript, jQuery, CSS/SCSS, Yii, GitLab, GitHub, Azure DevOps, Jira*
+##### **Skills & Technologies:** *C#, .NET Core, Node.js, Angular, PHP, TypeScript, Algorithm Design, AngularJS, Test-Driven Development (TDD), PostgreSQL, SQL Server, Back-end API Development, Front-end HTTP Request/Response Development, MVC, Vanilla JavaScript, jQuery, CSS/SCSS, Yii, GitLab, GitHub, Azure DevOps, Jira*
 
+<br/>
 
-### Letour Cycles —— `EC Web and Integration  Developer ( Dec 2019 - Oct-2021)`
+### Letour Cycles ([<u>Link</u>](https://www.letour.com.au/)) —— `EC Web and Integration  Developer ( Dec 2019 - Oct-2021)`
 
 * __E-commerce Development__: Designed, developed, and deployed Shopify-based online stores, enhancing user experience and functionality.
 
@@ -122,8 +123,9 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
 
 ##### **Skills & Technologies:** *CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics, Third-Party API Integration,SEO, Responsive Design,Accessibility Standards (WCAG)*
 
+<br/><br/>
 
-### Australian Trading Bridge —— `Full Stack Developer ( Jan 2018 - Dec 2019 )`
+### Australian Trading Bridge ([<u>Link</u>](https://www.linkedin.com/company/autb-pty-ltd/)) —— `Full Stack Developer ( Jan 2018 - Dec 2019 )`
 
 * __Product Management System Development__: Developed a printing product management system and E-commerce website using Laravel 5.  
 
@@ -136,7 +138,7 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
 * __System Optimization__: Optimized performance by resolving N+1 query issues and implemented custom middleware to support new features.  
 
 ##### **Skills & Technologies:** *Laravel, HTML, CSS, MySQL, LAMP Development,Git & GitHub,AWS-EC2, Docker, Agile/Scrum methodologies*
-
+<br/>
 
 ### FHL Group —— `IT support ( 2016 - 2018 )`
 
