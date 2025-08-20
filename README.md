@@ -9,11 +9,11 @@ Experienced SDE passionate about cutting-edge technology and agile development. 
 ## Skills
 
 **Programming Languages:** JavaScript (ES5-2021), TypeScript, C#, PHP, C++, Python  
-**Back-End Development:** .NET Core, Node.js, Laravel, Yii, Express.js, Next.js 
-**Front-End Development:** HTML5, CSS3, SCSS, Angular, React, AngularJS, jQuery  
+**Back-End Development:** .NET Core, Node.js, Laravel, Yii, Express.js, Next.js( Full Stack)
+**Front-End Development:** React, Next.js(Headless Front End), Angular, CSS3, HTML5, AngularJS, jQuery  
 **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB  
 **Cloud Platforms:** Azure (App Service), Vercel, AWS (EC2), MongoDB Atlas  
-**CI/CD Tools:** GitHub, GitLab, Jira, Azure DevOps Server  
+**CI/CD Tools:** GitHub Action, GitLab, Jira, Azure DevOps Server  
 
 ## Projects
 
@@ -35,7 +35,7 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
 
 ## Experience
 
-### Munro Footwear Group ([<u>Link</u>](https://munrofootweargroup.com.au/brands/)) —— `Full Stack Developer ( Jan 2025 - Present )`
+### Munro Footwear Group ([<u>Link</u>](https://munrofootweargroup.com.au/brands/)) —— `Full Stack Developer ( Dec 2024 - Present )`
 
 * __Full-Stack E-Commerce Development__: Built high-performance, SEO-friendly solutions using **Next.js** and **React.js**, integrated with **Adobe Commerce (Magento)** for seamless transactions.
 
@@ -64,7 +64,7 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
 ##### **Skills & Technologies:** *React.js, Next.js, JavaScript, GraphQL, PHP, CSS/SCSS, Magento, Microsoft SQL Server, API Integration, SEO Optimization, Agile Development, Jira*
 <br/><br/><br/>
 
-### RM PLC Australia (LSE Listed, Code: *RM..UK*) ([<u>Link</u>](https://www.rmplc.com/)) —— `Software Engineer  ( Oct 2021 - Jan 2025)`
+### RM PLC Australia (LSE Listed, Code: *RM..UK*) ([<u>Link</u>](https://www.rmplc.com/)) —— `Software Engineer  ( Oct 2021 - Dec 2024)`
 
 * __Full-Stack SaaS Development__: Delivered end-to-end solutions involving **database retrieval**, **API design**, **HTTP request handling**, and **UI/UX development**, with advanced **SQL optimization** for efficient data processing.
 
@@ -75,6 +75,8 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
 * __Agile & CI/CD__: Managed sprints through **Jira** (stories, tasks, bugs) and utilized **Azure DevOps** for deployments, version control, and automated CI/CD pipelines.
 
 * __Data Processing Algorithms__: Designed algorithms to process raw data (e.g., student responses) and **auto-generate scoring reports**, reducing manual workload and improving accuracy.
+* __Team Mentorship__: Provided **training and guidance to junior developers** in **Angular** and **Node.js**, fostering best practices and improving team capability.
+
 
 * __Client Collaboration__: Partnered with clients to translate requirements into actionable development tasks, ensuring delivery of **WCAG-compliant designs** and managing projects from development through QA to production.
 
