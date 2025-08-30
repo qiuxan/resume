@@ -35,7 +35,7 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
 
 ## Experience
 
-### Munro Footwear Group ([<u>Link</u>](https://munrofootweargroup.com.au/brands/)) —— `Full Stack Developer ( Dec 2024 - Present )`
+### Munro Footwear Group ([<u>Link</u>](https://munrofootweargroup.com.au/brands/)) —— `Full Stack Developer ( Jan 2025 - Present )`
 
 * __Full-Stack E-Commerce Development__: Built high-performance, SEO-friendly solutions using **Next.js** and **React.js**, integrated with **Adobe Commerce (Magento)** for seamless transactions.
 
@@ -47,24 +47,25 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
 
 * __DevOps Collaboration__: Worked with **DevOps engineers** to deploy applications efficiently using **CI/CD pipelines** and **cloud platforms**, ensuring reliable and timely releases.
 
-
-
 * __Agile Practices__: Managed sprint tasks, bugs, and features in **Jira**, aligning deliverables with project timelines and business goals.
 
 ### Key Achievements:
 
 * **Main Developer - Midas Shoes Migration**:  
+  
   - Served as the **main developer** for migrating the **Midas Shoes** e-commerce platform from **Magento** to a modern **Next.js** architecture.  
   - Delivered a faster, more scalable, and SEO-optimized platform while ensuring integration with existing backend systems and APIs.
 
 * **Multi-Site Migration Project**:  
+  
   - Contributed to the migration of major Munro Footwear Group brands, including **Styletread**, **The Trybe**, and **Mathers**, from **Magento CMS** to **Next.js**.  
   - Improved site performance, scalability, and user experience across multiple domains.
 
 ##### **Skills & Technologies:** *React.js, Next.js, JavaScript, GraphQL, PHP, CSS/SCSS, Magento, Microsoft SQL Server, API Integration, SEO Optimization, Agile Development, Jira*
+
 <br/><br/><br/>
 
-### RM PLC Australia (LSE Listed, Code: *RM..UK*) ([<u>Link</u>](https://www.rmplc.com/)) —— `Software Engineer  ( Oct 2021 - Dec 2024)`
+### RM PLC Australia(LSE Listed, Code: *RM..UK*) ([<u>Link</u>](https://www.rmplc.com/))  —`Software Engineer(Oct 2021 - Jan 2025)`
 
 * __Full-Stack SaaS Development__: Delivered end-to-end solutions involving **database retrieval**, **API design**, **HTTP request handling**, and **UI/UX development**, with advanced **SQL optimization** for efficient data processing.
 
@@ -75,30 +76,35 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
 * __Agile & CI/CD__: Managed sprints through **Jira** (stories, tasks, bugs) and utilized **Azure DevOps** for deployments, version control, and automated CI/CD pipelines.
 
 * __Data Processing Algorithms__: Designed algorithms to process raw data (e.g., student responses) and **auto-generate scoring reports**, reducing manual workload and improving accuracy.
-* __Team Mentorship__: Provided **training and guidance to junior developers** in **Angular** and **Node.js**, fostering best practices and improving team capability.
 
+* __Team Mentorship__: Provided **training and guidance to junior developers** in **Angular** and **Node.js**, fostering best practices and improving team capability.
 
 * __Client Collaboration__: Partnered with clients to translate requirements into actionable development tasks, ensuring delivery of **WCAG-compliant designs** and managing projects from development through QA to production.
 
 ### <b style="font-size: 17px;">Key Achievements</b>
 
 * **Lead Developer - PISA2025 (Programme for International Student Assessment)**:  
+  
   - Assumed **project leadership** after the departure of the project lead.  
   - Successfully handled **Project Manager, Business Analyst, and Developer roles** simultaneously.  
   - Independently developed two mission-critical modules while acting as the **primary liaison with OECD-Europe**, negotiating requirements, delivering progress updates, and setting project timelines.
 
 * **Lead Angular & Node.js Modernization**:  
+  
   - Spearheaded the update of **Angular (14 → 18)** and **Node.js (14 → 18)** for RM Australia's flagship SaaS platform, **Assessment Master** <u>([brochure](https://content.rmresults.com/assessment-master-brochure/))</u>.  
   - Took ownership of **Angular development**, introducing **modular architecture**, improved component reuse, and best practices to boost maintainability, scalability, and performance.
 
 * **Algorithm Design - ICILS Machine Marking**:  
+  
   - Developed a **recursive algorithm** for **Blockly** <u>([Blockly Games](https://blockly.games/))</u> machine marking in the **ICILS** <u>([ICILS](https://icils.acer.org/))</u>.  
   - Transformed complex **XML strings** into executable code, automating grading of coding exams and significantly reducing manual evaluation effort.
 
 * **Lead D3.js Data Visualization Upgrade**:  
+  
   - Led the migration of the **D3.js visualization library** from v4 to **v7.9**, improving rendering performance, scalability, and interactive data visualization features for **Assessment Master**.
 
 * **Test-Driven Development (TDD) Leadership**:  
+  
   - Championed the **design and implementation of TDD practices**, establishing code standards and workflows that enhanced code quality, and improved maintainability across the team.
 
 ##### **Skills & Technologies:** *C#, .NET Core, Node.js, Angular, PHP, TypeScript, Algorithm Design, AngularJS, Test-Driven Development (TDD), PostgreSQL, SQL Server, Back-end API Development, Front-end HTTP Request/Response Development, MVC, Vanilla JavaScript, jQuery, CSS/SCSS, Yii, GitLab, GitHub, Azure DevOps, Jira*
@@ -140,6 +146,7 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
 * __System Optimization__: Optimized performance by resolving N+1 query issues and implemented custom middleware to support new features.  
 
 ##### **Skills & Technologies:** *Laravel, HTML, CSS, MySQL, LAMP Development,Git & GitHub,AWS-EC2, Docker, Agile/Scrum methodologies*
+
 <br/>
 
 ### FHL Group —— `IT support ( 2016 - 2018 )`
