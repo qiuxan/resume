@@ -14,10 +14,11 @@ Experienced SDE passionate about cutting-edge technology and agile development. 
 **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB  
 **Cloud Platforms:** Azure (App Service), Vercel, AWS (EC2), MongoDB Atlas  
 **CI/CD Tools:** GitHub Action, GitLab, Jira, Azure DevOps Server  
+**API:** GraphQL,RESTful 
 
 ## Projects
 
-### Midasshoes Website<u>([Link](https://www.midasshoes.com.au/))</u> | Next, React, CSS, Magento, JavaScript, CSS, SEO
+### Midasshoes Website<u>([Link](https://www.midasshoes.com.au/))</u> | Next, React, CSS, Magento, JavaScript, CSS, SEO, GraphQL
 
 Served as the main developer migrating the Midas Shoes e-commerce platform from Magento to Next.js, improving performance, scalability, and SEO while integrating with existing backend systems.
 
