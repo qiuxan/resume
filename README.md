@@ -10,7 +10,7 @@ Experienced SDE passionate about cutting-edge technology and agile development. 
 
 **Programming Languages:** JavaScript (ES5-2021), TypeScript, C#, PHP, C++, Python  
 **Back-End Development:** .NET Core, Node.js, Laravel, Yii, Express.js, Next.js( Full Stack)
-**Front-End Development:** React, Next.js(Headless Front End), Angular, CSS3, HTML5, AngularJS, jQuery  
+**Front-End Development:** React, Next.js(Headless Front End), Angular, CSS3, HTML5, AngularJS, jQuery, iOS  
 **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB  
 **Cloud Platforms:** Azure (App Service), Vercel, AWS (EC2), MongoDB Atlas  
 **CI/CD Tools:** GitHub Action, GitLab, Jira, Azure DevOps Server  
@@ -61,8 +61,12 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
   
   - Contributed to the migration of major Munro Footwear Group brands, including **Styletread**, **The Trybe**, and **Mathers**, from **Magento CMS** to **Next.js**.  
   - Improved site performance, scalability, and user experience across multiple domains.
+  
+* **Apple Pay Express Checkout**:  
+  
+  - Implemented Apple Pay Express Checkout across Munro Footwear Group’s eCommerce websites, enhancing checkout efficiency and user experience.
 
-##### **Skills & Technologies:** *React.js, Next.js, JavaScript, GraphQL, PHP, CSS/SCSS, Magento, Microsoft SQL Server, API Integration, SEO Optimization, Agile Development, Jira*
+##### **Skills & Technologies:** *React.js, Next.js, JavaScript, GraphQL, PHP, CSS/SCSS, Magento, Microsoft SQL Server, API Integration, SEO Optimization, Agile Development, Jira, iOS Development*
 
 <br/><br/><br/>
 
