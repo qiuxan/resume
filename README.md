@@ -4,27 +4,30 @@
 
 ## Career Objective
 
-Experienced SDE passionate about cutting-edge technology and agile development. Proficient in TypeScript, C#, PHP, and cloud platforms like Azure and AWS. Focused on growing as a T-shaped professional, blending deep expertise in software engineering with broad knowledge across technologies, DevOps and products.
+Experienced Software Engineer passionate about AI-driven innovation, cloud architecture, and agile development. Proficient in TypeScript, C#, and PHP, with hands-on experience across Azure and AWS. Dedicated to growing as a T-shaped professional—combining deep software engineering expertise with broad knowledge across AI integration, DevOps, and scalable cloud solutions
 
 ## Skills
 
 **Programming Languages:** JavaScript (ES5-2021), TypeScript, C#, PHP, C++, Python  
+**Cloud Platforms:** Azure (App Service, CDN, Azure Functions), Vercel, AWS (EC2, Lambda, S3), MongoDB Atlas  
 **Back-End Development:** .NET Core, Node.js, Laravel, Yii, Express.js, Next.js( Full Stack)
 **Front-End Development:** React, Next.js(Headless Front End), Angular, CSS3, HTML5, AngularJS, jQuery, iOS  
 **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB  
-**Cloud Platforms:** Azure (App Service), Vercel, AWS (EC2), MongoDB Atlas  
+
 **CI/CD Tools:** GitHub Action, GitLab, Jira, Azure DevOps Server  
 **API:** GraphQL,RESTful 
 
 ## Projects
 
+### Assessment Master<u>([Link](https://content.rmresults.com/assessment-master-brochure))</u>  | .NET Core, CSS, PHP, TypeScript, Angular, Chart.js, D3.js, Blockly, Node.js, Azure Cloud Functions, Microservices Architecture
+
+Assessment Master is a cloud-based, microservices-driven online assessment platform used globally by governments, universities, and schools for remote testing and evaluation of numeracy, literacy, and ICT skills.
+
+
 ### Midasshoes Website<u>([Link](https://www.midasshoes.com.au/))</u> | Next, React, CSS, Magento, JavaScript, CSS, SEO, GraphQL
 
 Served as the main developer migrating the Midas Shoes e-commerce platform from Magento to Next.js, improving performance, scalability, and SEO while integrating with existing backend systems.
 
-### Assessment Master<u>([Link](https://content.rmresults.com/assessment-master-brochure))</u>  | .Net Core, CSS, PHP, TypeScript, Angular, Chart.js, D3.js, Blockly, Node.js
-
-Assessment Master is a flexible online platform used globally by governments, universities, and schools for remote testing, assessing numeracy, literacy, ICT skills and so on.
 
 ### ICILS 2023 <u>([Link](https://nces.ed.gov/surveys/icils/partners.asp))</u> | PHP, TypeScript, Angular, D3.js, Blockly, Node.js, jQuery
 
@@ -68,7 +71,7 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
 
 ##### **Skills & Technologies:** *React.js, Next.js, JavaScript, GraphQL, PHP, CSS/SCSS, Magento, Microsoft SQL Server, API Integration, SEO Optimization, Agile Development, Jira, iOS Development*
 
-<br/><br/><br/>
+<br/>
 
 ### RM PLC Australia(LSE Listed, Code: *RM..UK*) ([<u>Link</u>](https://www.rmplc.com/))  —`Software Engineer(Oct 2021 - Jan 2025)`
 
