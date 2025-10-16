@@ -74,7 +74,7 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
 
 * __Full-Stack SaaS Development__: Delivered end-to-end solutions involving **database retrieval**, **API design**, **HTTP request handling**, and **UI/UX development**, with advanced **SQL optimization** for efficient data processing.
 
-* __System Migration__: Contributed to the transition from a **PHP monolithic system** to a **C# .NET Core + SQL Server microservices architecture**, enhancing scalability, reliability, and performance.
+* __System Migration__: Contributed to the transition from a **PHP monolithic system** to a **C# .NET Core + SQL Server microservices architecture**, enhancing scalability, reliability, and performance. Using **Azure Serverless App Functions**, integrating them via API Gateway to enable lightweight, event-driven microservices and cost-efficient scaling across the platform.
 
 * __Accessibility Compliance__: Improved UI/UX to align with **WCAG 2.0–2.2 standards**, customizing third-party libraries to ensure accessibility compliance across the platform.
 
@@ -112,7 +112,7 @@ Created by the Organisation for Economic Co-operation and Development (OECD), PI
   
   - Championed the **design and implementation of TDD practices**, establishing code standards and workflows that enhanced code quality, and improved maintainability across the team.
 
-##### **Skills & Technologies:** *C#, .NET Core, Node.js, Angular, PHP, TypeScript, Algorithm Design, AngularJS, Test-Driven Development (TDD), PostgreSQL, SQL Server, Back-end API Development, Front-end HTTP Request/Response Development, MVC, Vanilla JavaScript, jQuery, CSS/SCSS, Yii, GitLab, GitHub, Azure DevOps, Jira*
+##### **Skills & Technologies:** *C#, .NET Core, Node.js, Angular, PHP, TypeScript, Algorithm Design, AngularJS, Test-Driven Development (TDD), PostgreSQL, SQL Server, Back-end API Development, Serverless, MVC, Vanilla JavaScript, jQuery, CSS/SCSS, Yii, GitLab, GitHub, Azure DevOps, Jira*
 
 <br/>
 
