@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompileSettings>
+    <ProjectSettings>
+        <Content Scope="Included">
+            <Filter State="Off" Exclude="No" Type="Label">
+                <CollectionID>C1C4A964-C451-4217-A067-4DE4274954F1</CollectionID>
+                <Label>-1</Label>
+                <Status>-1</Status>
+            </Filter>
+        </Content>
+        <Options>
+            <RemoveComments>Yes</RemoveComments>
+            <RemoveAnnotations>Yes</RemoveAnnotations>
+            <ResampleImages DPI="72">No</ResampleImages>
+            <ConvertTablesAndListToMMD>Yes</ConvertTablesAndListToMMD>
+            <PDF>
+                <Cover Bleed="9.0" BleedUnits="pt"/>
+                <Compression Enabled="No">
+                    <ImageResolutionCompressionType>Set</ImageResolutionCompressionType>
+                    <ImageResolution>150</ImageResolution>
+                    <CompressionQuality>0.5</CompressionQuality>
+                </Compression>
+            </PDF>
+            <Scriptwriting>
+                <IncludeTitles>Yes</IncludeTitles>
+                <IncludeSynopses>Yes</IncludeSynopses>
+                <CommentsAsScriptNotes>Yes</CommentsAsScriptNotes>
+            </Scriptwriting>
+            <Ebook>
+                <StartAfterFrontMatter>Yes</StartAfterFrontMatter>
+                <Cover>
+                    <ImageDocument Source="FrontMatter"/>
+                    <Title>Cover</Title>
+                    <SVG Width="600" Height="800"><![CDATA[]]></SVG>
+                </Cover>
+                <TOC PandocDepth="3">
+                    <HTML Generate="Yes">
+                        <Title>Contents</Title>
+                    </HTML>
+                </TOC>
+            </Ebook>
+        </Options>
+        <MetaData>
+            <ProjectTitle>Resume_Ian_Qiu</ProjectTitle>
+            <ProjectAbbreviatedTitle>Resume_Ian_Qiu</ProjectAbbreviatedTitle>
+            <EbookLanguage>en</EbookLanguage>
+            <FountainTitlePageMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </FountainTitlePageMetaData>
+            <MMDMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </MMDMetaData>
+        </MetaData>
+    </ProjectSettings>
+    <CurrentFileType>html</CurrentFileType>
+    <FormatSettings>
+        <Format ID="DEFAULT">
+            <SectionLayouts>
+                <Type ID="48D10051-20F5-4B43-820D-43E4F0ABE6ED">NEW-PAGE-HEADER-WITH-TEXT</Type>
+                <Type ID="88BC70E1-F421-4275-B78B-44AF6AAFEE03">TEXT-SECTION</Type>
+            </SectionLayouts>
+        </Format>
+        <Format ID="71AD07D3-9AB1-4D85-9A26-CF0526262D12">
+            <SectionLayouts>
+                <Type ID="48D10051-20F5-4B43-820D-43E4F0ABE6ED">NEW-PAGE-HEADER-WITH-TEXT</Type>
+                <Type ID="88BC70E1-F421-4275-B78B-44AF6AAFEE03">TEXT-SECTION</Type>
+            </SectionLayouts>
+        </Format>
+    </FormatSettings>
+    <LastUsedFormats>
+        <Print>71AD07D3-9AB1-4D85-9A26-CF0526262D12</Print>
+        <pdf>71AD07D3-9AB1-4D85-9A26-CF0526262D12</pdf>
+        <html>71AD07D3-9AB1-4D85-9A26-CF0526262D12</html>
+    </LastUsedFormats>
+</CompileSettings>
