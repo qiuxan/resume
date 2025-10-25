@@ -690,10 +690,10 @@
     <PageSettings UseDefaultPaperSize="Yes">
         <PrintSettings PaperSize="595.275546,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
         <Margins Units="Inches" RespectPrinterBounds="Yes">
-            <Top>0.1</Top>
-            <Bottom>0.1</Bottom>
-            <Left>0.2</Left>
-            <Right>0.2</Right>
+            <Top>0.5</Top>
+            <Bottom>0.5</Bottom>
+            <Left>0.5</Left>
+            <Right>0.5</Right>
         </Margins>
         <HeadersAndFooters>
             <HeaderFont Size="12.0">Helvetica</HeaderFont>
