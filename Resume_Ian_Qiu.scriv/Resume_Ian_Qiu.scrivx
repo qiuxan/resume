@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="C22900CE-915A-443A-A3E8-5338939A517D" Version="2.0" Creator="SCRMAC-3.5-17311" Device="XIANs-MacBook-Pro" Author="" Modified="2025-10-27 07:33:32 +1100" ModID="68F95D96-C2C7-49CD-8C25-642EA04F240C">
+<ScrivenerProject Identifier="C22900CE-915A-443A-A3E8-5338939A517D" Version="2.0" Creator="SCRMAC-3.5-17311" Device="XIANs-MacBook-Pro" Author="" Modified="2025-10-27 07:43:22 +1100" ModID="A3C82643-7903-4740-AFA3-CDF0912F5AD1">
     <Binder>
         <BinderItem UUID="E300FB67-65E1-4397-8C36-50DDC812EC52" Type="Folder" Created="2025-10-20 20:42:58 +1100" Modified="2025-10-20 20:42:58 +1100">
             <Title>Draft-1</Title>
@@ -314,7 +314,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="55FA9A75-A463-4F92-B8D8-CA7603940722" Type="Text" Created="2025-10-25 21:27:30 +1100" Modified="2025-10-27 07:31:48 +1100">
+                <BinderItem UUID="55FA9A75-A463-4F92-B8D8-CA7603940722" Type="Text" Created="2025-10-25 21:27:30 +1100" Modified="2025-10-27 07:42:29 +1100">
                     <Title>Education</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -323,15 +323,6 @@
                         <TextSelection>13,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="8EDB57C2-0234-4645-AEA4-7F0D44F69E65" Type="Text" Created="2025-10-25 21:27:55 +1100" Modified="2025-10-26 10:15:26 +1100">
-                            <Title>UTAS</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>80,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
                         <BinderItem UUID="596DD5ED-A41D-4FDF-8A8F-E08F3366D7E8" Type="Text" Created="2025-10-20 21:00:32 +1100" Modified="2025-10-26 21:03:41 +1100">
                             <Title>Content</Title>
                             <MetaData>
@@ -1409,6 +1400,15 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>101,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="8EDB57C2-0234-4645-AEA4-7F0D44F69E65" Type="Text" Created="2025-10-25 21:27:55 +1100" Modified="2025-10-26 10:15:26 +1100">
+                    <Title>UTAS</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>80,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
