@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="C22900CE-915A-443A-A3E8-5338939A517D" Version="2.0" Creator="SCRMAC-3.5-17311" Device="XIANs-MacBook-Pro" Author="" Modified="2025-10-26 21:27:35 +1100" ModID="5182CA64-2255-4F49-8D51-72B678B69DCE">
+<ScrivenerProject Identifier="C22900CE-915A-443A-A3E8-5338939A517D" Version="2.0" Creator="SCRMAC-3.5-17311" Device="XIANs-MacBook-Pro" Author="" Modified="2025-10-27 07:33:32 +1100" ModID="68F95D96-C2C7-49CD-8C25-642EA04F240C">
     <Binder>
         <BinderItem UUID="E300FB67-65E1-4397-8C36-50DDC812EC52" Type="Folder" Created="2025-10-20 20:42:58 +1100" Modified="2025-10-20 20:42:58 +1100">
             <Title>Draft-1</Title>
@@ -49,7 +49,7 @@
                         <TextSelection>11,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="6D43C567-37FE-413C-83CC-F8B041C9425D" Type="Text" Created="2025-10-24 21:11:43 +1100" Modified="2025-10-26 21:17:32 +1100">
+                        <BinderItem UUID="6D43C567-37FE-413C-83CC-F8B041C9425D" Type="Text" Created="2025-10-24 21:11:43 +1100" Modified="2025-10-27 07:24:05 +1100">
                             <Title>Muron</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -88,7 +88,7 @@
                                         <TextSelection>0,17</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="27F9C04B-C244-4FF1-AFB7-E67516366DC8" Type="Text" Created="2025-10-24 07:25:28 +1100" Modified="2025-10-26 20:36:53 +1100">
+                                        <BinderItem UUID="27F9C04B-C244-4FF1-AFB7-E67516366DC8" Type="Text" Created="2025-10-24 07:25:28 +1100" Modified="2025-10-27 07:22:55 +1100">
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
@@ -96,7 +96,7 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="2AD0FB50-966E-4233-BA22-5A18BADFE0B5" Type="Text" Created="2025-10-24 07:25:28 +1100" Modified="2025-10-26 20:37:05 +1100">
+                                        <BinderItem UUID="2AD0FB50-966E-4233-BA22-5A18BADFE0B5" Type="Text" Created="2025-10-24 07:25:28 +1100" Modified="2025-10-27 07:22:23 +1100">
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
@@ -116,7 +116,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="C5C32083-6447-4160-8CEC-35B72E4D40F8" Type="Text" Created="2025-10-24 21:11:43 +1100" Modified="2025-10-26 21:18:04 +1100">
+                        <BinderItem UUID="C5C32083-6447-4160-8CEC-35B72E4D40F8" Type="Text" Created="2025-10-24 21:11:43 +1100" Modified="2025-10-27 07:24:32 +1100">
                             <Title>RM</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -199,7 +199,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="1FFA39C4-99C0-4325-9D29-35B882F3A3C3" Type="Text" Created="2025-10-24 21:11:43 +1100" Modified="2025-10-26 21:18:16 +1100">
+                        <BinderItem UUID="1FFA39C4-99C0-4325-9D29-35B882F3A3C3" Type="Text" Created="2025-10-24 21:11:43 +1100" Modified="2025-10-27 07:24:53 +1100">
                             <Title>Letour Cycles</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -250,7 +250,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="2548D5B6-AD90-40C5-87C2-0FCBD3740708" Type="Text" Created="2025-10-24 21:11:43 +1100" Modified="2025-10-26 21:18:16 +1100">
+                        <BinderItem UUID="2548D5B6-AD90-40C5-87C2-0FCBD3740708" Type="Text" Created="2025-10-24 21:11:43 +1100" Modified="2025-10-27 07:25:53 +1100">
                             <Title>Australian Trading Bridge</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -314,7 +314,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="55FA9A75-A463-4F92-B8D8-CA7603940722" Type="Text" Created="2025-10-25 21:27:30 +1100" Modified="2025-10-26 21:19:50 +1100">
+                <BinderItem UUID="55FA9A75-A463-4F92-B8D8-CA7603940722" Type="Text" Created="2025-10-25 21:27:30 +1100" Modified="2025-10-27 07:31:48 +1100">
                     <Title>Education</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1468,14 +1468,14 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2025-10-20 20:42:57 +1100" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-10-27 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="2" Characters="8" Date="2025-10-26 20:39:24 +1100"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-10-28 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2025-10-27 07:13:16 +1100"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2025-10-26 00:00:00 +1100">
-        <DraftWordCount>2</DraftWordCount>
-        <DraftCharCount>8</DraftCharCount>
-        <OtherWordCount>333</OtherWordCount>
-        <OtherCharCount>2713</OtherCharCount>
+    <RecentWritingHistory Date="2025-10-27 00:00:00 +1100">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>12</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.275546,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
