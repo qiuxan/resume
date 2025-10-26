@@ -2,6 +2,7 @@
 <CompileSettings>
     <ProjectSettings>
         <Content Scope="Included">
+            <CompileGroup Type="Selection"/>
             <Filter State="Off" Exclude="No" Type="Label">
                 <CollectionID>C1C4A964-C451-4217-A067-4DE4274954F1</CollectionID>
                 <Label>-1</Label>
