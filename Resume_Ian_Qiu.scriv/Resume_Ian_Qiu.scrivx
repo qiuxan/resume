@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="C22900CE-915A-443A-A3E8-5338939A517D" Version="2.0" Creator="SCRMAC-3.5-17311" Device="XIANs-MacBook-Pro" Author="" Modified="2025-10-27 21:50:33 +1100" ModID="99FE0D67-DACC-479C-9257-29E786E18BFB">
+<ScrivenerProject Identifier="C22900CE-915A-443A-A3E8-5338939A517D" Version="2.0" Creator="SCRMAC-3.5-17311" Device="XIANs-MacBook-Pro" Author="" Modified="2025-10-27 21:58:06 +1100" ModID="0C4E5E4A-1337-4B98-BC0D-1FEC96448B7B">
     <Binder>
         <BinderItem UUID="E300FB67-65E1-4397-8C36-50DDC812EC52" Type="Folder" Created="2025-10-20 20:42:58 +1100" Modified="2025-10-20 20:42:58 +1100">
             <Title>Draft-1</Title>
@@ -112,7 +112,7 @@
                                                 <TextSelection>19,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="3CE66A6D-B332-4A42-8747-FFD73A8A5F37" Type="Text" Created="2025-10-24 07:25:28 +1100" Modified="2025-10-27 21:43:59 +1100">
+                                        <BinderItem UUID="3CE66A6D-B332-4A42-8747-FFD73A8A5F37" Type="Text" Created="2025-10-24 07:25:28 +1100" Modified="2025-10-27 21:57:11 +1100">
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
@@ -1482,8 +1482,8 @@
     <RecentWritingHistory Date="2025-10-27 00:00:00 +1100">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>-10</OtherWordCount>
-        <OtherCharCount>-52</OtherCharCount>
+        <OtherWordCount>-9</OtherWordCount>
+        <OtherCharCount>-47</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.275546,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

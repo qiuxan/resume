@@ -40,7 +40,7 @@ Recognised for cross-functional collaboration, technical ownership, and mentorin
 - Integrated the solution within the existing Magento–Next.js framework, maintaining PCI compliance and enhancing payment security and performance.
 - Delivered measurable UX improvements, reducing checkout time and cart abandonment while boosting conversion rates and customer satisfaction.
 
-**Australian Parcel Collection Integration**
+**Australian Post Parcel Collection Integration**
 - Integrated the Australian Post Parcel Collection service into the Styletread eCommerce ecosystem, enabling customers to select convenient parcel pickup locations during checkout.
 - Developed and connected both frontend (Next.js) and backend (Magento) components, ensuring seamless data flow between the user interface, order management, and logistics APIs.
 
