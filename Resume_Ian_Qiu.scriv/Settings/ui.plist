@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CompileFolder</key>
-	<string>/Users/xianqiu/Downloads</string>
+	<string>/Users/xianqiu/Projects/resume</string>
 	<key>HistoryMonthPopUpType</key>
 	<integer>0</integer>
 	<key>NotesScaleFactor</key>
@@ -194,6 +194,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>3CC9D748-21D4-4505-8B72-B8D9981AD518</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>3CE66A6D-B332-4A42-8747-FFD73A8A5F37</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -653,7 +658,7 @@
 		<real>1</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>624 115 1911 1300 0 0 2560 1415 </string>
+	<string>608 115 1911 1300 0 0 2560 1415 </string>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
 	<dict>
 		<key>textScaleFactor</key>
