@@ -117,11 +117,27 @@ Web Developer ( Dec 2019 - Oct-2021)
             <Title>Content</Title>
             <Text>Experienced Software Engineer with over 7 years of expertise in designing, developing, and scaling web and cloud-based systems across eCommerce, SaaS, and public-sector projects. Passionate about AI-driven innovation, cloud architecture, and agile development, with a proven record of delivering high-performance, user-focused solutions.
 
-Proficient in TypeScript, C#, PHP, and modern frameworks such as React, Next.js, Angular, and .NET Core, with strong knowledge of RESTful and GraphQL APIs. Skilled in building headless CMS integrations and optimising system performance across front-end and back-end environments.
+Proficient in TypeScript, Node.js, C#, PHP, and modern frameworks such as React, Next.js, Angular, and .NET Core, with strong knowledge of RESTful and GraphQL APIs. Skilled in building headless CMS integrations and optimising system performance across both front-end and back-end environments.
 
 Hands-on experience with Azure (App Service, Functions, CDN), AWS (EC2, Lambda, S3), and Vercel deployments, leveraging CI/CD pipelines (GitHub Actions, Azure DevOps, GitLab) for automated, scalable delivery.
 
 Recognised for cross-functional collaboration, technical ownership, and mentoring across development teams, with a strong commitment to continuous learning and innovation. Passionate about bridging AI integration, DevOps practices, and cloud-native scalability to deliver impactful, future-ready digital solutions.</Text>
+        </Document>
+        <Document ID="9874144F-51B7-43C4-998B-720B982D5F98">
+            <Text>Hi Sitemate Team,
+I’m excited to apply for the Full Stack Engineer role. Your focus on autonomy, fast iteration, and greenfield development strongly aligns with how I work.
+I have over seven years of full-stack experience across React/Next.js, Angular, Node.js, and cloud environments. Recently at Munro Footwear Group, I delivered several complex integrations—including Australia Post Parcel Collection, Apple Pay Express Checkout, and a major headless Next.js migration—all requiring end-to-end ownership, API design, and close collaboration across product, design, and QA.
+Previously at RM PLC, I led the Angular (v14→18) and Node.js modernisation, contributed to the migration to .NET Core microservices, and frequently took ownership in ambiguous, early-stage project conditions.
+
+What draws me most to Sitemate is the chance to work in small, empowered teams, ship impactful features quickly, and collaborate directly with engineering and product leadership. I’d love the opportunity to contribute to Sitemate’s next phase of growth.
+Thanks for your time, Ian Qiu
+0467 239 975  ian.dev.q@gmail.com
+
+
+
+
+
+</Text>
         </Document>
         <Document ID="41B28634-F863-45BF-A739-5F0EEAE69DE9">
             <Title>Experience
@@ -129,9 +145,12 @@ Recognised for cross-functional collaboration, technical ownership, and mentorin
             <Text>——————————————————————————————————————————————————————————————————————————————
 Experience</Text>
         </Document>
-        <Document ID="7C5296ED-C2FE-4A28-B04A-85500E4B8877">
-            <Text>Built wholesale integration:
-- During COVID, as the company initiated wholesale operations from 0 to 1, I built a system to integrate partner orders into the Neto platform.</Text>
+        <Document ID="8B105C38-25AA-4F2A-B066-CFB5F3F0FF42">
+            <Title>Content</Title>
+            <Text>- API Management: Managed APIs for different websites integrated with the PHP-based e-commerce system.
+- Web Development: Added new features to the website, such as a Christmas Sale template and payment methods.
+- SEO Optimization: Created new product listings with SEO features, including metadata injection with keywords.
+- API Communication: Maintained seamless API communication between the company and carriers.</Text>
         </Document>
         <Document ID="4EAFB939-D70E-4796-ABF7-6782A9CA747D">
             <Text>Skills &amp; Technologies: CSS, HTML, JavaScript, SEO,API Testing &amp; Debugging,Third-Party API Integration
@@ -157,12 +176,9 @@ Experience</Text>
 
 ——————————————————————————————————————————————————————————————————————————————</Text>
         </Document>
-        <Document ID="8B105C38-25AA-4F2A-B066-CFB5F3F0FF42">
-            <Title>Content</Title>
-            <Text>- API Management: Managed APIs for different websites integrated with the PHP-based e-commerce system.
-- Web Development: Added new features to the website, such as a Christmas Sale template and payment methods.
-- SEO Optimization: Created new product listings with SEO features, including metadata injection with keywords.
-- API Communication: Maintained seamless API communication between the company and carriers.</Text>
+        <Document ID="7C5296ED-C2FE-4A28-B04A-85500E4B8877">
+            <Text>Built wholesale integration:
+- During COVID, as the company initiated wholesale operations from 0 to 1, I built a system to integrate partner orders into the Neto platform.</Text>
         </Document>
         <Document ID="7CE16ADA-5579-4770-9BFB-EE0F0D3F05A3">
             <Text>Lead Angular &amp; Node.js Modernization:
@@ -213,14 +229,14 @@ Skills</Text>
 	•	UI &amp; Deployment: Created responsive Blade/Bootstrap interfaces and deployed through AWS EC2, Docker, and GitHub in an Agile/Scrum environment.
 </Text>
         </Document>
-        <Document ID="1FFA39C4-99C0-4325-9D29-35B882F3A3C3">
-            <Title>Letour Cycles</Title>
-            <Text>#  Web Developer Letour Cycles                            Dec 2019 – Oct 2021</Text>
-        </Document>
         <Document ID="3F724486-8200-4DB1-9A2C-50D724C397E6">
             <Text>Multi-Site Migration Project:
 - Contributed to the migration of major Munro Footwear Group brands, including Williamsshoes, Styletread, TheTrybe, and Mathers, from Classic Magento CMS to Next.js.
 - Improved site performance, scalability, and user experience across multiple domains.</Text>
+        </Document>
+        <Document ID="1FFA39C4-99C0-4325-9D29-35B882F3A3C3">
+            <Title>Letour Cycles</Title>
+            <Text>#  Web Developer Letour Cycles                            Dec 2019 – Oct 2021</Text>
         </Document>
         <Document ID="E017A014-FA50-49E7-B636-69C3556784C0">
             <Title>Content</Title>
@@ -232,10 +248,15 @@ Academic Achievement: Received 100% in two major assignments and tutorial work f
         <Document ID="EDA52AE1-A9D4-4B9C-BFD1-863BC2BA6B3A">
             <Title>Content</Title>
             <Text>	•	Full-Stack SaaS Development: Designed and delivered end-to-end solutions across front-end, back-end, and database layers, including API design, data processing, and UI/UX development with optimised SQL queries for performance and scalability.
-	•	System Migration &amp; Architecture: Contributed to the migration from a PHP monolith to a C# .NET Core microservices architecture, leveraging Azure Functions and API Gateway for lightweight, serverless, and event-driven operations.
+	•	System Migration &amp; Architecture: Contributed to the transformation of a PHP monolith into a modern microservices architecture, designing services in both C# .NET Core and Node.js and selecting the optimal runtime for each workload, from lightweight API endpoints to background processing tasks.
 	•	Accessibility &amp; CI/CD Excellence: Ensured WCAG 2.0–2.2 compliance and maintained deployment quality through Azure DevOps, automated CI/CD pipelines, and Agile sprint management in Jira.
 	•	Collaboration &amp; Mentorship: Partnered with international clients to translate complex requirements into deliverables and mentored junior developers in Angular, Node.js, and coding best practices to strengthen team capability.
 </Text>
+        </Document>
+        <Document ID="79C534F6-22EE-4D79-BD8D-A2A88F6275EF">
+            <Text>Skills &amp; Technologies: CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics, Third-Party API Integration,SEO, Responsive Design,Accessibility Standards (WCAG)
+
+—————————————————————————————————————————————————————————————————————————————————————</Text>
         </Document>
         <Document ID="FA7D078C-7351-4AC7-A74B-1FA32CFD9747">
             <Title>Content</Title>
@@ -248,20 +269,15 @@ Academic Achievement: Received 100% in two major assignments and tutorial work f
 	•	SEO &amp; Data Management: Implemented SEO-optimised product pages with dynamic metadata and monitored data flow across platforms to maintain accurate order and tracking information.
 </Text>
         </Document>
-        <Document ID="A8B74B3D-6180-4172-9D21-CBAF5C45F4F9">
-            <Title>Projects</Title>
-            <Text>——————————————————————————————————————————————————————————————————————————————
-Projects</Text>
-        </Document>
         <Document ID="24A6E77C-0C1F-4624-AE60-0CE5DD7AB687">
             <Text>Skills &amp; Technologies: CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics, Third-Party API Integration,SEO, Responsive Design,Accessibility Standards (WCAG)
 
 —————————————————————————————————————————————————————————————————————————————————————</Text>
         </Document>
-        <Document ID="79C534F6-22EE-4D79-BD8D-A2A88F6275EF">
-            <Text>Skills &amp; Technologies: CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics, Third-Party API Integration,SEO, Responsive Design,Accessibility Standards (WCAG)
-
-—————————————————————————————————————————————————————————————————————————————————————</Text>
+        <Document ID="A8B74B3D-6180-4172-9D21-CBAF5C45F4F9">
+            <Title>Projects</Title>
+            <Text>——————————————————————————————————————————————————————————————————————————————
+Projects</Text>
         </Document>
         <Document ID="66504002-6856-4FFE-AD7C-994EF03CF2B0">
             <Title>Key Responsibilities:</Title>
@@ -298,19 +314,24 @@ Web and Integration  Developer ( Dec 2019 - Oct-2021)
 </Title>
             <Text>Key Achievements:</Text>
         </Document>
-        <Document ID="DCBF033E-54DF-41CA-B0AB-A92571B2DC77">
-            <Text>Built wholesale integration:
-- During COVID, as the company initiated wholesale operations from 0 to 1, I built a system to integrate partner orders into the Neto platform.</Text>
-        </Document>
         <Document ID="4F519A92-C89B-47D8-9B6D-5297A62C56CF">
             <Title>RM</Title>
             <Text>RM PLC (LSE Listed- Code: RM, Link) 
  Software Engineer(Oct 2021 - Jan 2025)  
 </Text>
         </Document>
+        <Document ID="DCBF033E-54DF-41CA-B0AB-A92571B2DC77">
+            <Text>Built wholesale integration:
+- During COVID, as the company initiated wholesale operations from 0 to 1, I built a system to integrate partner orders into the Neto platform.</Text>
+        </Document>
         <Document ID="E80FD6D9-6DCE-4E10-994F-052E3B76E095">
             <Text>Apple Pay Express Checkout Integration:
 - Implemented Apple Pay Express Checkout across Munro Footwear Group’s eCommerce websites, enhancing checkout efficiency and user experience.</Text>
+        </Document>
+        <Document ID="22D263AA-41D1-4F0E-8146-EDD4C43223E6">
+            <Text>Main Developer - Midas Shoes Migration:
+- Served as the main developer for migrating the Midas Shoes e-commerce platform from Magento to a modern Next.js architecture.
+- Delivered a faster, more scalable, and SEO-optimized platform while ensuring integration with existing backend systems and APIs.</Text>
         </Document>
         <Document ID="34AB2B9B-5B8F-4052-85B7-1947B179A5B7">
             <Title>sections</Title>
@@ -327,11 +348,6 @@ Web and Integration  Developer ( Dec 2019 - Oct-2021)
             <Title>Munro e-Commerce Platform</Title>
             <Text>Munro e-Commerce Platform(Link) | Next, React, CSS, Magento, JavaScript, CSS, SEO, GraphQL, AWS, CI/CD, Node.js
 Served as the main developer migrating the transition from Classic Magento to a Headless CMS and Next.js stack, resulting in faster rendering, improved scalability, and higher SEO rankings, with seamless integration to legacy backend services.</Text>
-        </Document>
-        <Document ID="22D263AA-41D1-4F0E-8146-EDD4C43223E6">
-            <Text>Main Developer - Midas Shoes Migration:
-- Served as the main developer for migrating the Midas Shoes e-commerce platform from Magento to a modern Next.js architecture.
-- Delivered a faster, more scalable, and SEO-optimized platform while ensuring integration with existing backend systems and APIs.</Text>
         </Document>
         <Document ID="DC9ADA94-C0D5-4401-AB30-8F18C7E3B824">
             <Text>Lead D3.js Data Visualization Upgrade:
@@ -418,15 +434,15 @@ Warm regards, Ian Qiu
         <Document ID="E9B3CF13-CFA8-4917-B98D-C943B4C9A2D7">
             <Title>Letour Cycles</Title>
         </Document>
-        <Document ID="05F24795-F318-4015-A869-01A2B93AA265">
-            <Text>Apple Pay Express Checkout
-	•	Implemented Apple Pay Express Checkout across both product and cart pages within the Magento–Next.js ecosystem, demonstrating strong capability in integrating complex 3rd-party vendor solutions
-	•	Ensured PCI-compliant, secure payment flows and delivered measurable UX improvements, reducing checkout time, lowering cart abandonment, and increasing overall conversion rates.</Text>
-        </Document>
         <Document ID="2216E102-FA2E-49D6-85B5-67E2E9AC3A3D">
             <Text>Skills &amp; Technologies: CSS, HTML, JavaScript, SEO,API Testing &amp; Debugging,Third-Party API Integration
 
 ——————————————————————————————————————————————————————————————————————————————</Text>
+        </Document>
+        <Document ID="05F24795-F318-4015-A869-01A2B93AA265">
+            <Text>Apple Pay Express Checkout
+	•	Implemented Apple Pay Express Checkout across both product and cart pages within the Magento–Next.js ecosystem, demonstrating strong capability in integrating complex 3rd-party vendor solutions
+	•	Ensured PCI-compliant, secure payment flows and delivered measurable UX improvements, reducing checkout time, lowering cart abandonment, and increasing overall conversion rates.</Text>
         </Document>
         <Document ID="D938BF78-BB1C-45FA-A446-AAE6820D9C06">
             <Text>Algorithm Design - ICILS Machine Marking (International Education Project):
@@ -493,6 +509,10 @@ University of Tasmania –  🎓 Bachelor (Hons) of Computing
 </Title>
             <Text>Key Achievements:</Text>
         </Document>
+        <Document ID="52CFACCC-3B61-4603-829A-57ACF30F1B8F">
+            <Title>UTAS</Title>
+            <Text>Bachelor of Computing (With Honours)     University of Tasmania (Feb 2011-August 2014)</Text>
+        </Document>
         <Document ID="3A4DD719-849E-464D-841C-90E769F030FC">
             <Title>Career Objective</Title>
             <Text>Professional Profile #</Text>
@@ -503,10 +523,6 @@ University of Tasmania –  🎓 Bachelor (Hons) of Computing
 - Event-Driven Architecture &amp; System Integration: Worked in MFG’s microservices ecosystem, building RabbitMQ- and Lambda-based event-driven integrations that synced sales, orders, HR, and payroll data in near real time across .NET + SQL Server services.
 - Agile Delivery &amp; Cross-Functional Collaboration: Worked closely with designers, product owners, QA, and cloud engineers to deliver features iteratively within agile sprints. Managed tasks, bugs, and release cycles using Jira with a strong focus on value-driven delivery.
 - AI-Assisted Engineering Workflow: Leverage AI tools (ChatGPT/Copilot/Claude) to refactor legacy modules, validate design decisions against industry best practices, generate test cases, and optimise implementation patterns—improving development velocity, code quality, and maintainability.</Text>
-        </Document>
-        <Document ID="52CFACCC-3B61-4603-829A-57ACF30F1B8F">
-            <Title>UTAS</Title>
-            <Text>Bachelor of Computing (With Honours)     University of Tasmania (Feb 2011-August 2014)</Text>
         </Document>
         <Document ID="F84C4500-8377-4B6B-9648-F1F29FCF825A">
             <Text>Skills &amp; Technologies: CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics, Third-Party API Integration,SEO, Responsive Design,Accessibility Standards (WCAG)
@@ -767,14 +783,22 @@ Web and Integration  Developer ( Dec 2019 - Oct-2021)
 
 —————————————————————————————————————————————————————————————————————————————————————</Text>
         </Document>
-        <Document ID="836E2771-8F35-4443-A6E3-CA3778BF7DD1">
-            <Title>Key Achievements:
-</Title>
-            <Text>🚩 Key Achievements:</Text>
+        <Document ID="2EB1FC7E-648A-4363-B086-08421111ABAE">
+            <Title>Content</Title>
+            <Text>- E-commerce Development: Designed, developed, and deployed Shopify-based online stores, enhancing user experience and functionality.
+- API Integration: Maintained seamless API communication for order processing, such as submitting orders to AusPost, syncing orders across platforms like eBay, Shopify, and Neto, and integrating wholesale partners by mapping their orders to our system for efficient processing.
+- SEO Optimization: Created product pages with SEO features, including dynamic metadata injection to improve search visibility.
+- Product Page Development: Built and maintained product pages using Neto E-commerce and Shopify platforms.
+- Data Monitoring: Monitored and ensured smooth data exchange for orders and tracking information across multiple platforms.</Text>
         </Document>
         <Document ID="25B5E65E-DF29-4717-B1C3-39ED8AB1B42A">
             <Text>Built wholesale integration:
 - During COVID, as the company initiated wholesale operations from 0 to 1, I built a system to integrate partner orders into the Neto platform.</Text>
+        </Document>
+        <Document ID="836E2771-8F35-4443-A6E3-CA3778BF7DD1">
+            <Title>Key Achievements:
+</Title>
+            <Text>🚩 Key Achievements:</Text>
         </Document>
         <Document ID="FD147D29-12D1-4C62-BAB9-D94BBA5C444A">
             <Title>Content</Title>
@@ -783,14 +807,6 @@ Web and Integration  Developer ( Dec 2019 - Oct-2021)
 	•	Accessibility &amp; CI/CD Excellence: Ensured WCAG 2.0–2.2 compliance and maintained deployment quality through Azure DevOps, automated CI/CD pipelines, and Agile sprint management in Jira.
 	•	Collaboration &amp; Mentorship: Partnered with international clients to translate complex requirements into deliverables and mentored junior developers in Angular, Node.js, and coding best practices to strengthen team capability.
 </Text>
-        </Document>
-        <Document ID="2EB1FC7E-648A-4363-B086-08421111ABAE">
-            <Title>Content</Title>
-            <Text>- E-commerce Development: Designed, developed, and deployed Shopify-based online stores, enhancing user experience and functionality.
-- API Integration: Maintained seamless API communication for order processing, such as submitting orders to AusPost, syncing orders across platforms like eBay, Shopify, and Neto, and integrating wholesale partners by mapping their orders to our system for efficient processing.
-- SEO Optimization: Created product pages with SEO features, including dynamic metadata injection to improve search visibility.
-- Product Page Development: Built and maintained product pages using Neto E-commerce and Shopify platforms.
-- Data Monitoring: Monitored and ensured smooth data exchange for orders and tracking information across multiple platforms.</Text>
         </Document>
         <Document ID="C40A007B-E58F-4374-8DB1-3AB0EBD21351">
             <Text>Multi-Site Migration Project
@@ -820,16 +836,16 @@ Web and Integration  Developer ( Dec 2019 - Oct-2021)
             <Title>Muron</Title>
             <Text>#  Full Stack Developer  Munro Footwear Group       Jan 2025 – Current</Text>
         </Document>
+        <Document ID="571EB0AD-F4F8-47EF-B58F-B18C2F64146C">
+            <Title>Skills</Title>
+            <Text>——————————————————————————————————————————————————————————————————————————————
+Skills</Text>
+        </Document>
         <Document ID="27F9C04B-C244-4FF1-AFB7-E67516366DC8">
             <Text>Main Developer – Midas Shoes Migration
 	•	Led the migration of the Midas Shoes eCommerce platform from Classic Magento to a Headless CMS + Next.js stack, achieving 40% faster load times and improved SEO rankings.
 	•	Engineered integrations between Magento, AWS Lambda, and legacy ERP systems for real-time data synchronisation and scalable performance.
 	•	Delivered the platform on time and within scope, enhancing site stability, maintainability, and user experience across all touchpoints.</Text>
-        </Document>
-        <Document ID="571EB0AD-F4F8-47EF-B58F-B18C2F64146C">
-            <Title>Skills</Title>
-            <Text>——————————————————————————————————————————————————————————————————————————————
-Skills</Text>
         </Document>
         <Document ID="A13F3101-C6E2-42B0-8F35-FEDBDF546B92">
             <Title>Content</Title>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CompileFolder</key>
-	<string>/Users/xianqiu/Projects/resume</string>
+	<string>/Users/xianqiu/Downloads</string>
 	<key>HistoryMonthPopUpType</key>
 	<integer>0</integer>
 	<key>NotesScaleFactor</key>
@@ -103,6 +103,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>189DE390-4442-473B-892E-545FEB53AD50</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>1A4E2EC1-B7AD-40B8-B052-15962C5A0686</key>
 		<dict>
 			<key>Row</key>
@@ -193,6 +198,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>2EAF4174-8EE4-4148-AD8F-118B68406D82</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>2EB1FC7E-648A-4363-B086-08421111ABAE</key>
 		<dict>
 			<key>Row</key>
@@ -249,6 +259,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>4902F7AC-C350-4200-A163-5B6C437DD22C</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>4B58C151-8942-4466-9162-C33D8517BE7F</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -363,6 +378,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>7CE16ADA-5579-4770-9BFB-EE0F0D3F05A3</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>836E2771-8F35-4443-A6E3-CA3778BF7DD1</key>
 		<dict>
 			<key>Row</key>
@@ -418,6 +438,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>9874144F-51B7-43C4-998B-720B982D5F98</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>9AA3D1A7-43DE-4BA2-BDEB-38FE9DBC86F8</key>
 		<dict>
 			<key>Row</key>
@@ -449,6 +474,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>9EA3B4D2-D2A0-460C-A831-B68AE5DA922E</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>9ED406B8-9C6F-4E4A-974C-AB51BEEADE8A</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -630,6 +660,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>ED3DA550-3134-455F-A99A-100BF288A90B</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>EDA52AE1-A9D4-4B9C-BFD1-863BC2BA6B3A</key>
 		<dict>
 			<key>Row</key>
@@ -710,7 +745,7 @@
 	</dict>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{629, 0}, {628, 1244}}</string>
+		<string>{{1119, 0}, {1119, 1242}}</string>
 	</array>
 	<key>fullScreenTextEditorSettings</key>
 	<dict>
@@ -738,14 +773,14 @@
 		<real>1</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>35 106 2504 1300 0 0 2560 1415 </string>
+	<string>35 115 2504 1300 0 0 2560 1415 </string>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{-246, 269}, {1111.5, 591}}</string>
+	<string>{{-246, 0}, {1111.5, 591}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
