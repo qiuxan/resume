@@ -98,6 +98,16 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>16D21128-4BB4-4D9F-96BA-3F3EC6BC63EE</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>16E5DAC6-DBE6-4418-A15E-1267726557A7</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>183CB434-60DD-4F5A-99AB-9D1B0A4850CB</key>
 		<dict>
 			<key>Row</key>
@@ -114,6 +124,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>1CF297A1-D326-4273-9B61-C57AF5E8A220</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>1F80D0A0-701C-4843-AD9D-A2BDBE5F4982</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -218,6 +233,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>34403ED3-0D83-4B23-B7CD-A2FECB56076A</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>34AB2B9B-5B8F-4052-85B7-1947B179A5B7</key>
 		<dict>
 			<key>Row</key>
@@ -259,6 +279,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>4902F7AC-C350-4200-A163-5B6C437DD22C</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>4A676615-1716-4E03-AD86-16D218520327</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -364,6 +389,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>7A9237E1-3567-402F-9320-CE1470B972FE</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>7BA4CB75-463C-4886-9262-78FED7306CE4</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -580,6 +610,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>D726DD75-BD12-4114-9B6D-3DCA01CA24CB</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>D729D419-FBEC-467C-9DFE-DFFA3B7F7550</key>
 		<dict>
 			<key>Row</key>
@@ -650,6 +685,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>E9A25CBE-B666-4765-ABC1-96BBEF37A986</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>E9B3CF13-CFA8-4917-B98D-C943B4C9A2D7</key>
 		<dict>
 			<key>Row</key>
@@ -686,6 +726,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>F5F22C36-0EF4-4BFF-B82B-11AEC82301EC</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>F6E94BFC-E597-42F6-9921-852E6C4CE02A</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -773,7 +818,7 @@
 		<real>1</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>35 115 2504 1300 0 0 2560 1415 </string>
+	<string>1102 -276 2504 1300 0 0 2560 1415 </string>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
 	<dict>
 		<key>textScaleFactor</key>

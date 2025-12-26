@@ -55,7 +55,7 @@
             </MMDMetaData>
         </MetaData>
     </ProjectSettings>
-    <CurrentFileType>html</CurrentFileType>
+    <CurrentFileType>pdf</CurrentFileType>
     <FormatSettings>
         <Format ID="DEFAULT">
             <SectionLayouts>
@@ -73,9 +73,9 @@
     <LastUsedFormats>
         <Print>71AD07D3-9AB1-4D85-9A26-CF0526262D12</Print>
         <txt>71AD07D3-9AB1-4D85-9A26-CF0526262D12</txt>
-        <pdf>71AD07D3-9AB1-4D85-9A26-CF0526262D12</pdf>
-        <mmd>71AD07D3-9AB1-4D85-9A26-CF0526262D12</mmd>
-        <html>71AD07D3-9AB1-4D85-9A26-CF0526262D12</html>
         <docx>71AD07D3-9AB1-4D85-9A26-CF0526262D12</docx>
+        <mmd>71AD07D3-9AB1-4D85-9A26-CF0526262D12</mmd>
+        <pdf>71AD07D3-9AB1-4D85-9A26-CF0526262D12</pdf>
+        <html>71AD07D3-9AB1-4D85-9A26-CF0526262D12</html>
     </LastUsedFormats>
 </CompileSettings>
