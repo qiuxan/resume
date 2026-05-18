@@ -231,7 +231,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>1325,0</Selection>
+                <Selection>560,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
