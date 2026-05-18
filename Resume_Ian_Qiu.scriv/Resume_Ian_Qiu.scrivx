@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="C22900CE-915A-443A-A3E8-5338939A517D" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="XIANs-MacBook-Pro" Author="" Modified="2026-05-17 10:11:40 +1000" ModID="879FAEB1-7BC4-4F37-A3BD-BA1F71D070E1">
+<ScrivenerProject Identifier="C22900CE-915A-443A-A3E8-5338939A517D" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="XIANs-MacBook-Pro" Author="" Modified="2026-05-18 10:19:31 +1000" ModID="0D0A4AC3-E965-4436-934A-EF81D1307192">
     <Binder>
         <BinderItem UUID="E300FB67-65E1-4397-8C36-50DDC812EC52" Type="Folder" Created="2025-10-20 20:42:58 +1100" Modified="2026-02-24 10:46:27 +1100">
             <Title>FE-dev</Title>
@@ -1083,7 +1083,7 @@
                         <TextSelection>0,22</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="CB4E46F6-82AE-4084-98F6-722EBA513C0E" Type="Text" Created="2025-10-20 21:00:32 +1100" Modified="2026-05-17 10:08:50 +1000">
+                        <BinderItem UUID="CB4E46F6-82AE-4084-98F6-722EBA513C0E" Type="Text" Created="2025-10-20 21:00:32 +1100" Modified="2026-05-18 10:09:42 +1000">
                             <Title>Content</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1122,7 +1122,7 @@
                                         <TextSelection>0,21</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="66ACEC4C-0532-47D6-939E-791B9F917944" Type="Text" Created="2025-10-20 21:00:32 +1100" Modified="2026-05-17 10:10:43 +1000">
+                                        <BinderItem UUID="66ACEC4C-0532-47D6-939E-791B9F917944" Type="Text" Created="2025-10-20 21:00:32 +1100" Modified="2026-05-18 10:10:32 +1000">
                                             <Title>Content</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1189,7 +1189,7 @@
                                         <TextSelection>21,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="E4A7446C-8B58-4DB0-BEBC-C8FAE8A4B8C3" Type="Text" Created="2025-10-20 21:00:32 +1100" Modified="2026-05-17 10:11:22 +1000">
+                                        <BinderItem UUID="E4A7446C-8B58-4DB0-BEBC-C8FAE8A4B8C3" Type="Text" Created="2025-10-20 21:00:32 +1100" Modified="2026-05-18 10:07:42 +1000">
                                             <Title>Content</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -5999,14 +5999,14 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2025-10-20 20:42:57 +1100" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2026-05-18 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-05-17 08:39:01 +1000"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2026-05-19 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2026-05-18 10:07:07 +1000"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-05-17 00:00:00 +1000">
+    <RecentWritingHistory Date="2026-05-18 00:00:00 +1000">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>94</OtherWordCount>
-        <OtherCharCount>890</OtherCharCount>
+        <OtherWordCount>5</OtherWordCount>
+        <OtherCharCount>48</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.275546,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
