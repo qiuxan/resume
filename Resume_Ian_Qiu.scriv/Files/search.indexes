@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="6A6C5E0A-2A7F-472B-8623-0EFF9FD0776B">
-            <Title>Refrerence</Title>
-            <Text>Reference #</Text>
+        <Document ID="A4853FA1-2E9B-48CC-9463-140DD50A81CC">
+            <Title>Key Responsibilities:</Title>
+            <Text>Key Responsibilities:</Text>
         </Document>
         <Document ID="4EE7DE23-932E-42C3-9215-956B30C988FC">
             <Title>Content</Title>
@@ -82,21 +82,6 @@ Academic Achievement: Received 100% in two major assignments and tutorial work f
             <Title>Key Responsibilities:</Title>
             <Text>Key Responsibilities:</Text>
         </Document>
-        <Document ID="496BD44E-C500-48CE-8849-0E92353C1A88">
-            <Title>Content</Title>
-            <Text>	•	API Management &amp; Integration: Managed and optimised APIs for PHP-based eCommerce systems, ensuring reliable communication between company websites, carriers, and third-party platforms.
-	•	Web Development &amp; Feature Enhancement: Developed new site features, including promotional templates and payment integrations, to improve customer engagement and conversion rates.
-	•	SEO &amp; Product Optimisation: Created and maintained SEO-friendly product listings with dynamic metadata, enhancing visibility and search rankings across platforms.
-</Text>
-        </Document>
-        <Document ID="D4FD7CDF-7822-4F63-91E7-3AC7FC03228C">
-            <Title>RM</Title>
-            <Text>#  Software Engineer RM PLC (LSE Listed- Code: RM) Oct 2021 – Jan 2025</Text>
-        </Document>
-        <Document ID="1ECBCC05-C944-44DB-8E06-B39AC969E2AF">
-            <Title>RM</Title>
-            <Text>#  Software Engineer RM PLC (LSE Listed- Code: RM) Oct 2021 – Jan 2025</Text>
-        </Document>
         <Document ID="1F0E57E7-96F0-4552-9ADB-E60479B68E4A">
             <Title>Content</Title>
             <Text>	•	Full-Stack SaaS Development: Designed and delivered end-to-end solutions across front-end, back-end, and database layers, including API design, data processing, and UI/UX development with optimised SQL queries for performance and scalability.
@@ -104,6 +89,25 @@ Academic Achievement: Received 100% in two major assignments and tutorial work f
 	•	Accessibility &amp; CI/CD Excellence: Ensured WCAG 2.0–2.2 compliance and maintained deployment quality through Azure DevOps, automated CI/CD pipelines, and Agile sprint management in Jira.
 	•	Collaboration &amp; Mentorship: Partnered with international clients to translate complex requirements into deliverables and mentored junior developers in Angular, Node.js, and coding best practices to strengthen team capability.
 </Text>
+        </Document>
+        <Document ID="D4FD7CDF-7822-4F63-91E7-3AC7FC03228C">
+            <Title>RM</Title>
+            <Text>#  Software Engineer RM PLC (LSE Listed- Code: RM) Oct 2021 – Jan 2025</Text>
+        </Document>
+        <Document ID="496BD44E-C500-48CE-8849-0E92353C1A88">
+            <Title>Content</Title>
+            <Text>	•	API Management &amp; Integration: Managed and optimised APIs for PHP-based eCommerce systems, ensuring reliable communication between company websites, carriers, and third-party platforms.
+	•	Web Development &amp; Feature Enhancement: Developed new site features, including promotional templates and payment integrations, to improve customer engagement and conversion rates.
+	•	SEO &amp; Product Optimisation: Created and maintained SEO-friendly product listings with dynamic metadata, enhancing visibility and search rankings across platforms.
+</Text>
+        </Document>
+        <Document ID="1ECBCC05-C944-44DB-8E06-B39AC969E2AF">
+            <Title>RM</Title>
+            <Text>#  Software Engineer RM PLC (LSE Listed- Code: RM) Oct 2021 – Jan 2025</Text>
+        </Document>
+        <Document ID="51771ABF-E17E-4E74-8678-1157572DF1C3">
+            <Text>Test-Driven Development (TDD) Leadership:
+	•	Implementing automated testing frameworks and coding standards that cut defects by 40% and improved release reliability and team productivity.</Text>
         </Document>
         <Document ID="05F24795-F318-4015-A869-01A2B93AA265">
             <Text>Express Checkout
@@ -140,13 +144,13 @@ Passionate about AI-driven innovation, cloud-native architecture and building fu
 </Title>
             <Text>Key Achievements:</Text>
         </Document>
-        <Document ID="23C2C4B0-1D33-4453-9BC2-68630F3A37CA">
-            <Title>Content</Title>
-            <Text>References’ Contact Information Available Upon Request.</Text>
-        </Document>
         <Document ID="29AA5CDF-B191-45A4-86EB-4A9494F4B9CA">
             <Title>Muron</Title>
             <Text>￼  Full Stack Developer  Munro Footwear Group       Jan 2025 – Current</Text>
+        </Document>
+        <Document ID="23C2C4B0-1D33-4453-9BC2-68630F3A37CA">
+            <Title>Content</Title>
+            <Text>References’ Contact Information Available Upon Request.</Text>
         </Document>
         <Document ID="CCD6A9DA-E9C0-4860-9C38-2287FAC00A95">
             <Title>Key Responsibilities:</Title>
@@ -211,6 +215,11 @@ University of Tasmania –  🎓 Bachelor (Hons) of Computing
             <Title>Career Objective</Title>
             <Text>Professional Profile ￼</Text>
         </Document>
+        <Document ID="CBAD4AC4-781C-4BB9-9AD8-F21427B2626E">
+            <Title>Education</Title>
+            <Text>Education ￼
+￼   Bachelor of Computing (With Honours)              Feb 2011-Aug 2014</Text>
+        </Document>
         <Document ID="FD3797AD-C266-40D8-B7E9-2A2A39C07FB7">
             <Title>Content</Title>
             <Text>- E-commerce Development: Designed, developed, and deployed Shopify-based online stores, enhancing user experience and functionality.
@@ -224,6 +233,11 @@ University of Tasmania –  🎓 Bachelor (Hons) of Computing
 - Developed a recursive algorithm for Blockly (Blockly Games) machine marking in the ICILS(ICILS).
 - Took ownership of Angular development, introducing modular architecture, improved component reuse, and best practices to boost maintainability, scalability, and performance.</Text>
         </Document>
+        <Document ID="571EB0AD-F4F8-47EF-B58F-B18C2F64146C">
+            <Title>Skills</Title>
+            <Text>——————————————————————————————————————————————————————————————————————————————
+Skills</Text>
+        </Document>
         <Document ID="BBA2BA83-E9C9-46C2-A1ED-7F92F516F090">
             <Title>Title</Title>
             <Text>Ian Qiu
@@ -232,16 +246,6 @@ University of Tasmania –  🎓 Bachelor (Hons) of Computing
 📞0467 239 975 ✉️ ian.dev.q@gmail.com 🔗LinkedIn Profile 🌐GitHub  
 </Text>
         </Document>
-        <Document ID="571EB0AD-F4F8-47EF-B58F-B18C2F64146C">
-            <Title>Skills</Title>
-            <Text>——————————————————————————————————————————————————————————————————————————————
-Skills</Text>
-        </Document>
-        <Document ID="CBAD4AC4-781C-4BB9-9AD8-F21427B2626E">
-            <Title>Education</Title>
-            <Text>Education ￼
-￼   Bachelor of Computing (With Honours)              Feb 2011-Aug 2014</Text>
-        </Document>
         <Document ID="BD372F8E-36C8-4C62-8D0A-CC8E9E46023B">
             <Title>Education</Title>
         </Document>
@@ -249,6 +253,12 @@ Skills</Text>
             <Text>	•	Ensured WCAG 2.0–2.2 compliance across multiple platforms, embedding accessibility into everyday development practices. 
 	•	Championed automated testing and engineering standards, reducing defects and improving front-end stability in production environments.quality, and client collaboration.
 	•	Mentored junior developers in front-end best practices, testing, and maintainable UI architecture.</Text>
+        </Document>
+        <Document ID="81CA9FC4-DEC8-43F6-A5D3-7DCB98137F5F">
+            <Text>Main Developer – Midas Shoes Migration
+	•	Led the migration of the Midas Shoes eCommerce platform from Classic Magento to a Headless CMS + Next.js stack, achieving 40% faster load times and improved SEO rankings.
+	•	Engineered integrations between Magento, AWS Lambda, and legacy ERP systems for real-time data synchronisation and scalable performance.
+	•	Delivered the platform on time and within scope, enhancing site stability, maintainability, and user experience across all touchpoints.</Text>
         </Document>
         <Document ID="E3A2747E-7D60-4A84-A29F-D512997ACCD1">
             <Text>Lead D3.js Data Visualization Upgrade:
@@ -319,6 +329,10 @@ Full-stack eCommerce development on a large-scale headless platform using React,
 </Title>
             <Text>🚩 Key Achievements:</Text>
         </Document>
+        <Document ID="45DA011D-20EB-4CF2-88DF-E11FD3CF007D">
+            <Title>Career Objective</Title>
+            <Text>Professional Profile ￼</Text>
+        </Document>
         <Document ID="0040E3CC-3F64-4606-928A-A40B61D29218">
             <Title>AI Solution Engineer </Title>
         </Document>
@@ -326,6 +340,11 @@ Full-stack eCommerce development on a large-scale headless platform using React,
             <Title>Education</Title>
             <Text>Education #
 #   Bachelor of Computing (With Honours)              Feb 2011-Aug 2014</Text>
+        </Document>
+        <Document ID="2263132D-9754-47A5-A660-91271BBFBCAB">
+            <Text>Wholesale Integration System Development
+	•	Built an API-driven Node.js integration linking partner systems with Neto eCommerce, automating order import and fulfilment.
+	•	Launched wholesale operations from zero, reducing manual processing by 80% and enabling real-time order synchronisation across platforms.</Text>
         </Document>
         <Document ID="5F8AD698-CB95-4A12-8C3F-9F2DE33E2CF3">
             <Title>Letour Cycles-3</Title>
@@ -440,10 +459,6 @@ Full-stack SaaS development on Assessment Master — an internationally deployed
 	•	Developed and connected both frontend (Next.js) and backend (Magento) components, ensuring seamless data flow between the user interface, order management, and logistics APIs.
 </Text>
         </Document>
-        <Document ID="07CC25CE-64C6-4227-B846-88C6338AA3E5">
-            <Title>Muron</Title>
-            <Text>#  Full Stack Developer  Munro Footwear Group       Jan 2025 – Current</Text>
-        </Document>
         <Document ID="DEDE0D30-94F3-4EA8-90CC-D4317F1AFAF7">
             <Title>Title</Title>
             <Text>Ian Qiu
@@ -451,6 +466,10 @@ Full-stack SaaS development on Assessment Master — an internationally deployed
 University of Tasmania –  🎓 Bachelor (Hons) of Computing
 📞0467 239 975 ✉️ ian.dev.q@gmail.com 🔗LinkedIn Profile 🌐GitHub  
 </Text>
+        </Document>
+        <Document ID="07CC25CE-64C6-4227-B846-88C6338AA3E5">
+            <Title>Muron</Title>
+            <Text>#  Full Stack Developer  Munro Footwear Group       Jan 2025 – Current</Text>
         </Document>
         <Document ID="795FB409-B145-4F58-A435-036F48173909">
             <Title>Content</Title>
@@ -478,10 +497,9 @@ University of Tasmania –  🎓 Bachelor (Hons) of Computing
             <Title>Key Responsibilities:</Title>
             <Text>Key Responsibilities:</Text>
         </Document>
-        <Document ID="66CC0A3C-C906-4495-B5E9-27B83DB33244">
-            <Title>Key Achievements:
-</Title>
-            <Text>Key Achievements:</Text>
+        <Document ID="5BD95FDE-BFBF-42B2-B4FD-91C51D86762F">
+            <Title>Key Responsibilities:</Title>
+            <Text>Key Responsibilities:</Text>
         </Document>
         <Document ID="BED4104E-9673-4D7B-A237-154C930F3D41">
             <Title>Letour Cycles</Title>
@@ -556,9 +574,10 @@ University of Tasmania –  🎓 Bachelor (Hons) of Computing
             <Title>Key Responsibilities:</Title>
             <Text>Key Responsibilities:</Text>
         </Document>
-        <Document ID="5BD95FDE-BFBF-42B2-B4FD-91C51D86762F">
-            <Title>Key Responsibilities:</Title>
-            <Text>Key Responsibilities:</Text>
+        <Document ID="66CC0A3C-C906-4495-B5E9-27B83DB33244">
+            <Title>Key Achievements:
+</Title>
+            <Text>Key Achievements:</Text>
         </Document>
         <Document ID="25524B7D-C36D-4317-B53F-B8C8C0A3802D">
             <Title>PISA 2023</Title>
@@ -591,6 +610,12 @@ University of Tasmania –  🎓 Bachelor (Hons) of Computing
 University of Tasmania –  🎓 Bachelor (Hons) of Computing
 📞0467 239 975 ✉️ ian.dev.q@gmail.com 🔗LinkedIn Profile 🌐GitHub  
 </Text>
+        </Document>
+        <Document ID="68D5E022-78CF-4FF4-A1AD-917E386D60A4">
+            <Title>Content</Title>
+            <Text>	•	Graduate Project: Developed a Career Hub showcase website for future students using HTML, CSS, jQuery, and a Content Management System.
+	•	Honours Thesis: Using Hopfield Network to Understand Alzheimer’s Disease — applied Artificial Intelligence, Neural Networks, and MATLAB to model cognitive decline patterns.
+Academic Achievement: Received 100% in two major assignments and tutorial work for KXT309 Advanced Dynamic Web Development, a full-stack project using LAMP and JavaScript/jQuery.</Text>
         </Document>
         <Document ID="AE099265-5169-415D-AC0F-E663594009E0">
             <Title>Content</Title>
@@ -703,18 +728,29 @@ University of Tasmania –  🎓 Bachelor (Hons) of Computing
 	•	Optimised data-visualisation pipelines to handle large, complex educational datasets, reducing load times and improving responsiveness across dashboards.
 	•	Delivered a modern, insight-driven user experience, empowering educators and researchers to interpret results more efficiently through advanced, dynamic visual analytics.</Text>
         </Document>
-        <Document ID="4A779A92-5049-41E6-BC7B-40CEC3EB9471">
-            <Title>TECHNICAL SKILLS</Title>
-            <Text>Technical Skills #</Text>
+        <Document ID="B324C244-F6B2-426F-9418-9759D2D1D683">
+            <Text>Test-Driven Development (TDD) Leadership:
+	•	Implementing automated testing frameworks and coding standards that cut defects by 40% and improved release reliability and team productivity.
+</Text>
         </Document>
         <Document ID="01FA9F4E-6755-4ABE-91B0-60B14F96BD7C">
             <Title>Education</Title>
             <Text>Education #
 #   Bachelor of Computing (With Honours)              Feb 2011-Aug 2014</Text>
         </Document>
-        <Document ID="284DA01F-3B94-4A25-A180-468486D77207">
+        <Document ID="4A779A92-5049-41E6-BC7B-40CEC3EB9471">
+            <Title>TECHNICAL SKILLS</Title>
+            <Text>Technical Skills #</Text>
+        </Document>
+        <Document ID="BDF376F8-8184-4D6E-8DAD-58B685A9429E">
+            <Title>Content</Title>
+        </Document>
+        <Document ID="2A8CDD5E-B5CD-4266-8756-A4D90537854A">
             <Title>Key Responsibilities:</Title>
             <Text>Key Responsibilities:</Text>
+        </Document>
+        <Document ID="28007032-3068-4463-9946-5B974E027CAB">
+            <Title>AI Solution Engineer </Title>
         </Document>
         <Document ID="3243D114-E9A7-4535-8C24-6BC7DE173B03">
             <Title>Content</Title>
@@ -725,18 +761,7 @@ Hands-on experience with Azure (App Service, Functions, CDN), AWS (EC2, Lambda, 
 
 Recognised for cross-functional collaboration, technical ownership, and mentoring across development teams, with a strong commitment to continuous learning and innovation. Passionate about bridging AI integration, DevOps practices, and cloud-native scalability to deliver impactful, future-ready digital solutions.</Text>
         </Document>
-        <Document ID="BDF376F8-8184-4D6E-8DAD-58B685A9429E">
-            <Title>Content</Title>
-        </Document>
-        <Document ID="28007032-3068-4463-9946-5B974E027CAB">
-            <Title>AI Solution Engineer </Title>
-        </Document>
-        <Document ID="B324C244-F6B2-426F-9418-9759D2D1D683">
-            <Text>Test-Driven Development (TDD) Leadership:
-	•	Implementing automated testing frameworks and coding standards that cut defects by 40% and improved release reliability and team productivity.
-</Text>
-        </Document>
-        <Document ID="2A8CDD5E-B5CD-4266-8756-A4D90537854A">
+        <Document ID="284DA01F-3B94-4A25-A180-468486D77207">
             <Title>Key Responsibilities:</Title>
             <Text>Key Responsibilities:</Text>
         </Document>
@@ -861,9 +886,9 @@ Hands-on experience with Azure (App Service, Functions, CDN), AWS (EC2, Lambda, 
             <Title>Refrerence</Title>
             <Text>Reference ￼</Text>
         </Document>
-        <Document ID="B1D0723E-5F4F-4406-917E-8600FFBDC20A">
-            <Title>RM</Title>
-            <Text>￼  Software Engineer RM PLC (LSE Listed- Code: RM) Oct 2021 – Jan 2025</Text>
+        <Document ID="636EBDA5-4D29-4556-8F01-EB869CF5514C">
+            <Text>Test-Driven Development (TDD) Leadership:
+	•	Implementing automated testing frameworks and coding standards that cut defects by 40% and improved release reliability and team productivity.</Text>
         </Document>
         <Document ID="C43E10E8-933A-4C77-A864-6C4C148401AD">
             <Title>Content</Title>
@@ -884,10 +909,9 @@ Hands-on experience with Azure (App Service, Functions, CDN), AWS (EC2, Lambda, 
             <Title>Key Responsibilities:</Title>
             <Text>Key Responsibilities:</Text>
         </Document>
-        <Document ID="636EBDA5-4D29-4556-8F01-EB869CF5514C">
-            <Text>Test-Driven Development (TDD) Leadership:
-	•	Implementing automated testing frameworks and coding standards that cut defects by 40% and improved release reliability and team productivity.
-</Text>
+        <Document ID="B1D0723E-5F4F-4406-917E-8600FFBDC20A">
+            <Title>RM</Title>
+            <Text>￼  Software Engineer RM PLC (LSE Listed- Code: RM) Oct 2021 – Jan 2025</Text>
         </Document>
         <Document ID="79E3B1A2-C562-476A-ACE7-AF6742CC3C9A">
             <Title>Key Responsibilities:</Title>
@@ -899,17 +923,17 @@ Hands-on experience with Azure (App Service, Functions, CDN), AWS (EC2, Lambda, 
 	•	Drove Angular front-end modernisation, introducing modular architecture and reusable components that boosted performance and maintainability.
 	•	Built data processing pipelines to auto-generate detailed scoring reports, cutting manual effort by over 70% and significantly improving assessment accuracy and turnaround time.</Text>
         </Document>
-        <Document ID="49ECCBE4-EDA7-481D-9017-F560D890FBB2">
-            <Text>Multi-Site Migration Project
-	•	Contributed to the large-scale migration of key Munro Footwear Group brands — Williams Shoes, Styletread, The Trybe, and Mathers — from Classic Magento to a unified Next.js platform, ensuring scalability and consistency across multiple domains.
-	•	Standardised shared architecture and reusable UI components, reducing duplicated code and improving site maintainability and performance across all brand sites.
-	•	Collaborated with UX/UI and DevOps teams to streamline deployment through CI/CD pipelines, improving accessibility compliance and achieving consistent user experiences company wide.</Text>
-        </Document>
         <Document ID="AB8F03DE-975C-484B-A563-A4188F5F8EF4">
             <Text>Wholesale Integration System Development
 	•	Built an API-driven Node.js integration linking partner systems with Neto eCommerce, automating order import and fulfilment.
 	•	Launched wholesale operations from zero, reducing manual processing by 80% and enabling real-time order synchronisation across platforms.
 </Text>
+        </Document>
+        <Document ID="49ECCBE4-EDA7-481D-9017-F560D890FBB2">
+            <Text>Multi-Site Migration Project
+	•	Contributed to the large-scale migration of key Munro Footwear Group brands — Williams Shoes, Styletread, The Trybe, and Mathers — from Classic Magento to a unified Next.js platform, ensuring scalability and consistency across multiple domains.
+	•	Standardised shared architecture and reusable UI components, reducing duplicated code and improving site maintainability and performance across all brand sites.
+	•	Collaborated with UX/UI and DevOps teams to streamline deployment through CI/CD pipelines, improving accessibility compliance and achieving consistent user experiences company wide.</Text>
         </Document>
         <Document ID="2C2DFD62-E4E0-4133-8517-E9095FDCA26B">
             <Text>🚩Quality, Accessibility &amp; Testing</Text>
@@ -945,8 +969,15 @@ Created by the Organisation forEconomic Co-operation and Development (OECD), PIS
             <Title>Key Responsibilities:</Title>
             <Text>Key Responsibilities:</Text>
         </Document>
-        <Document ID="72904A76-F61C-433F-8FA9-6CC244CEA8D7">
-            <Title>FHL Group </Title>
+        <Document ID="6ACC9520-2DB4-4AC0-9C5C-0E3770BE6204">
+            <Title>Australian Trading Bridge</Title>
+            <Text>￼  Full Stack Developer Australian Trading Bridge      Jan 2018 – Dec 2019</Text>
+        </Document>
+        <Document ID="FC181170-9ADD-44C9-A622-9304DF7D2751">
+            <Title>Content</Title>
+            <Text>	•	Graduate Project: Developed a Career Hub showcase website for future students using HTML, CSS, jQuery, and a Content Management System.
+	•	Honours Thesis: Using Hopfield Network to Understand Alzheimer’s Disease — applied Artificial Intelligence, Neural Networks, and MATLAB to model cognitive decline patterns.
+Academic Achievement: Received 100% in two major assignments and tutorial work for KXT309 Advanced Dynamic Web Development, a full-stack project using LAMP and JavaScript/jQuery.</Text>
         </Document>
         <Document ID="59D0DC0B-5D84-4104-852C-A939E1A0C666">
             <Title>Content</Title>
@@ -955,16 +986,18 @@ Created by the Organisation forEconomic Co-operation and Development (OECD), PIS
 Proficient in TypeScript, Node.js, C#, PHP, and modern frameworks such as React, Next.js, Angular, and .NET Core, with strong knowledge of RESTful and GraphQL APIs, and experience working with MS SQL Server and NoSQL databases in distributed, cloud-based systems.
 Experienced in building platform components that integrate multiple data sources, with a strong emphasis on code quality, maintainability, and scalability.</Text>
         </Document>
+        <Document ID="72904A76-F61C-433F-8FA9-6CC244CEA8D7">
+            <Title>FHL Group </Title>
+        </Document>
         <Document ID="FD8E1278-1E0C-49BC-9BD6-E130BBE5FE22">
             <Title>Letour Cycles</Title>
             <Text>￼  Web Developer Letour Cycles                            Dec 2019 – Oct 2021</Text>
         </Document>
-        <Document ID="FC181170-9ADD-44C9-A622-9304DF7D2751">
-            <Title>Content</Title>
-            <Text>	•	Graduate Project: Developed a Career Hub showcase website for future students using HTML, CSS, jQuery, and a Content Management System.
-	•	Honours Thesis: Using Hopfield Network to Understand Alzheimer’s Disease — applied Artificial Intelligence, Neural Networks, and MATLAB to model cognitive decline patterns.
-
-Academic Achievement: Received 100% in two major assignments and tutorial work for KXT309 Advanced Dynamic Web Development, a full-stack project using LAMP and JavaScript/jQuery.</Text>
+        <Document ID="BE5F8A05-0D25-4CA3-A893-9535AAA87088">
+            <Text>Lead D3.js Data Visualization Upgrade:
+	•	Led a full upgrade of D3.js (v4 → v7.9) within the Assessment Master analytics platform, significantly improving rendering speed, scalability, and interactive performance.
+	•	Optimised data-visualisation pipelines to handle large, complex educational datasets, reducing load times and improving responsiveness across dashboards.
+	•	Delivered a modern, insight-driven user experience, empowering educators and researchers to interpret results more efficiently through advanced, dynamic visual analytics.</Text>
         </Document>
         <Document ID="8C45A3F2-B440-4FEE-B097-9CAC82EB2899">
             <Text>Multi-Site Migration Project
@@ -1000,11 +1033,9 @@ Ian Qiu
 	•	Optimised data-visualisation pipelines to handle large, complex educational datasets, reducing load times and improving responsiveness across dashboards.
 	•	Delivered a modern, insight-driven user experience, empowering educators and researchers to interpret results more efficiently through advanced, dynamic visual analytics.</Text>
         </Document>
-        <Document ID="32840C10-857D-4949-BA3E-CE8C298312BD">
-            <Text>Wholesale Integration System Development
-	•	Built an API-driven Node.js integration linking partner systems with Neto eCommerce, automating order import and fulfilment.
-	•	Launched wholesale operations from zero, reducing manual processing by 80% and enabling real-time order synchronisation across platforms.
-</Text>
+        <Document ID="747D8FD0-14AD-46D9-9AD9-41CB22C78D94">
+            <Title>Key Responsibilities:</Title>
+            <Text>Key Responsibilities:</Text>
         </Document>
         <Document ID="317A04D1-AB14-4796-BCFB-A3A2EC0164E8">
             <Title>Key Responsibilities:</Title>
@@ -1020,26 +1051,33 @@ Ian Qiu
 </Title>
             <Text>Experience #</Text>
         </Document>
-        <Document ID="79C534F6-22EE-4D79-BD8D-A2A88F6275EF">
-            <Text>Skills &amp; Technologies: CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics, Third-Party API Integration,SEO, Responsive Design,Accessibility Standards (WCAG)
-
-—————————————————————————————————————————————————————————————————————————————————————</Text>
+        <Document ID="32840C10-857D-4949-BA3E-CE8C298312BD">
+            <Text>Wholesale Integration System Development
+	•	Built an API-driven Node.js integration linking partner systems with Neto eCommerce, automating order import and fulfilment.
+	•	Launched wholesale operations from zero, reducing manual processing by 80% and enabling real-time order synchronisation across platforms.
+</Text>
         </Document>
         <Document ID="93D1B69A-1AFC-4EBC-9ACD-F2F9F75FB75D">
             <Title>RM</Title>
             <Text>#  Software Engineer RM PLC (LSE Listed- Code: RM) Oct 2021 – Jan 2025</Text>
         </Document>
-        <Document ID="DF8EF938-DC58-4D20-8C51-DF7E134896C1">
-            <Title>Key Responsibilities:</Title>
-            <Text>Key Responsibilities:</Text>
-        </Document>
-        <Document ID="747D8FD0-14AD-46D9-9AD9-41CB22C78D94">
-            <Title>Key Responsibilities:</Title>
-            <Text>Key Responsibilities:</Text>
+        <Document ID="79C534F6-22EE-4D79-BD8D-A2A88F6275EF">
+            <Text>Skills &amp; Technologies: CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics, Third-Party API Integration,SEO, Responsive Design,Accessibility Standards (WCAG)
+
+—————————————————————————————————————————————————————————————————————————————————————</Text>
         </Document>
         <Document ID="BF6C4971-CBBD-42F8-9793-B89B3343E44B">
             <Title>Content</Title>
             <Text>References’ Contact Information Available Upon Request.</Text>
+        </Document>
+        <Document ID="DF8EF938-DC58-4D20-8C51-DF7E134896C1">
+            <Title>Key Responsibilities:</Title>
+            <Text>Key Responsibilities:</Text>
+        </Document>
+        <Document ID="6CE905E6-D627-468C-B810-FC9985F23869">
+            <Title>Key Achievements:
+</Title>
+            <Text>🚩 Key Achievements:</Text>
         </Document>
         <Document ID="95E2683E-9E20-4D40-99E6-31759A27F9EF">
             <Title>Content</Title>
@@ -1059,23 +1097,23 @@ reuse, and best practices to boost maintainability, scalability, and performance
         <Document ID="95BAEBB6-7FE0-4D22-A55A-65D6F92ED874">
             <Title>Letour Cycles-1</Title>
         </Document>
-        <Document ID="B9D9AF01-52C5-4D9C-A9AC-87948A72EDCA">
-            <Text>Algorithm Design - ICILS Machine Marking (International Education Project):
-	•	Engineered a recursive algorithm to automate Blockly-based code evaluation for the ICILS international assessment, transforming manual review into a fully automated, scalable process.
-	•	Drove Angular front-end modernisation, introducing modular architecture and reusable components that boosted performance and maintainability.
-	•	Built data processing pipelines to auto-generate detailed scoring reports, cutting manual effort by over 70% and significantly improving assessment accuracy and turnaround time.</Text>
-        </Document>
-        <Document ID="16D21128-4BB4-4D9F-96BA-3F3EC6BC63EE">
-            <Title>Key Achievements:
-</Title>
-            <Text>🚩 Key Achievements:</Text>
-        </Document>
         <Document ID="A14BFAA7-7BED-4B99-BC87-9299FD7965D2">
             <Text>Lead Developer - PISA2025 (Programme for International Student Assessment):
 	•	Took ownership of the PISA2025 assessment platform after the project lead’s departure, ensuring stability and delivery continuity for the OECD-Europe international education program.
 	•	Lead redevelopment and feature delivery under tight deadlines while managing stakeholder expectations and maintaining cross-regional communication.
 	•	Acted simultaneously as Project Manager, Analyst, and Lead Developer, collaborating with OECD clients to translate requirements into actionable development tasks. Led design, QA, and production delivery of WCAG-compliant modules built with React.js, TypeScript, PHP, Chart.js, and Blockly.
 	•	Successfully delivered two major platform modules on time and within scope, improving system stability and usability for global researchers, while earning formal recognition from OECD-Europe for leadership, quality, and client collaboration.</Text>
+        </Document>
+        <Document ID="16D21128-4BB4-4D9F-96BA-3F3EC6BC63EE">
+            <Title>Key Achievements:
+</Title>
+            <Text>🚩 Key Achievements:</Text>
+        </Document>
+        <Document ID="B9D9AF01-52C5-4D9C-A9AC-87948A72EDCA">
+            <Text>Algorithm Design - ICILS Machine Marking (International Education Project):
+	•	Engineered a recursive algorithm to automate Blockly-based code evaluation for the ICILS international assessment, transforming manual review into a fully automated, scalable process.
+	•	Drove Angular front-end modernisation, introducing modular architecture and reusable components that boosted performance and maintainability.
+	•	Built data processing pipelines to auto-generate detailed scoring reports, cutting manual effort by over 70% and significantly improving assessment accuracy and turnaround time.</Text>
         </Document>
         <Document ID="63C73EDF-F30B-4691-92A3-81803E3BA557">
             <Title>Key Responsibilities:</Title>
@@ -1106,8 +1144,7 @@ reuse, and best practices to boost maintainability, scalability, and performance
             <Title>Content</Title>
             <Text>	•	E-Commerce Development: Designed, developed, and deployed Shopify and Neto online stores, delivering enhanced functionality and user experience.
 	•	API Integration &amp; Automation: Built and maintained seamless API connections for order processing, tracking, and partner integrations across Shopify, eBay, Neto, and AusPost, ensuring real-time data synchronisation.
-	•	SEO &amp; Data Management: Implemented SEO-optimised product pages with dynamic metadata and monitored data flow across platforms to maintain accurate order and tracking information.
-</Text>
+	•	SEO &amp; Data Management: Implemented SEO-optimised product pages with dynamic metadata and monitored data flow across platforms to maintain accurate order and tracking information.</Text>
         </Document>
         <Document ID="3F5A97E1-8966-493C-B0EF-122C0C7C7B68">
             <Title>Key Achievements:
@@ -1183,6 +1220,9 @@ E-commerce development and API integration across Shopify, Neto, eBay, and AusPo
             <Title>Career Objective</Title>
             <Text>Professional Profile #</Text>
         </Document>
+        <Document ID="6BB17ADD-9915-4CBA-9A1F-8EB342FE1024">
+            <Title>Content</Title>
+        </Document>
         <Document ID="60D3DAF1-71DF-4B16-9FAE-6826D701A622">
             <Text>Wholesale Integration System Development
 	•	Built an API-driven Node.js integration linking partner systems with Neto eCommerce, automating order import and fulfilment.
@@ -1194,15 +1234,11 @@ E-commerce development and API integration across Shopify, Neto, eBay, and AusPo
 	•	Integrated Australia Post’s Parcel Collection service into the Styletread eCommerce ecosystem, enabling customers to select convenient pickup locations during checkout. Built end-to-end functionality across both the Next.js frontend and Magento backend
 	•	It is showcasing strong capability in delivering complex 3rd-party integrations and ensuring reliable data flow between UI, order management systems, and logistics APIs.</Text>
         </Document>
-        <Document ID="6BB17ADD-9915-4CBA-9A1F-8EB342FE1024">
-            <Title>Content</Title>
-        </Document>
         <Document ID="1F6B8F87-2306-4DBD-BCA0-E99EB1980ED5">
             <Title>Content</Title>
             <Text>	•	API Management &amp; Integration: Managed and optimised APIs for PHP-based eCommerce systems, ensuring reliable communication between company websites, carriers, and third-party platforms.
 	•	Web Development &amp; Feature Enhancement: Developed new site features, including promotional templates and payment integrations, to improve customer engagement and conversion rates.
-	•	SEO &amp; Product Optimisation: Created and maintained SEO-friendly product listings with dynamic metadata, enhancing visibility and search rankings across platforms.
-</Text>
+	•	SEO &amp; Product Optimisation: Created and maintained SEO-friendly product listings with dynamic metadata, enhancing visibility and search rankings across platforms.</Text>
         </Document>
         <Document ID="24B4403D-667A-4780-87B4-407C45F3794E">
             <Text>Skills &amp; Technologies: React.js, Next.js, TypeScript, GraphQL, Nodejs,  PHP, CSS/SCSS, Magento, AWS,  Microsoft SQL Server, API Integration, SEO Optimization, Agile Development, Jira, iOS Development
@@ -1210,6 +1246,10 @@ E-commerce development and API integration across Shopify, Neto, eBay, and AusPo
 ——————————————————————————————————————————————————————————————————————————————</Text>
         </Document>
         <Document ID="6938A6A1-C592-4748-80E4-D65BA55D700A">
+            <Title>Key Responsibilities:</Title>
+            <Text>Key Responsibilities:</Text>
+        </Document>
+        <Document ID="B550177D-489C-4A21-B305-AD5C902A71EF">
             <Title>Key Responsibilities:</Title>
             <Text>Key Responsibilities:</Text>
         </Document>
@@ -1229,12 +1269,6 @@ E-commerce development and API integration across Shopify, Neto, eBay, and AusPo
             <Text>Apple Pay Express Checkout:
 - Implemented Apple Pay Express Checkout across Munro Footwear Group’s eCommerce websites, enhancing checkout efficiency and user experience.</Text>
         </Document>
-        <Document ID="26270A41-A4D2-43D5-B5E2-C39782D92021">
-            <Text>Lead D3.js Data Visualization Upgrade:
-	•	Led a full upgrade of D3.js (v4 → v7.9) within the Assessment Master analytics platform, significantly improving rendering speed, scalability, and interactive performance.
-	•	Optimised data-visualisation pipelines to handle large, complex educational datasets, reducing load times and improving responsiveness across dashboards.
-	•	Delivered a modern, insight-driven user experience, empowering educators and researchers to interpret results more efficiently through advanced, dynamic visual analytics.</Text>
-        </Document>
         <Document ID="FD147D29-12D1-4C62-BAB9-D94BBA5C444A">
             <Title>Content</Title>
             <Text>	•	Delivered large-scale, accessible front-end modules for an international SaaS platform, supporting global users and strict compliance requirements.
@@ -1247,7 +1281,13 @@ E-commerce development and API integration across Shopify, Neto, eBay, and AusPo
             <Title>Muron</Title>
             <Text>￼  Full Stack Developer  Munro Footwear Group       Jan 2025 – Current</Text>
         </Document>
-        <Document ID="B550177D-489C-4A21-B305-AD5C902A71EF">
+        <Document ID="26270A41-A4D2-43D5-B5E2-C39782D92021">
+            <Text>Lead D3.js Data Visualization Upgrade:
+	•	Led a full upgrade of D3.js (v4 → v7.9) within the Assessment Master analytics platform, significantly improving rendering speed, scalability, and interactive performance.
+	•	Optimised data-visualisation pipelines to handle large, complex educational datasets, reducing load times and improving responsiveness across dashboards.
+	•	Delivered a modern, insight-driven user experience, empowering educators and researchers to interpret results more efficiently through advanced, dynamic visual analytics.</Text>
+        </Document>
+        <Document ID="8EB7F483-F784-4955-89F8-0FFAC3F2FED9">
             <Title>Key Responsibilities:</Title>
             <Text>Key Responsibilities:</Text>
         </Document>
@@ -1255,6 +1295,11 @@ E-commerce development and API integration across Shopify, Neto, eBay, and AusPo
             <Title>Munro e-Commerce Platform</Title>
             <Text>Munro e-Commerce Platform(Link) | Next, React, CSS, Magento, JavaScript, CSS, SEO, GraphQL, AWS, CI/CD, Node.js
 Served as the main developer migrating the transition from Classic Magento to a Headless CMS and Next.js stack, resulting in faster rendering, improved scalability, and higher SEO rankings, with seamless integration to legacy backend services.</Text>
+        </Document>
+        <Document ID="33B88803-1193-47A0-BDB2-2ABE016BAADB">
+            <Text>Express Checkout
+	•	Implemented Express Checkout across both product and cart pages within the Magento–Next.js ecosystem, demonstrating strong capability in integrating complex 3rd-party vendor solutions
+	•	Ensured PCI-compliant, secure payment flows and delivered measurable UX improvements, reducing checkout time, lowering cart abandonment, and increasing overall conversion rates.</Text>
         </Document>
         <Document ID="595389EB-D85F-4FCD-8445-D478530C6872">
             <Title>Key Achievements:
@@ -1270,11 +1315,22 @@ Served as the main developer migrating the transition from Classic Magento to a 
             <Text>——————————————————————————————————————————————————————————————————————————————
 Projects</Text>
         </Document>
+        <Document ID="C8B61032-F369-4778-A922-43817C06FEB1">
+            <Title>Key Achievements:
+</Title>
+            <Text>🚩 Key Achievements:</Text>
+        </Document>
         <Document ID="EDB75877-CAEC-468B-8A00-4FBAE7C3127B">
             <Text>Apple Pay Express Checkout
 	•	Implemented Apple Pay Express Checkout across multiple eCommerce platforms to simplify the checkout process and reduce friction for end users.
 	•	Integrated the solution within the existing Magento–Next.js framework, maintaining PCI compliance and enhancing payment security and performance.
 	•	Delivered measurable UX improvements, reducing checkout time and cart abandonment while boosting conversion rates and customer satisfaction.</Text>
+        </Document>
+        <Document ID="08374A10-4143-4995-AFA2-D0B306A52847">
+            <Text>Algorithm Design - ICILS Machine Marking (International Education Project):
+	•	Engineered a recursive algorithm to automate Blockly-based code evaluation for the ICILS international assessment, transforming manual review into a fully automated, scalable process.
+	•	Drove Angular front-end modernisation, introducing modular architecture and reusable components that boosted performance and maintainability.
+	•	Built data processing pipelines to auto-generate detailed scoring reports, cutting manual effort by over 70% and significantly improving assessment accuracy and turnaround time.</Text>
         </Document>
         <Document ID="89A3FE98-C7A6-4654-838E-CB7AA80C8D8B">
             <Title>Content</Title>
@@ -1283,17 +1339,6 @@ Projects</Text>
 	•	Accessibility &amp; CI/CD Excellence: Ensured WCAG 2.0–2.2 compliance and maintained deployment quality through Azure DevOps, automated CI/CD pipelines, and Agile sprint management in Jira.
 	•	Collaboration &amp; Mentorship: Partnered with international clients to translate complex requirements into deliverables and mentored junior developers in Angular, Node.js, and coding best practices to strengthen team capability.
 </Text>
-        </Document>
-        <Document ID="08374A10-4143-4995-AFA2-D0B306A52847">
-            <Text>Algorithm Design - ICILS Machine Marking (International Education Project):
-	•	Engineered a recursive algorithm to automate Blockly-based code evaluation for the ICILS international assessment, transforming manual review into a fully automated, scalable process.
-	•	Drove Angular front-end modernisation, introducing modular architecture and reusable components that boosted performance and maintainability.
-	•	Built data processing pipelines to auto-generate detailed scoring reports, cutting manual effort by over 70% and significantly improving assessment accuracy and turnaround time.</Text>
-        </Document>
-        <Document ID="C8B61032-F369-4778-A922-43817C06FEB1">
-            <Title>Key Achievements:
-</Title>
-            <Text>🚩 Key Achievements:</Text>
         </Document>
         <Document ID="3A75FA58-2DAF-46F6-B907-3CF653A0BCE1">
             <Text>Wholesale Integration System Development
@@ -1334,9 +1379,8 @@ Projects</Text>
 	•	Stakeholder communication: Collaborated with non-technical international stakeholders to turn high-level assessment ideas into clear requirements, technical solutions and working product features.
 	•	System Migration &amp; Architecture: Contributed to the transformation of a PHP monolith into a modern microservices architecture, designing services in both C# .NET Core and Node.js and selecting the optimal runtime for each workload, from lightweight API endpoints to background processing tasks.
 	•	CI/CD pipeline optimisation: Maintained and optimised Azure DevOps CI/CD pipelines for SaaS platform delivery, including automated build validation, unit test execution and deployment controls to improve release quality and reduce regression risks across development, staging and production environments.
-	•	Accessibility &amp; CI/CD Excellence: Ensured WCAG 2.0–2.2 compliance and maintained deployment quality through Azure DevOps, automated CI/CD pipelines, and Agile sprint management in Jira.
-	•	Collaboration &amp; Mentorship: Partnered with international clients to translate complex requirements into deliverables and mentored junior developers in Angular, Node.js, and coding best practices to strengthen team capability.
-</Text>
+	•	Accessibility: Ensured WCAG 2.0–2.2 compliance for all the projects
+	•	Mentorship: Mentored junior developers in Angular, Node.js and coding best practices, supporting code quality, knowledge sharing and stronger development capability across the team.</Text>
         </Document>
         <Document ID="D907E7D0-1B43-4AA0-9274-3341089A8A35">
             <Title>Content</Title>
@@ -1495,9 +1539,18 @@ Passionate about AI-driven innovation, cloud-native architecture and building fu
 
 ——————————————————————————————————————————————————————————————————————————————</Text>
         </Document>
+        <Document ID="969A878D-2C04-4356-9CE1-893552FB8C18">
+            <Title>Letour Cycles</Title>
+            <Text>￼  Web Developer Letour Cycles                            Dec 2019 – Oct 2021</Text>
+        </Document>
         <Document ID="30CF9FD7-86B9-46F8-8458-4580DD4C20A6">
             <Title>Australian Trading Bridge</Title>
             <Text>￼  Full Stack Developer Australian Trading Bridge      Jan 2018 – Dec 2019</Text>
+        </Document>
+        <Document ID="00C5D4AA-0846-4C12-B5ED-CE91A6492E8A">
+            <Title>Education</Title>
+            <Text>Education ￼
+￼   Bachelor of Computing (With Honours)              Feb 2011-Aug 2014</Text>
         </Document>
         <Document ID="771D9EBC-4CBF-4F54-8E41-3CEB98ABD7C1">
             <Title>Experience
@@ -1584,12 +1637,11 @@ Full-stack eCommerce development on a large-scale headless platform using React,
 	•	SEO &amp; Product Optimisation: Created and maintained SEO-friendly product listings with dynamic metadata, enhancing visibility and search rankings across platforms.
 </Text>
         </Document>
-        <Document ID="BAEEAE9C-FEC7-4B11-A26A-E443C34C1248">
-            <Title>Content</Title>
-            <Text>	•	System Development: Built a full-stack product management and e-commerce platform using Laravel 5, aligning functionality with business and sales objectives.
-	•	Architecture &amp; Optimisation: Designed MySQL databases, improved performance by resolving technical issues, and implemented custom middleware for scalability.
-	•	UI &amp; Deployment: Created responsive Blade/Bootstrap interfaces and deployed through AWS EC2, Docker, and GitHub in an Agile/Scrum environment.
-</Text>
+        <Document ID="37B87D4E-C227-4DBF-9E80-2CA4C4FFA805">
+            <Text>Main Developer – Midas Shoes Migration
+	•	Led the migration of the Midas Shoes eCommerce platform from Classic Magento to a Headless CMS + Next.js stack, achieving 40% faster load times and improved SEO rankings.
+	•	Engineered integrations between Magento, AWS Lambda, and legacy ERP systems for real-time data synchronisation and scalable performance.
+	•	Delivered the platform on time and within scope, enhancing site stability, maintainability, and user experience across all touchpoints.</Text>
         </Document>
         <Document ID="C8E5C5C4-7923-4587-8C35-E7DEA4184928">
             <Title>Title</Title>
@@ -1599,15 +1651,24 @@ University of Tasmania –  🎓 Bachelor (Hons) of Computing
 📞0467 239 975 ✉️ ian.dev.q@gmail.com 🔗LinkedIn Profile 🌐GitHub  
 </Text>
         </Document>
-        <Document ID="37B87D4E-C227-4DBF-9E80-2CA4C4FFA805">
-            <Text>Main Developer – Midas Shoes Migration
-	•	Led the migration of the Midas Shoes eCommerce platform from Classic Magento to a Headless CMS + Next.js stack, achieving 40% faster load times and improved SEO rankings.
-	•	Engineered integrations between Magento, AWS Lambda, and legacy ERP systems for real-time data synchronisation and scalable performance.
-	•	Delivered the platform on time and within scope, enhancing site stability, maintainability, and user experience across all touchpoints.</Text>
+        <Document ID="BAEEAE9C-FEC7-4B11-A26A-E443C34C1248">
+            <Title>Content</Title>
+            <Text>	•	System Development: Built a full-stack product management and e-commerce platform using Laravel 5, aligning functionality with business and sales objectives.
+	•	Architecture &amp; Optimisation: Designed MySQL databases, improved performance by resolving technical issues, and implemented custom middleware for scalability.
+	•	UI &amp; Deployment: Created responsive Blade/Bootstrap interfaces and deployed through AWS EC2, Docker, and GitHub in an Agile/Scrum environment.
+</Text>
         </Document>
         <Document ID="B2E8BE20-7AA4-4634-BD90-86E829AA7533">
             <Title>Australian Trading Bridge</Title>
             <Text>￼  Full Stack Developer Australian Trading Bridge      Jan 2018 – Dec 2019</Text>
+        </Document>
+        <Document ID="E1BA156E-3C9C-4CCA-BFC0-67E131F471CF">
+            <Text>Australian Post Parcel Collection Integration
+	•	Integrated Australia Post’s Parcel Collection service into the Styletread eCommerce ecosystem, enabling customers to select convenient pickup locations during checkout. Built end-to-end functionality across both the Next.js frontend and Magento backend
+	•	It is showcasing strong capability in delivering complex 3rd-party integrations and ensuring reliable data flow between UI, order management systems, and logistics APIs.</Text>
+        </Document>
+        <Document ID="366E05BA-E271-4573-99F6-3F01D6D38532">
+            <Title>Title</Title>
         </Document>
         <Document ID="A3A20B4B-77D2-428A-86C4-AC241BF4EC86">
             <Title>Content</Title>
@@ -1620,22 +1681,16 @@ Academic Achievement: Received 100% in two major assignments and tutorial work f
             <Title>FHL Group </Title>
             <Text>FHL Group  IT support                                                   2016 – Jan 2018  </Text>
         </Document>
-        <Document ID="366E05BA-E271-4573-99F6-3F01D6D38532">
-            <Title>Title</Title>
-        </Document>
-        <Document ID="0E1CD42C-CBAA-4BE6-9073-35D03CFB5B28">
-            <Text>Lead Developer - PISA2025 (Programme for International Student Assessment):
-	•	Took ownership of the PISA2025 assessment platform after the project lead’s departure, ensuring stability and delivery continuity for the OECD-Europe international education program.
-	•	Lead redevelopment and feature delivery under tight deadlines while managing stakeholder expectations and maintaining cross-regional communication.
-	•	Acted simultaneously as Project Manager, Analyst, and Lead Developer, collaborating with OECD clients to translate requirements into actionable development tasks. Led design, QA, and production delivery of WCAG-compliant modules built with React.js, TypeScript, PHP, Chart.js, and Blockly.
-	•	Successfully delivered two major platform modules on time and within scope, improving system stability and usability for global researchers, while earning formal recognition from OECD-Europe for leadership, quality, and client collaboration.</Text>
-        </Document>
         <Document ID="920422AE-DEF0-469B-A046-D184CD0A02DA">
             <Title>Content</Title>
             <Text>	•	Graduate Project: Developed a Career Hub showcase website for future students using HTML, CSS, jQuery, and a Content Management System.
 	•	Honours Thesis: Using Hopfield Network to Understand Alzheimer’s Disease — applied Artificial Intelligence, Neural Networks, and MATLAB to model cognitive decline patterns.
 
 Academic Achievement: Received 100% in two major assignments and tutorial work for KXT309 Advanced Dynamic Web Development, a full-stack project using LAMP and JavaScript/jQuery.</Text>
+        </Document>
+        <Document ID="7FD749D8-51F5-4C7C-ADFE-709655EC0288">
+            <Title>FHL Group </Title>
+            <Text>FHL Group  IT support                                                   2016 – Jan 2018  </Text>
         </Document>
         <Document ID="F900A621-9AA0-4583-AEC0-FE9274C9D6D0">
             <Title>Skills</Title>
@@ -1650,9 +1705,12 @@ University of Tasmania –  🎓 Bachelor (Hons) of Computing
 📞0467 239 975 ✉️ ian.dev.q@gmail.com 🔗LinkedIn Profile 🌐GitHub  
 </Text>
         </Document>
-        <Document ID="7FD749D8-51F5-4C7C-ADFE-709655EC0288">
-            <Title>FHL Group </Title>
-            <Text>FHL Group  IT support                                                   2016 – Jan 2018  </Text>
+        <Document ID="0E1CD42C-CBAA-4BE6-9073-35D03CFB5B28">
+            <Text>Lead Developer - PISA2025 (Programme for International Student Assessment):
+	•	Took ownership of the PISA2025 assessment platform after the project lead’s departure, ensuring stability and delivery continuity for the OECD-Europe international education program.
+	•	Lead redevelopment and feature delivery under tight deadlines while managing stakeholder expectations and maintaining cross-regional communication.
+	•	Acted simultaneously as Project Manager, Analyst, and Lead Developer, collaborating with OECD clients to translate requirements into actionable development tasks. Led design, QA, and production delivery of WCAG-compliant modules built with React.js, TypeScript, PHP, Chart.js, and Blockly.
+	•	Successfully delivered two major platform modules on time and within scope, improving system stability and usability for global researchers, while earning formal recognition from OECD-Europe for leadership, quality, and client collaboration.</Text>
         </Document>
         <Document ID="34BE0125-F4A4-493E-8A9C-33D7E740D594">
             <Title>Content</Title>
@@ -1702,6 +1760,10 @@ Academic Achievement: Received 100% in two major assignments and tutorial work f
             <Title>Career Object</Title>
             <Text>
 Experienced Software Engineer passionate about AI-driven innovation, cloud architecture, and agile development. Proficient in TypeScript, C#, and PHP, with hands-on experience across Azure and AWS. Dedicated to growing as a T-shaped professional—combining deep software engineering expertise with broad knowledge across AI integration, DevOps, and scalable cloud solutions</Text>
+        </Document>
+        <Document ID="4A9394CF-CDEE-4836-86F7-E4E56DF22F6B">
+            <Title>Muron</Title>
+            <Text>￼  Full Stack Developer  Munro Footwear Group       Jan 2025 – Current</Text>
         </Document>
         <Document ID="53BFA8CD-C1F4-4D8B-AA2F-51F2AC61098E">
             <Title>Key Responsibilities:</Title>
@@ -1770,6 +1832,12 @@ Experienced Software Engineer passionate about AI-driven innovation, cloud archi
 </Title>
             <Text>🚩 Key Achievements:</Text>
         </Document>
+        <Document ID="01CEEC82-D18C-4227-9CC9-377231B7C0C0">
+            <Text>Lead D3.js Data Visualization Upgrade:
+	•	Led a full upgrade of D3.js (v4 → v7.9) within the Assessment Master analytics platform, significantly improving rendering speed, scalability, and interactive performance.
+	•	Optimised data-visualisation pipelines to handle large, complex educational datasets, reducing load times and improving responsiveness across dashboards.
+	•	Delivered a modern, insight-driven user experience, empowering educators and researchers to interpret results more efficiently through advanced, dynamic visual analytics.</Text>
+        </Document>
         <Document ID="F1E7EC75-DA65-496A-9604-A699DCEEC93B">
             <Title>Content</Title>
             <Text>Languages: JavaScript (ES5-2021), TypeScript, C#, PHP, C++, Python
@@ -1779,12 +1847,6 @@ Front-End: React, Next.js(Headless Front End), Angular, SCSS/Sass, iOS
 Databases: MySQL, PostgreSQL, SQL Server, MongoDB
 CI/CD Tools: GitHub Action, GitLab, Jira, Azure DevOps Server
 API: GraphQL,RESTful</Text>
-        </Document>
-        <Document ID="01CEEC82-D18C-4227-9CC9-377231B7C0C0">
-            <Text>Lead D3.js Data Visualization Upgrade:
-	•	Led a full upgrade of D3.js (v4 → v7.9) within the Assessment Master analytics platform, significantly improving rendering speed, scalability, and interactive performance.
-	•	Optimised data-visualisation pipelines to handle large, complex educational datasets, reducing load times and improving responsiveness across dashboards.
-	•	Delivered a modern, insight-driven user experience, empowering educators and researchers to interpret results more efficiently through advanced, dynamic visual analytics.</Text>
         </Document>
         <Document ID="F3084B48-B8D8-4696-A6AC-8AB19818B56A">
             <Title>Key Achievements:
@@ -1813,6 +1875,12 @@ Thanks for your time, Ian Qiu
 
 
 </Text>
+        </Document>
+        <Document ID="D321B782-5FCB-4189-8270-BAB5D8548EC3">
+            <Title>Content</Title>
+            <Text>Experienced Software Engineer with 7+ years of experience delivering scalable web and cloud-based solutions across eCommerce, SaaS, and public-sector projects. Strong full-stack background in TypeScript, React, Next.js, Angular, Node.js, C#, .NET Core, PHP, RESTful APIs and GraphQL, with hands-on experience in Azure, AWS, Vercel, SQL Server, PostgreSQL, MySQL, and CI/CD pipelines using GitHub Actions, Azure DevOps and GitLab CI to automate build, testing and deployment workflows.
+Skilled in translating high-level business ideas into practical technical solutions, particularly when working with non-technical stakeholders. Recognised for strong ownership, clear communication, cross-functional collaboration and the ability to deliver high-performance, user-focused products in agile environments.
+Passionate about AI-driven innovation, cloud-native architecture and building future-ready digital solutions that balance technical quality with real business impact.</Text>
         </Document>
         <Document ID="4A676615-1716-4E03-AD86-16D218520327">
             <Title>Muron</Title>
@@ -1876,6 +1944,14 @@ Thanks for your time, Ian Qiu
 	•	UI &amp; Deployment: Created responsive Blade/Bootstrap interfaces and deployed through AWS EC2, Docker, and GitHub in an Agile/Scrum environment.
 </Text>
         </Document>
+        <Document ID="4E35F06F-D054-4E2E-84A0-E0408B94C3A1">
+            <Text>Lead Angular &amp; Node.js Modernization:
+	•	Spearheaded the upgrade of Angular (v14→18) and Node.js (v14→18) for RM Australia’s flagship SaaS platform, Assessment Master, modernising the tech stack for improved speed, scalability, and maintainability.
+	•	Cross-team dependency coordination: Coordinated NPM dependency upgrades across multiple feature teams, identifying package compatibility risks, aligning upgrade timelines, resolving breaking changes, and ensuring a smooth transition with minimal disruption to active development.
+	•	Redesigned front-end architecture with modular components and best practices, enhancing code reusability, accessibility, and long-term sustainability.
+	•	Contributed to system migration from a PHP monolith to a C# .NET Core microservices framework with Azure Functions and API Gateway, enabling event-driven processing and cost-efficient scaling.
+	•	Mentored junior developers in Angular and Node.js, strengthening code quality standards and fostering a culture of technical excellence across the team.</Text>
+        </Document>
         <Document ID="B8F478D3-519B-4E7E-8A86-2AF514590D9E">
             <Title>Key Achievements:
 </Title>
@@ -1901,14 +1977,14 @@ Thanks for your time, Ian Qiu
 	•	Acted simultaneously as Project Manager, Analyst, and Lead Developer, collaborating with OECD clients to translate requirements into actionable development tasks. Led design, QA, and production delivery of WCAG-compliant modules built with Angular, TypeScript, PHP, Chart.js, and Blockly.
 	•	Successfully delivered two major platform modules on time and within scope, improving system stability and usability for global researchers, while earning formal recognition from OECD-Europe for leadership, quality, and client collaboration.</Text>
         </Document>
+        <Document ID="DCE71C4F-D4BC-426D-A81E-343C349A3F98">
+            <Text>Apple Pay Express Checkout
+	•	Implemented Apple Pay Express Checkout across both product and cart pages within the Magento–Next.js ecosystem, demonstrating strong capability in integrating complex 3rd-party vendor solutions
+	•	Ensured PCI-compliant, secure payment flows and delivered measurable UX improvements, reducing checkout time, lowering cart abandonment, and increasing overall conversion rates.</Text>
+        </Document>
         <Document ID="C639EC1B-9DB4-40E5-A833-5BCC98C89CCA">
             <Title>Key Responsibilities:</Title>
             <Text>Key Responsibilities:</Text>
-        </Document>
-        <Document ID="F66130B5-4253-4DFA-BCFC-1EF3D658A8C4">
-            <Text>Test-Driven Development (TDD) Leadership:
-	•	Implementing automated testing frameworks and coding standards that cut defects by 40% and improved release reliability and team productivity.
-</Text>
         </Document>
         <Document ID="0BAEE31C-BAF6-47AC-92BE-7A9CA3CC59AC">
             <Title>Content</Title>
@@ -1917,10 +1993,10 @@ Thanks for your time, Ian Qiu
 	•	UI &amp; Deployment: Created responsive Blade/Bootstrap interfaces and deployed through AWS EC2, Docker, and GitHub in an Agile/Scrum environment.
 </Text>
         </Document>
-        <Document ID="DCE71C4F-D4BC-426D-A81E-343C349A3F98">
-            <Text>Apple Pay Express Checkout
-	•	Implemented Apple Pay Express Checkout across both product and cart pages within the Magento–Next.js ecosystem, demonstrating strong capability in integrating complex 3rd-party vendor solutions
-	•	Ensured PCI-compliant, secure payment flows and delivered measurable UX improvements, reducing checkout time, lowering cart abandonment, and increasing overall conversion rates.</Text>
+        <Document ID="2E97C916-D03C-4035-A865-33B3C771A3BA">
+            <Text>Wholesale Integration System Development
+	•	Built an API-driven Node.js integration linking partner systems with Neto eCommerce, automating order import and fulfilment.
+	•	Launched wholesale operations from zero, reducing manual processing by 80% and enabling real-time order synchronisation across platforms.</Text>
         </Document>
         <Document ID="9EA3B4D2-D2A0-460C-A831-B68AE5DA922E">
             <Title>Letour Cycles-1</Title>
@@ -1931,16 +2007,21 @@ Letour Cycles( Link)
 Web Developer ( Dec 2019 - Oct-2021) 
 </Text>
         </Document>
+        <Document ID="F66130B5-4253-4DFA-BCFC-1EF3D658A8C4">
+            <Text>Test-Driven Development (TDD) Leadership:
+	•	Implementing automated testing frameworks and coding standards that cut defects by 40% and improved release reliability and team productivity.
+</Text>
+        </Document>
         <Document ID="9C8CB6B8-4607-48B1-A50C-937894C6EF8D">
             <Title>Key Achievements:
 </Title>
             <Text>🚩 Key Achievements:</Text>
         </Document>
-        <Document ID="2E97C916-D03C-4035-A865-33B3C771A3BA">
-            <Text>Wholesale Integration System Development
-	•	Built an API-driven Node.js integration linking partner systems with Neto eCommerce, automating order import and fulfilment.
-	•	Launched wholesale operations from zero, reducing manual processing by 80% and enabling real-time order synchronisation across platforms.
-</Text>
+        <Document ID="91847F35-AC98-45E8-AFAF-084508F7F61B">
+            <Title>Content</Title>
+            <Text>	•	API Management &amp; Integration: Managed and optimised APIs for PHP-based eCommerce systems, ensuring reliable communication between company websites, carriers, and third-party platforms.
+	•	Web Development &amp; Feature Enhancement: Developed new site features, including promotional templates and payment integrations, to improve customer engagement and conversion rates.
+	•	SEO &amp; Product Optimisation: Created and maintained SEO-friendly product listings with dynamic metadata, enhancing visibility and search rankings across platforms.</Text>
         </Document>
         <Document ID="1CFAE681-4198-4DA7-851E-E3B8C72AE820">
             <Title>Key Responsibilities:</Title>
@@ -1976,10 +2057,14 @@ Academic Achievement: Received 100% in two major assignments and tutorial work f
             <Title>Key Achievements:
 </Title>
         </Document>
-        <Document ID="FCBF16C7-F507-4BBE-84E7-0EBFA7D48DFB">
-            <Title>Experience
-</Title>
-            <Text>Experience #</Text>
+        <Document ID="5526417C-CBD0-4BB7-B524-A0531DA9FE8D">
+            <Text>Test-Driven Development (TDD) Leadership:
+	•	Implementing automated testing frameworks and coding standards that cut defects by 40% and improved release reliability and team productivity.
+</Text>
+        </Document>
+        <Document ID="F2DDCB02-CC65-4E85-9FE6-C9B873A1463A">
+            <Title>Key Responsibilities:</Title>
+            <Text>Key Responsibilities:</Text>
         </Document>
         <Document ID="F016E298-F112-4267-89D7-9474E1E3D95F">
             <Title>Content</Title>
@@ -1988,12 +2073,12 @@ Academic Achievement: Received 100% in two major assignments and tutorial work f
 	•	SEO &amp; Data Management: Implemented SEO-optimised product pages with dynamic metadata and monitored data flow across platforms to maintain accurate order and tracking information.
 </Text>
         </Document>
-        <Document ID="5526417C-CBD0-4BB7-B524-A0531DA9FE8D">
-            <Text>Test-Driven Development (TDD) Leadership:
-	•	Implementing automated testing frameworks and coding standards that cut defects by 40% and improved release reliability and team productivity.
-</Text>
+        <Document ID="FCBF16C7-F507-4BBE-84E7-0EBFA7D48DFB">
+            <Title>Experience
+</Title>
+            <Text>Experience #</Text>
         </Document>
-        <Document ID="F2DDCB02-CC65-4E85-9FE6-C9B873A1463A">
+        <Document ID="4637443A-6709-4021-9BD9-A5535A4100E0">
             <Title>Key Responsibilities:</Title>
             <Text>Key Responsibilities:</Text>
         </Document>
@@ -2038,13 +2123,13 @@ AI-assisted Front-End Engineering (testing, refactor, quality)</Text>
             <Title>FHL Group </Title>
             <Text>FHL Group  IT support                                                   2016 – Jan 2018  </Text>
         </Document>
-        <Document ID="357B0B11-B0BA-4710-93DC-951B5845CE3F">
-            <Title>TECHNICAL SKILLS</Title>
-            <Text>Technical Skills ￼</Text>
-        </Document>
         <Document ID="2D884B39-7213-4D2C-818F-7F79510F6B59">
             <Title>Key Responsibilities:</Title>
             <Text>Key Responsibilities:</Text>
+        </Document>
+        <Document ID="357B0B11-B0BA-4710-93DC-951B5845CE3F">
+            <Title>TECHNICAL SKILLS</Title>
+            <Text>Technical Skills ￼</Text>
         </Document>
         <Document ID="7F5FC6D5-AEEC-4F43-9330-C5D92230B7E4">
             <Title>Content</Title>
@@ -2082,6 +2167,10 @@ AI-assisted Front-End Engineering (testing, refactor, quality)</Text>
 </Title>
             <Text>🚩 Key Achievements:</Text>
         </Document>
+        <Document ID="387AE7FA-E300-47BE-92FE-16966950B5DC">
+            <Title>Key Responsibilities:</Title>
+            <Text>Key Responsibilities:</Text>
+        </Document>
         <Document ID="4EB987A3-985A-43D5-A6C0-0F4B6669BDC5">
             <Text>Test-Driven Development (TDD) Leadership:
 	•	Implementing automated testing frameworks and coding standards that cut defects by 40% and improved release reliability and team productivity.
@@ -2110,6 +2199,10 @@ Academic Achievement: Received 100% in two major assignments and tutorial work f
             <Text>FHL Group  IT support                                                   2016 – Jan 2018  </Text>
         </Document>
         <Document ID="12EA88F3-6E35-484E-8452-0CCDE8F1C402">
+            <Title>Key Responsibilities:</Title>
+            <Text>Key Responsibilities:</Text>
+        </Document>
+        <Document ID="02FAE90A-8C7D-4740-9924-D5475ABE9251">
             <Title>Key Responsibilities:</Title>
             <Text>Key Responsibilities:</Text>
         </Document>
@@ -2201,7 +2294,7 @@ Assessment Master is a cloud-based, microservices-driven online assessment platf
         </Document>
         <Document ID="2AE5A306-6D07-443A-B9DB-FF5A19C79820">
             <Text>Main Developer – Midas Shoes Migration
-	•	Led the migration of the Midas Shoes eCommerce platform from Classic Magento to a Headless CMS + Next.js stack, achieving 40% faster load times and improved SEO rankings.
+	•	Led the migration of the Midas Shoes eCommerce platform from Classic Magento to a Headless CMS + Next.js stack, achieving 40% faster load times and improved SEO rankings (Lighthouse Score ).
 	•	Engineered integrations between Magento, AWS Lambda, and legacy ERP systems for real-time data synchronisation and scalable performance.
 	•	Delivered the platform on time and within scope, enhancing site stability, maintainability, and user experience across all touchpoints.</Text>
         </Document>
@@ -2220,6 +2313,10 @@ Assessment Master is a cloud-based, microservices-driven online assessment platf
 	•	Accessibility &amp; CI/CD Excellence: Ensured WCAG 2.0–2.2 compliance and maintained deployment quality through Azure DevOps, automated CI/CD pipelines, and Agile sprint management in Jira.
 	•	Collaboration &amp; Mentorship: Partnered with international clients to translate complex requirements into deliverables and mentored junior developers in Angular, Node.js, and coding best practices to strengthen team capability.
 </Text>
+        </Document>
+        <Document ID="1EC4B654-630F-4F6D-8391-FC3BFE01463A">
+            <Title>Key Responsibilities:</Title>
+            <Text>Key Responsibilities:</Text>
         </Document>
         <Document ID="12EAB976-510C-42C8-A4CD-DC21AC4CB705">
             <Title>Letour Cycles</Title>
@@ -2254,6 +2351,10 @@ Assessment Master is a cloud-based, microservices-driven online assessment platf
 </Title>
             <Text>🚩 Key Achievements:</Text>
         </Document>
+        <Document ID="1AB59E7C-3CB2-4253-921D-84CD5D4EBC50">
+            <Title>Content</Title>
+            <Text>References’ Contact Information Available Upon Request.</Text>
+        </Document>
         <Document ID="860FB496-5BBF-4F87-AD44-6FF344CB0CC2">
             <Text>Lead D3.js Data Visualization Upgrade:
 	•	Led a full upgrade of D3.js (v4 → v7.9) within the Assessment Master analytics platform, significantly improving rendering speed, scalability, and interactive performance.
@@ -2266,6 +2367,16 @@ Assessment Master is a cloud-based, microservices-driven online assessment platf
 - Web Development: Added new features to the website, such as a Christmas Sale template and payment methods.
 - SEO Optimization: Created new product listings with SEO features, including metadata injection with keywords.
 - API Communication: Maintained seamless API communication between the company and carriers.</Text>
+        </Document>
+        <Document ID="D00EBC13-FE90-4A09-8F70-6CC48B23DDDB">
+            <Title>Content</Title>
+            <Text>	•	Full-stack e-commerce development: Delivered a high-performance Next.js + React (v19) front end with a headless Adobe Commerce (Magento) + MySQL platform as part of MFG’s microservices ecosystem. 
+	•	Stakeholder communication: Collaborated with non-technical stakeholders to clarify high-level business ideas, translate requirements into feasible technical solutions, and communicate technical trade-offs clearly.	
+	•	Agile Delivery &amp; Cross-Functional Collaboration: Worked closely with designers, product owners, QA, and cloud engineers to deliver features iteratively within agile sprints. Managed tasks, bugs, and release cycles using Jira with a strong focus on value-driven delivery.
+	•	CI/CD pipeline optimisation: Supported and improved GitHub Actions workflows for automated build, testing and deployment of Next.js / React applications, helping improve release reliability, reduce manual deployment effort and maintain consistent delivery across multiple eCommerce brands.
+	•	Third-party system integration: Integrated external services and third-party APIs, including checkout, delivery, payment, product and marketing-related systems, into the headless eCommerce platform to support seamless customer and operational workflows.
+	•	AI-powered product recommendation plugin: Built an AI-assisted shoe recommendation plugin that converted CMS content into vector embeddings, enabling semantic search and personalised shoe suggestions based on occasion, function and customer needs.	
+	•	AI-Assisted Engineering Workflow: Leverage AI tools (ChatGPT/Copilot/Claude) to refactor legacy modules, validate design decisions against industry best practices, generate test cases, and optimise implementation patterns—improving development velocity, code quality, and maintainability.</Text>
         </Document>
         <Document ID="81CBF1E0-E26C-43ED-9561-9121CA563006">
             <Title>Content</Title>
@@ -2302,6 +2413,12 @@ Assessment Master is a cloud-based, microservices-driven online assessment platf
         <Document ID="B99C094D-AF69-432A-B36A-E1A3F6D484E0">
             <Title>Australian Trading Bridge</Title>
             <Text>#  Full Stack Developer Australian Trading Bridge      Jan 2018 – Dec 2019</Text>
+        </Document>
+        <Document ID="BB3A36D5-44C8-40CB-9568-0799CBC160D5">
+            <Title>Content</Title>
+            <Text>	•	System Development: Built a full-stack product management and e-commerce platform using Laravel 5, aligning functionality with business and sales objectives.
+	•	Architecture &amp; Optimisation: Designed MySQL databases, improved performance by resolving technical issues, and implemented custom middleware for scalability.
+	•	UI &amp; Deployment: Created responsive Blade/Bootstrap interfaces and deployed through AWS EC2, Docker, and GitHub in an Agile/Scrum environment.</Text>
         </Document>
         <Document ID="C0028CAF-3C36-4A6A-A697-AAA9AA87656F">
             <Title>Content</Title>
@@ -2397,6 +2514,16 @@ Achievement: 100% for 2 major assignments and tutorial work for KXT309 Advanced 
             <Title>RM</Title>
             <Text>￼  Software Engineer RM PLC (LSE Listed- Code: RM) Oct 2021 – Jan 2025</Text>
         </Document>
+        <Document ID="AF356329-5039-4842-8E03-8BA5B44C2E2E">
+            <Text>Algorithm Design - ICILS Machine Marking (International Education Project):
+	•	Engineered a recursive algorithm to automate Blockly-based code evaluation for the ICILS international assessment, transforming manual review into a fully automated, scalable process.
+	•	Drove Angular front-end modernisation, introducing modular architecture and reusable components that boosted performance and maintainability.
+	•	Built data processing pipelines to auto-generate detailed scoring reports, cutting manual effort by over 70% and significantly improving assessment accuracy and turnaround time.</Text>
+        </Document>
+        <Document ID="2D56304B-17E1-48DF-8252-8ED5B6973E72">
+            <Title>FHL Group </Title>
+            <Text>FHL Group  IT support                                                   2016 – Jan 2018  </Text>
+        </Document>
         <Document ID="779E33C4-6F52-4FD5-AC9A-33CEB6C38B35">
             <Title>Content</Title>
         </Document>
@@ -2412,6 +2539,14 @@ reuse, and best practices to boost maintainability, scalability, and performance
             <Title>Key Achievements:
 </Title>
             <Text>Key Achievements:</Text>
+        </Document>
+        <Document ID="A57B43A6-258C-44FA-B512-CBA8CEEB5E9E">
+            <Title>Title</Title>
+            <Text>Ian Qiu
+￼
+University of Tasmania –  🎓 Bachelor (Hons) of Computing
+📞0467 239 975 ✉️ ian.dev.q@gmail.com 🔗LinkedIn Profile 🌐GitHub  
+</Text>
         </Document>
         <Document ID="9CC6B312-6C23-435B-A801-2B857CDEBDBD">
             <Title>Key Achievements:
@@ -2643,6 +2778,10 @@ Web and Integration  Developer ( Dec 2019 - Oct-2021)
 	•	Integrated Australia Post’s Parcel Collection service into the Styletread eCommerce ecosystem, enabling customers to select convenient pickup locations during checkout. Built end-to-end functionality across both the Next.js frontend and Magento backend
 	•	It is showcasing strong capability in delivering complex 3rd-party integrations and ensuring reliable data flow between UI, order management systems, and logistics APIs.</Text>
         </Document>
+        <Document ID="17474F5F-1FDB-4660-BCF9-7A7255AC4E7E">
+            <Title>Refrerence</Title>
+            <Text>Reference ￼</Text>
+        </Document>
         <Document ID="4A6AF56A-F976-4AF8-8F1B-EF126D2E7F5D">
             <Title>Content</Title>
             <Text>- E-commerce Development: Designed, developed, and deployed Shopify-based online stores, enhancing user experience and functionality.
@@ -2667,6 +2806,14 @@ Web and Integration  Developer ( Dec 2019 - Oct-2021)
         <Document ID="E1C12053-DBD6-43E6-9F5D-C2B810A9B78F">
             <Title>Australian Trading Bridge</Title>
             <Text>￼  Full Stack Developer Australian Trading Bridge      Jan 2018 – Dec 2019</Text>
+        </Document>
+        <Document ID="38A691DC-15FA-467B-9B7E-9555E7F06D39">
+            <Text>Lead Developer - PISA2025 (Programme for International Student Assessment):
+	•	Took ownership of the PISA2025 assessment platform, ensuring stability and delivery continuity for the OECD-Europe international education program.
+	•	Lead redevelopment and feature delivery under tight deadlines while managing stakeholder expectations and maintaining cross-regional communication.
+	•	Collaborated closely with non-technical OECD stakeholders and academic assessment teams to translate high-level assessment concepts, prototypes and feedback into clear technical requirements, development tasks and working product features.
+	•	Acted simultaneously as Project Manager, Analyst, and Lead Developer, collaborating with OECD clients to translate requirements into actionable development tasks. Led design, QA, and production delivery of WCAG-compliant modules built with React.js, TypeScript, PHP, Chart.js, and Blockly.
+	•	Successfully delivered two major platform modules on time and within scope, improving system stability and usability for global researchers, while earning formal recognition from OECD-Europe for leadership, quality, and client collaboration.</Text>
         </Document>
         <Document ID="B2970509-EFF9-4A66-A92F-B1F7BA08C9D0">
             <Title>Content</Title>
@@ -2711,6 +2858,11 @@ Achievement: 100% for 2 major assignments and tutorial work for KXT309 Advanced 
         </Document>
         <Document ID="3F050BD3-2458-43F6-96F0-CB12E1B424EB">
             <Title>Content</Title>
+        </Document>
+        <Document ID="5335C220-CDF1-4A97-8495-B9FF488771DB">
+            <Title>Key Achievements:
+</Title>
+            <Text>🚩 Key Achievements:</Text>
         </Document>
         <Document ID="F84C4500-8377-4B6B-9648-F1F29FCF825A">
             <Text>Skills &amp; Technologies: CSS, Web Scraper, JavaScript, CSS, Google Ads/Analytics, Third-Party API Integration,SEO, Responsive Design,Accessibility Standards (WCAG)
@@ -2796,8 +2948,12 @@ Warm regards, Ian Qiu
             <Title>Content</Title>
             <Text>	•	System Development: Built a full-stack product management and e-commerce platform using Laravel 5, aligning functionality with business and sales objectives.
 	•	Architecture &amp; Optimisation: Designed MySQL databases, improved performance by resolving technical issues, and implemented custom middleware for scalability.
-	•	UI &amp; Deployment: Created responsive Blade/Bootstrap interfaces and deployed through AWS EC2, Docker, and GitHub in an Agile/Scrum environment.
-</Text>
+	•	UI &amp; Deployment: Created responsive Blade/Bootstrap interfaces and deployed through AWS EC2, Docker, and GitHub in an Agile/Scrum environment.</Text>
+        </Document>
+        <Document ID="5EF0C6F3-C10A-4F9A-950D-25801538877E">
+            <Title>Experience
+</Title>
+            <Text>Experience ￼</Text>
         </Document>
         <Document ID="8B99270A-B821-442D-BE04-6B0ACFC93613">
             <Text>Built wholesale integration:
@@ -2842,6 +2998,10 @@ Academic Achievement: Received 100% in two major assignments and tutorial work f
             <Title>Key Responsibilities:</Title>
             <Text>Key Responsibilities:</Text>
         </Document>
+        <Document ID="DEF83CEB-D49A-4606-98DD-BC5BB58322A6">
+            <Title>RM</Title>
+            <Text>￼  Software Engineer RM PLC (LSE Listed- Code: RM) Oct 2021 – Jan 2025</Text>
+        </Document>
         <Document ID="7DF533AC-F5FC-4EFF-8E37-62CB2CF4937D">
             <Title>Content</Title>
             <Text>	•	Graduate Project: Developed a Career Hub showcase website for future students using HTML, CSS, jQuery, and a Content Management System.
@@ -2853,6 +3013,11 @@ Academic Achievement: Received 100% in two major assignments and tutorial work f
             <Text>Multi-Site Migration Project:
 - Contributed to the migration of major Munro Footwear Group brands, including Williamsshoes, Styletread, TheTrybe, and Mathers, from Classic Magento CMS to Next.js.
 - Improved site performance, scalability, and user experience across multiple domains.</Text>
+        </Document>
+        <Document ID="B3A7BED8-DCB8-450D-8D26-16E5EDD69081">
+            <Title>Key Achievements:
+</Title>
+            <Text>🚩 Key Achievements:</Text>
         </Document>
         <Document ID="9478942D-7E88-428F-8161-21510A74CCF6">
             <Title>Education</Title>
@@ -2890,6 +3055,12 @@ Projects</Text>
         <Document ID="259C152A-1675-45B1-9468-25EFA6F49EE1">
             <Title>Key Responsibilities:</Title>
             <Text>Key Responsibilities:</Text>
+        </Document>
+        <Document ID="82546D3D-74F4-4FE1-A2A3-544DF9F8A3F2">
+            <Title>Content</Title>
+            <Text>	•	E-Commerce Development: Designed, developed, and deployed Shopify and Neto online stores, delivering enhanced functionality and user experience.
+	•	API Integration &amp; Automation: Built and maintained seamless API connections for order processing, tracking, and partner integrations across Shopify, eBay, Neto, and AusPost, ensuring real-time data synchronisation.
+	•	SEO &amp; Data Management: Implemented SEO-optimised product pages with dynamic metadata and monitored data flow across platforms to maintain accurate order and tracking information.</Text>
         </Document>
         <Document ID="8CBB23E1-606D-4519-BDC0-021BAFF4CA52">
             <Text>Apple Pay Express Checkout
@@ -2940,11 +3111,12 @@ Claude Code · GitHub Copilot · ChatGPT (subscribed &amp; daily use)
         <Document ID="66ACEC4C-0532-47D6-939E-791B9F917944">
             <Title>Content</Title>
             <Text>	•	Full-stack e-commerce development: Delivered a high-performance Next.js + React (v19) front end with a headless Adobe Commerce (Magento) + MySQL platform as part of MFG’s microservices ecosystem. 
-	•	Agile Delivery &amp; Cross-Functional Collaboration: Worked closely with designers, product owners, QA, and cloud engineers to deliver features iteratively within agile sprints. Managed tasks, bugs, and release cycles using Jira with a strong focus on value-driven delivery.
 	•	Stakeholder communication: Collaborated with non-technical stakeholders to clarify high-level business ideas, translate requirements into feasible technical solutions, and communicate technical trade-offs clearly.	
+	•	Agile Delivery &amp; Cross-Functional Collaboration: Worked closely with designers, product owners, QA, and cloud engineers to deliver features iteratively within agile sprints. Managed tasks, bugs, and release cycles using Jira with a strong focus on value-driven delivery.
 	•	CI/CD pipeline optimisation: Supported and improved GitHub Actions workflows for automated build, testing and deployment of Next.js / React applications, helping improve release reliability, reduce manual deployment effort and maintain consistent delivery across multiple eCommerce brands.
+	•	Third-party system integration: Integrated external services and third-party APIs, including checkout, delivery, payment, product and marketing-related systems, into the headless eCommerce platform to support seamless customer and operational workflows.
 	•	AI-powered product recommendation plugin: Built an AI-assisted shoe recommendation plugin that converted CMS content into vector embeddings, enabling semantic search and personalised shoe suggestions based on occasion, function and customer needs.	
-	•	AI-Assisted Engineering Workflow: Leverage AI tools (ChatGPT/Copilot/Claude) to refactor legacy modules, validate design decisions against industry best practices, generate test cases, and optimise implementation patterns—improving development velocity, code quality, and maintainability.</Text>
+	•	AI-Assisted Engineering Workflow: Leverage AI tools (ChatGPT/Copilot/Claude) to refactor legacy modules, validate design decisions against industry best practices, and optimise implementation patterns—improving development velocity, code quality, and maintainability.</Text>
         </Document>
         <Document ID="09C924FD-3EA8-4C6D-A3DF-C321EFD40668">
             <Title>Content</Title>
@@ -3134,6 +3306,15 @@ Academic Achievement: Received 100% in two major assignments and tutorial work f
         <Document ID="E4DDD641-C35E-4862-AAFD-372DE6F2AA90">
             <Title>Career Objective</Title>
         </Document>
+        <Document ID="D3AEAE89-DFAA-4E0C-8C8D-CAC65FB3A6F6">
+            <Title>Content</Title>
+            <Text>	•	Full-Stack SaaS Development: Designed and delivered end-to-end solutions across front-end, back-end, and database layers, including API design, data processing, and UI/UX development with optimised PostgreSQL queries for performance and scalability.
+	•	Stakeholder communication: Collaborated with non-technical international stakeholders to turn high-level assessment ideas into clear requirements, technical solutions and working product features.
+	•	System Migration &amp; Architecture: Contributed to the transformation of a PHP monolith into a modern microservices architecture, designing services in both C# .NET Core and Node.js and selecting the optimal runtime for each workload, from lightweight API endpoints to background processing tasks.
+	•	CI/CD pipeline optimisation: Maintained and optimised Azure DevOps CI/CD pipelines for SaaS platform delivery, including automated build validation, unit test execution and deployment controls to improve release quality and reduce regression risks across development, staging and production environments.
+	•	Accessibility: Ensured WCAG 2.0–2.2 compliance for all the projects
+	•	Mentorship: Mentored junior developers in Angular, Node.js and coding best practices, supporting code quality, knowledge sharing and stronger development capability across the team.</Text>
+        </Document>
         <Document ID="E0962C4F-CF6F-4BF7-9539-B871A7829134">
             <Title>Refrerence</Title>
             <Text>——————————————————————————————————————————————————————————————————————————————
@@ -3145,9 +3326,9 @@ Reference</Text>
 	•	System integration &amp; optimisation: Implement and maintain integrations between Infor M3 ERP and Magento via AWS Lambda and API Gateway, enhancing data synchronisation, scalability, and overall site performance through best-practice front-end architecture.
 	•	Technical leadership &amp; collaboration: Partner with UX, DevOps, and global teams to deliver Agile sprints through CI/CD pipelines, mentor developers in coding standards, and continuously improve MFG’s digital commerce capabilities.</Text>
         </Document>
-        <Document ID="A4853FA1-2E9B-48CC-9463-140DD50A81CC">
-            <Title>Key Responsibilities:</Title>
-            <Text>Key Responsibilities:</Text>
+        <Document ID="6A6C5E0A-2A7F-472B-8623-0EFF9FD0776B">
+            <Title>Refrerence</Title>
+            <Text>Reference #</Text>
         </Document>
     </Documents>
 </SearchIndexes>

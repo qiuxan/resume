@@ -58,8 +58,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {265, 1354}}</string>
-		<string>{{266, 0}, {2294, 1354}}</string>
+		<string>{{0, 0}, {265, 1286}}</string>
+		<string>{{266, 0}, {2294, 1286}}</string>
 	</array>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
@@ -69,6 +69,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>01180B5B-9EF7-4B6E-9A11-2BB8937B60C7</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>03EF9175-A1D3-4BC2-ABD6-147EC508B86A</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -144,6 +149,16 @@
 			<integer>-1</integer>
 		</dict>
 		<key>1CF297A1-D326-4273-9B61-C57AF5E8A220</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>1D8201AD-F0A2-4974-9CF8-C15EF6714ED6</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>1F6B8F87-2306-4DBD-BCA0-E99EB1980ED5</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -228,6 +243,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>2AE5A306-6D07-443A-B9DB-FF5A19C79820</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>2B4C4EBD-4866-44B0-B6FC-2C231AA68420</key>
 		<dict>
 			<key>Row</key>
@@ -249,6 +269,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>2E7F8F6D-AB8B-4E7C-B01E-0C26B96CAE90</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>2E97C916-D03C-4035-A865-33B3C771A3BA</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -299,6 +324,21 @@
 			<integer>-1</integer>
 		</dict>
 		<key>366E05BA-E271-4573-99F6-3F01D6D38532</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>384C4624-2F9A-4B59-890F-B6A05BFC80A2</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>387AE7FA-E300-47BE-92FE-16966950B5DC</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>38A691DC-15FA-467B-9B7E-9555E7F06D39</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -383,6 +423,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>4A9394CF-CDEE-4836-86F7-E4E56DF22F6B</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>4B58C151-8942-4466-9162-C33D8517BE7F</key>
 		<dict>
 			<key>Row</key>
@@ -463,6 +508,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>57BC2B88-67BF-40BD-A0DF-5F0D4052C2DF</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>57DC135F-D7FA-433E-9E5D-C34219C1A136</key>
 		<dict>
 			<key>Row</key>
@@ -488,7 +538,17 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>5BD95FDE-BFBF-42B2-B4FD-91C51D86762F</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>5CBC6E38-C6CF-443F-BF43-C2E2BE00B460</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>5EF0C6F3-C10A-4F9A-950D-25801538877E</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -803,6 +863,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>B5AFF4F7-1AE5-4311-B2BA-5AB9E9538018</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>B80E39D8-F98A-4A7F-934E-70245ED98703</key>
 		<dict>
 			<key>Row</key>
@@ -995,6 +1060,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>E363E8F2-6304-446F-85BB-BA77D2AF9DF8</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>E386DDBA-B26A-46A6-A242-BEAC51596989</key>
 		<dict>
 			<key>Row</key>
@@ -1130,6 +1200,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>FC181170-9ADD-44C9-A622-9304DF7D2751</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>FCBF16C7-F507-4BBE-84E7-0EBFA7D48DFB</key>
 		<dict>
 			<key>Row</key>
@@ -1169,7 +1244,7 @@
 	</dict>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {512, 1262}}</string>
+		<string>{{0, 0}, {512, 1344}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>248</real>
@@ -1181,21 +1256,21 @@
 		<real>1</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{-1, 0}, {621, 290}}</string>
+	<string>{{0, 0}, {606, 290}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>-2542 25 2560 1382 -2560 0 2560 1415 </string>
+	<string>0 101 2560 1314 0 0 2560 1415 </string>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{-726.36363636363637, 0}, {2071.818181818182, 1149.090909090909}}</string>
+	<string>{{-726.36363636363637, 23.636363636363637}, {2071.818181818182, 1087.272727272727}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
