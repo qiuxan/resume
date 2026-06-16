@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="C22900CE-915A-443A-A3E8-5338939A517D" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="XIANs-MacBook-Pro" Author="" Modified="2026-06-11 09:45:04 +1000" ModID="BA6F037A-726A-4D48-BDF1-D88656DC87DA">
+<ScrivenerProject Identifier="C22900CE-915A-443A-A3E8-5338939A517D" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="XIANs-MacBook-Pro" Author="" Modified="2026-06-17 08:57:28 +1000" ModID="1388B97C-F23E-441E-80F2-81353838F7E8">
     <Binder>
         <BinderItem UUID="E300FB67-65E1-4397-8C36-50DDC812EC52" Type="Folder" Created="2025-10-20 20:42:58 +1100" Modified="2026-02-24 10:46:27 +1100">
             <Title>FE-dev</Title>
@@ -1581,7 +1581,7 @@
                                                 <TextSelection>754,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="7B33C388-6B24-4613-800F-C218FD29F6BE" Type="Text" Created="2025-10-24 07:25:28 +1100" Modified="2026-05-19 10:34:31 +1000">
+                                        <BinderItem UUID="7B33C388-6B24-4613-800F-C218FD29F6BE" Type="Text" Created="2025-10-24 07:25:28 +1100" Modified="2026-06-17 08:56:42 +1000">
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
@@ -6709,14 +6709,14 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2025-10-20 20:42:57 +1100" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2026-06-12 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-06-11 09:20:48 +1000"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2026-06-18 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2026-06-17 08:56:28 +1000"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-06-11 00:00:00 +1000">
+    <RecentWritingHistory Date="2026-06-17 00:00:00 +1000">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>56</OtherWordCount>
-        <OtherCharCount>454</OtherCharCount>
+        <OtherWordCount>-5</OtherWordCount>
+        <OtherCharCount>-23</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.275546,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
