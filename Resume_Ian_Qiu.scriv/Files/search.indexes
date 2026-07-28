@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="CF0B5E95-ACA1-4C1E-A871-2F54EEFF5B79">
+        <Document ID="D3AEAE89-DFAA-4E0C-8C8D-CAC65FB3A6F6">
             <Title>Content</Title>
-            <Text>	•	Full-stack e-commerce development: Design, build, and optimise large-scale web platforms using React, Next.js, and a headless Adobe Commerce (Magento) backend, delivering high-performance, accessible, and SEO-optimised user experiences.
-	•	System integration &amp; optimisation: Implement and maintain integrations between Infor M3 ERP and Magento via AWS Lambda and API Gateway, enhancing data synchronisation, scalability, and overall site performance through best-practice front-end architecture.
-	•	Technical leadership &amp; collaboration: Partner with UX, DevOps, and global teams to deliver Agile sprints through CI/CD pipelines, mentor developers in coding standards, and continuously improve MFG’s digital commerce capabilities.</Text>
+            <Text>	•	Full-Stack SaaS Development: Designed and delivered end-to-end solutions across front-end, back-end, and database layers, including API design, data processing, and UI/UX development with optimised PostgreSQL queries for performance and scalability.
+	•	Stakeholder communication: Collaborated with non-technical international stakeholders to turn high-level assessment ideas into clear requirements, technical solutions and working product features.
+	•	System Migration &amp; Architecture: Contributed to the transformation of a PHP monolith into a modern microservices architecture, designing services in both C# .NET Core and Node.js and selecting the optimal runtime for each workload, from lightweight API endpoints to background processing tasks.
+	•	CI/CD pipeline optimisation: Maintained and optimised Azure DevOps CI/CD pipelines for SaaS platform delivery, including automated build validation, unit test execution and deployment controls to improve release quality and reduce regression risks across development, staging and production environments.
+	•	Accessibility: Ensured WCAG 2.0–2.2 compliance for all the projects
+	•	Mentorship: Mentored junior developers in Angular, Node.js and coding best practices, supporting code quality, knowledge sharing and stronger development capability across the team.</Text>
         </Document>
-        <Document ID="A4853FA1-2E9B-48CC-9463-140DD50A81CC">
-            <Title>Key Responsibilities:</Title>
-            <Text>Key Responsibilities:</Text>
+        <Document ID="6A6C5E0A-2A7F-472B-8623-0EFF9FD0776B">
+            <Title>Refrerence</Title>
+            <Text>Reference #</Text>
         </Document>
         <Document ID="4EE7DE23-932E-42C3-9215-956B30C988FC">
             <Title>Content</Title>
@@ -1665,7 +1668,8 @@ Passionate about AI-driven innovation, cloud-native architecture and building fu
 	•	System Migration &amp; Architecture: Contributed to the transformation of a PHP monolith into a modern microservices architecture, designing services in both C# .NET Core and Node.js and selecting the optimal runtime for each workload, from lightweight API endpoints to background processing tasks.
 	•	CI/CD pipeline optimisation: Maintained and optimised Azure DevOps CI/CD pipelines for SaaS platform delivery, including automated build validation, unit test execution and deployment controls to improve release quality and reduce regression risks across development, staging and production environments.
 	•	Accessibility: Ensured WCAG 2.0–2.2 compliance for all the projects
-	•	Mentorship: Mentored junior developers in Angular, Node.js and coding best practices, supporting code quality, knowledge sharing and stronger development capability across the team.</Text>
+	•	AI-Assisted Engineering Workflow: Used ChatGPT, GitHub Copilot and Claude Code to support legacy code analysis, debugging, refactoring and implementation planning across PHP, Angular, Node.js and .NET projects.
+	•	Mentorship: Mentored junior developers in Angular, Node.js and coding best practices, supporting code quality, knowledge sharing and stronger development across the team.</Text>
         </Document>
         <Document ID="7EAF1854-46DE-4FF2-B9AA-BE4941FA9F5A">
             <Title>AI Solution Engineer </Title>
@@ -2559,7 +2563,7 @@ Assessment Master is a cloud-based, microservices-driven online assessment platf
         </Document>
         <Document ID="7B33C388-6B24-4613-800F-C218FD29F6BE">
             <Text>Test-Driven Development (TDD) Leadership:
-	•	Implementing automated testing frameworks and coding standards that cut defects by 40% and improved release reliability and team productivity.</Text>
+	•	Implementing automated testing frameworks and coding standards that improved release reliability and team productivity.</Text>
         </Document>
         <Document ID="C0028CAF-3C36-4A6A-A697-AAA9AA87656F">
             <Title>Content</Title>
@@ -2993,6 +2997,10 @@ Recognised for cross-functional collaboration, technical ownership, and mentorin
 	•	Implemented Express Checkout across both product and cart pages within the Magento–Next.js ecosystem, demonstrating strong capability in integrating complex 3rd-party vendor solutions
 	•	Ensured PCI-compliant, secure payment flows and delivered measurable UX improvements, reducing checkout time, lowering cart abandonment, and increasing overall conversion rates.</Text>
         </Document>
+        <Document ID="D62E944A-0DD4-4E81-B789-11BD3E55AD1F">
+            <Title>page-break</Title>
+            <Text></Text>
+        </Document>
         <Document ID="A13F3101-C6E2-42B0-8F35-FEDBDF546B92">
             <Title>Content</Title>
             <Text>- Graduate Project: Develop a showcase website for the Career Hub of UTAS for future students (HTML+CSS, jQuery, Content Management System);
@@ -3402,7 +3410,7 @@ University of Tasmania –  🎓 Bachelor (Hons) of Computing
         </Document>
         <Document ID="15A505DA-A807-4636-8758-65F1053DC3BF">
             <Title>Muron</Title>
-            <Text>￼  Full Stack Developer  Munro Footwear Group       Jan 2025 – Current</Text>
+            <Text>#  Full Stack Developer  Munro Footwear Group       Jan 2025 – Feb 2026</Text>
         </Document>
         <Document ID="10093C47-3CF1-4C5F-9F00-6C62F8FBE863">
             <Title>Content</Title>
@@ -3508,18 +3516,15 @@ Academic Achievement: Received 100% in two major assignments and tutorial work f
             <Text>——————————————————————————————————————————————————————————————————————————————
 Reference</Text>
         </Document>
-        <Document ID="D3AEAE89-DFAA-4E0C-8C8D-CAC65FB3A6F6">
+        <Document ID="CF0B5E95-ACA1-4C1E-A871-2F54EEFF5B79">
             <Title>Content</Title>
-            <Text>	•	Full-Stack SaaS Development: Designed and delivered end-to-end solutions across front-end, back-end, and database layers, including API design, data processing, and UI/UX development with optimised PostgreSQL queries for performance and scalability.
-	•	Stakeholder communication: Collaborated with non-technical international stakeholders to turn high-level assessment ideas into clear requirements, technical solutions and working product features.
-	•	System Migration &amp; Architecture: Contributed to the transformation of a PHP monolith into a modern microservices architecture, designing services in both C# .NET Core and Node.js and selecting the optimal runtime for each workload, from lightweight API endpoints to background processing tasks.
-	•	CI/CD pipeline optimisation: Maintained and optimised Azure DevOps CI/CD pipelines for SaaS platform delivery, including automated build validation, unit test execution and deployment controls to improve release quality and reduce regression risks across development, staging and production environments.
-	•	Accessibility: Ensured WCAG 2.0–2.2 compliance for all the projects
-	•	Mentorship: Mentored junior developers in Angular, Node.js and coding best practices, supporting code quality, knowledge sharing and stronger development capability across the team.</Text>
+            <Text>	•	Full-stack e-commerce development: Design, build, and optimise large-scale web platforms using React, Next.js, and a headless Adobe Commerce (Magento) backend, delivering high-performance, accessible, and SEO-optimised user experiences.
+	•	System integration &amp; optimisation: Implement and maintain integrations between Infor M3 ERP and Magento via AWS Lambda and API Gateway, enhancing data synchronisation, scalability, and overall site performance through best-practice front-end architecture.
+	•	Technical leadership &amp; collaboration: Partner with UX, DevOps, and global teams to deliver Agile sprints through CI/CD pipelines, mentor developers in coding standards, and continuously improve MFG’s digital commerce capabilities.</Text>
         </Document>
-        <Document ID="6A6C5E0A-2A7F-472B-8623-0EFF9FD0776B">
-            <Title>Refrerence</Title>
-            <Text>Reference #</Text>
+        <Document ID="A4853FA1-2E9B-48CC-9463-140DD50A81CC">
+            <Title>Key Responsibilities:</Title>
+            <Text>Key Responsibilities:</Text>
         </Document>
     </Documents>
 </SearchIndexes>
